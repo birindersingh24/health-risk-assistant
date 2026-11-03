@@ -1,0 +1,1900 @@
+observation_id,patient_id,effective_date,loinc_code,display,value,unit
+OBS-00001,P001,2023-10-08,8480-6,Systolic blood pressure,118,mm[Hg]
+OBS-00002,P001,2023-10-08,8462-4,Diastolic blood pressure,77,mm[Hg]
+OBS-00003,P001,2023-10-08,39156-5,Body mass index,29.0,kg/m2
+OBS-00004,P001,2023-10-08,98979-8,eGFR (CKD-EPI 2021),92,mL/min/1.73m2
+OBS-00005,P001,2024-04-25,8480-6,Systolic blood pressure,118,mm[Hg]
+OBS-00006,P001,2024-04-25,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-00007,P001,2024-04-25,39156-5,Body mass index,29.0,kg/m2
+OBS-00008,P001,2024-04-25,4548-4,Hemoglobin A1c,5.1,%
+OBS-00009,P001,2024-04-25,1558-6,Fasting glucose,83,mg/dL
+OBS-00010,P001,2024-04-25,2093-3,Total cholesterol,192,mg/dL
+OBS-00011,P001,2024-04-25,2085-9,HDL cholesterol,45,mg/dL
+OBS-00012,P001,2024-04-25,13457-7,LDL cholesterol (calculated),126,mg/dL
+OBS-00013,P001,2024-10-16,8480-6,Systolic blood pressure,114,mm[Hg]
+OBS-00014,P001,2024-10-16,8462-4,Diastolic blood pressure,75,mm[Hg]
+OBS-00015,P001,2024-10-16,39156-5,Body mass index,29.1,kg/m2
+OBS-00016,P001,2024-10-16,98979-8,eGFR (CKD-EPI 2021),91,mL/min/1.73m2
+OBS-00017,P001,2024-10-16,9318-7,Urine albumin/creatinine ratio,18,mg/g
+OBS-00018,P001,2025-04-27,8480-6,Systolic blood pressure,118,mm[Hg]
+OBS-00019,P001,2025-04-27,8462-4,Diastolic blood pressure,74,mm[Hg]
+OBS-00020,P001,2025-04-27,39156-5,Body mass index,29.1,kg/m2
+OBS-00021,P001,2025-10-13,8480-6,Systolic blood pressure,113,mm[Hg]
+OBS-00022,P001,2025-10-13,8462-4,Diastolic blood pressure,71,mm[Hg]
+OBS-00023,P001,2025-10-13,39156-5,Body mass index,29.1,kg/m2
+OBS-00024,P001,2025-10-13,98979-8,eGFR (CKD-EPI 2021),90,mL/min/1.73m2
+OBS-00025,P001,2026-04-21,8480-6,Systolic blood pressure,120,mm[Hg]
+OBS-00026,P001,2026-04-21,8462-4,Diastolic blood pressure,77,mm[Hg]
+OBS-00027,P001,2026-04-21,39156-5,Body mass index,29.2,kg/m2
+OBS-00028,P001,2026-04-21,4548-4,Hemoglobin A1c,5.2,%
+OBS-00029,P001,2026-04-21,1558-6,Fasting glucose,83,mg/dL
+OBS-00030,P001,2026-04-21,2093-3,Total cholesterol,197,mg/dL
+OBS-00031,P001,2026-04-21,2085-9,HDL cholesterol,45,mg/dL
+OBS-00032,P001,2026-04-21,13457-7,LDL cholesterol (calculated),111,mg/dL
+OBS-00033,P001,2026-10-15,8480-6,Systolic blood pressure,118,mm[Hg]
+OBS-00034,P001,2026-10-15,8462-4,Diastolic blood pressure,77,mm[Hg]
+OBS-00035,P001,2026-10-15,39156-5,Body mass index,29.2,kg/m2
+OBS-00036,P001,2026-10-15,98979-8,eGFR (CKD-EPI 2021),89,mL/min/1.73m2
+OBS-00037,P001,2026-10-15,9318-7,Urine albumin/creatinine ratio,10,mg/g
+OBS-00038,P002,2023-10-29,8480-6,Systolic blood pressure,115,mm[Hg]
+OBS-00039,P002,2023-10-29,8462-4,Diastolic blood pressure,68,mm[Hg]
+OBS-00040,P002,2023-10-29,39156-5,Body mass index,32.8,kg/m2
+OBS-00041,P002,2023-10-29,98979-8,eGFR (CKD-EPI 2021),76,mL/min/1.73m2
+OBS-00042,P002,2024-04-19,8480-6,Systolic blood pressure,117,mm[Hg]
+OBS-00043,P002,2024-04-19,8462-4,Diastolic blood pressure,68,mm[Hg]
+OBS-00044,P002,2024-04-19,39156-5,Body mass index,32.8,kg/m2
+OBS-00045,P002,2024-04-19,4548-4,Hemoglobin A1c,5.4,%
+OBS-00046,P002,2024-04-19,1558-6,Fasting glucose,96,mg/dL
+OBS-00047,P002,2024-04-19,2093-3,Total cholesterol,190,mg/dL
+OBS-00048,P002,2024-04-19,2085-9,HDL cholesterol,61,mg/dL
+OBS-00049,P002,2024-04-19,13457-7,LDL cholesterol (calculated),105,mg/dL
+OBS-00050,P002,2024-10-07,8480-6,Systolic blood pressure,114,mm[Hg]
+OBS-00051,P002,2024-10-07,8462-4,Diastolic blood pressure,67,mm[Hg]
+OBS-00052,P002,2024-10-07,39156-5,Body mass index,32.9,kg/m2
+OBS-00053,P002,2024-10-07,98979-8,eGFR (CKD-EPI 2021),75,mL/min/1.73m2
+OBS-00054,P002,2024-10-07,9318-7,Urine albumin/creatinine ratio,23,mg/g
+OBS-00055,P002,2025-04-21,8480-6,Systolic blood pressure,113,mm[Hg]
+OBS-00056,P002,2025-04-21,8462-4,Diastolic blood pressure,68,mm[Hg]
+OBS-00057,P002,2025-04-21,39156-5,Body mass index,32.9,kg/m2
+OBS-00058,P002,2025-10-08,8480-6,Systolic blood pressure,115,mm[Hg]
+OBS-00059,P002,2025-10-08,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-00060,P002,2025-10-08,39156-5,Body mass index,32.9,kg/m2
+OBS-00061,P002,2025-10-08,98979-8,eGFR (CKD-EPI 2021),74,mL/min/1.73m2
+OBS-00062,P002,2026-04-12,8480-6,Systolic blood pressure,116,mm[Hg]
+OBS-00063,P002,2026-04-12,8462-4,Diastolic blood pressure,71,mm[Hg]
+OBS-00064,P002,2026-04-12,39156-5,Body mass index,33.0,kg/m2
+OBS-00065,P002,2026-04-12,4548-4,Hemoglobin A1c,5.3,%
+OBS-00066,P002,2026-04-12,1558-6,Fasting glucose,95,mg/dL
+OBS-00067,P002,2026-04-12,2093-3,Total cholesterol,188,mg/dL
+OBS-00068,P002,2026-04-12,2085-9,HDL cholesterol,61,mg/dL
+OBS-00069,P002,2026-04-12,13457-7,LDL cholesterol (calculated),116,mg/dL
+OBS-00070,P002,2026-10-26,8480-6,Systolic blood pressure,113,mm[Hg]
+OBS-00071,P002,2026-10-26,8462-4,Diastolic blood pressure,73,mm[Hg]
+OBS-00072,P002,2026-10-26,39156-5,Body mass index,33.0,kg/m2
+OBS-00073,P002,2026-10-26,98979-8,eGFR (CKD-EPI 2021),73,mL/min/1.73m2
+OBS-00074,P002,2026-10-26,9318-7,Urine albumin/creatinine ratio,7,mg/g
+OBS-00075,P003,2023-10-22,8480-6,Systolic blood pressure,112,mm[Hg]
+OBS-00076,P003,2023-10-22,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-00077,P003,2023-10-22,39156-5,Body mass index,22.3,kg/m2
+OBS-00078,P003,2023-10-22,98979-8,eGFR (CKD-EPI 2021),104,mL/min/1.73m2
+OBS-00079,P003,2024-04-22,8480-6,Systolic blood pressure,110,mm[Hg]
+OBS-00080,P003,2024-04-22,8462-4,Diastolic blood pressure,70,mm[Hg]
+OBS-00081,P003,2024-04-22,39156-5,Body mass index,22.3,kg/m2
+OBS-00082,P003,2024-04-22,4548-4,Hemoglobin A1c,5.1,%
+OBS-00083,P003,2024-04-22,1558-6,Fasting glucose,84,mg/dL
+OBS-00084,P003,2024-04-22,2093-3,Total cholesterol,178,mg/dL
+OBS-00085,P003,2024-04-22,2085-9,HDL cholesterol,62,mg/dL
+OBS-00086,P003,2024-04-22,13457-7,LDL cholesterol (calculated),96,mg/dL
+OBS-00087,P003,2024-10-21,8480-6,Systolic blood pressure,114,mm[Hg]
+OBS-00088,P003,2024-10-21,8462-4,Diastolic blood pressure,74,mm[Hg]
+OBS-00089,P003,2024-10-21,39156-5,Body mass index,22.4,kg/m2
+OBS-00090,P003,2024-10-21,98979-8,eGFR (CKD-EPI 2021),102,mL/min/1.73m2
+OBS-00091,P003,2025-04-22,8480-6,Systolic blood pressure,108,mm[Hg]
+OBS-00092,P003,2025-04-22,8462-4,Diastolic blood pressure,68,mm[Hg]
+OBS-00093,P003,2025-04-22,39156-5,Body mass index,22.4,kg/m2
+OBS-00094,P003,2025-10-22,8480-6,Systolic blood pressure,112,mm[Hg]
+OBS-00095,P003,2025-10-22,8462-4,Diastolic blood pressure,71,mm[Hg]
+OBS-00096,P003,2025-10-22,39156-5,Body mass index,22.4,kg/m2
+OBS-00097,P003,2025-10-22,98979-8,eGFR (CKD-EPI 2021),101,mL/min/1.73m2
+OBS-00098,P003,2026-04-22,8480-6,Systolic blood pressure,110,mm[Hg]
+OBS-00099,P003,2026-04-22,8462-4,Diastolic blood pressure,70,mm[Hg]
+OBS-00100,P003,2026-04-22,39156-5,Body mass index,22.5,kg/m2
+OBS-00101,P003,2026-04-22,4548-4,Hemoglobin A1c,5.2,%
+OBS-00102,P003,2026-04-22,1558-6,Fasting glucose,86,mg/dL
+OBS-00103,P003,2026-04-22,2093-3,Total cholesterol,182,mg/dL
+OBS-00104,P003,2026-04-22,2085-9,HDL cholesterol,64,mg/dL
+OBS-00105,P003,2026-04-22,13457-7,LDL cholesterol (calculated),98,mg/dL
+OBS-00106,P003,2026-10-22,8480-6,Systolic blood pressure,113,mm[Hg]
+OBS-00107,P003,2026-10-22,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-00108,P003,2026-10-22,39156-5,Body mass index,22.5,kg/m2
+OBS-00109,P003,2026-10-22,98979-8,eGFR (CKD-EPI 2021),103,mL/min/1.73m2
+OBS-00110,P004,2023-10-22,8480-6,Systolic blood pressure,112,mm[Hg]
+OBS-00111,P004,2023-10-22,8462-4,Diastolic blood pressure,70,mm[Hg]
+OBS-00112,P004,2023-10-22,39156-5,Body mass index,23.1,kg/m2
+OBS-00113,P004,2023-10-22,98979-8,eGFR (CKD-EPI 2021),92,mL/min/1.73m2
+OBS-00114,P004,2024-04-11,8480-6,Systolic blood pressure,110,mm[Hg]
+OBS-00115,P004,2024-04-11,8462-4,Diastolic blood pressure,66,mm[Hg]
+OBS-00116,P004,2024-04-11,39156-5,Body mass index,23.1,kg/m2
+OBS-00117,P004,2024-04-11,4548-4,Hemoglobin A1c,5.1,%
+OBS-00118,P004,2024-04-11,1558-6,Fasting glucose,91,mg/dL
+OBS-00119,P004,2024-04-11,2093-3,Total cholesterol,217,mg/dL
+OBS-00120,P004,2024-04-11,2085-9,HDL cholesterol,53,mg/dL
+OBS-00121,P004,2024-04-11,13457-7,LDL cholesterol (calculated),149,mg/dL
+OBS-00122,P004,2024-10-18,8480-6,Systolic blood pressure,107,mm[Hg]
+OBS-00123,P004,2024-10-18,8462-4,Diastolic blood pressure,65,mm[Hg]
+OBS-00124,P004,2024-10-18,39156-5,Body mass index,23.2,kg/m2
+OBS-00125,P004,2024-10-18,98979-8,eGFR (CKD-EPI 2021),91,mL/min/1.73m2
+OBS-00126,P004,2025-04-08,8480-6,Systolic blood pressure,112,mm[Hg]
+OBS-00127,P004,2025-04-08,8462-4,Diastolic blood pressure,70,mm[Hg]
+OBS-00128,P004,2025-04-08,39156-5,Body mass index,23.2,kg/m2
+OBS-00129,P004,2025-10-27,8480-6,Systolic blood pressure,110,mm[Hg]
+OBS-00130,P004,2025-10-27,8462-4,Diastolic blood pressure,66,mm[Hg]
+OBS-00131,P004,2025-10-27,39156-5,Body mass index,23.2,kg/m2
+OBS-00132,P004,2025-10-27,98979-8,eGFR (CKD-EPI 2021),90,mL/min/1.73m2
+OBS-00133,P004,2026-04-14,8480-6,Systolic blood pressure,110,mm[Hg]
+OBS-00134,P004,2026-04-14,8462-4,Diastolic blood pressure,65,mm[Hg]
+OBS-00135,P004,2026-04-14,39156-5,Body mass index,23.3,kg/m2
+OBS-00136,P004,2026-04-14,4548-4,Hemoglobin A1c,5.2,%
+OBS-00137,P004,2026-04-14,1558-6,Fasting glucose,87,mg/dL
+OBS-00138,P004,2026-04-14,2093-3,Total cholesterol,216,mg/dL
+OBS-00139,P004,2026-04-14,2085-9,HDL cholesterol,53,mg/dL
+OBS-00140,P004,2026-04-14,13457-7,LDL cholesterol (calculated),140,mg/dL
+OBS-00141,P004,2026-10-26,8480-6,Systolic blood pressure,112,mm[Hg]
+OBS-00142,P004,2026-10-26,8462-4,Diastolic blood pressure,69,mm[Hg]
+OBS-00143,P004,2026-10-26,39156-5,Body mass index,23.3,kg/m2
+OBS-00144,P004,2026-10-26,98979-8,eGFR (CKD-EPI 2021),89,mL/min/1.73m2
+OBS-00145,P005,2023-10-19,8480-6,Systolic blood pressure,126,mm[Hg]
+OBS-00146,P005,2023-10-19,8462-4,Diastolic blood pressure,71,mm[Hg]
+OBS-00147,P005,2023-10-19,39156-5,Body mass index,21.5,kg/m2
+OBS-00148,P005,2023-10-19,98979-8,eGFR (CKD-EPI 2021),94,mL/min/1.73m2
+OBS-00149,P005,2024-04-23,8480-6,Systolic blood pressure,122,mm[Hg]
+OBS-00150,P005,2024-04-23,8462-4,Diastolic blood pressure,71,mm[Hg]
+OBS-00151,P005,2024-04-23,39156-5,Body mass index,21.5,kg/m2
+OBS-00152,P005,2024-04-23,4548-4,Hemoglobin A1c,5.0,%
+OBS-00153,P005,2024-04-23,1558-6,Fasting glucose,90,mg/dL
+OBS-00154,P005,2024-04-23,2093-3,Total cholesterol,169,mg/dL
+OBS-00155,P005,2024-04-23,2085-9,HDL cholesterol,46,mg/dL
+OBS-00156,P005,2024-04-23,13457-7,LDL cholesterol (calculated),89,mg/dL
+OBS-00157,P005,2024-10-13,8480-6,Systolic blood pressure,124,mm[Hg]
+OBS-00158,P005,2024-10-13,8462-4,Diastolic blood pressure,75,mm[Hg]
+OBS-00159,P005,2024-10-13,39156-5,Body mass index,21.6,kg/m2
+OBS-00160,P005,2024-10-13,98979-8,eGFR (CKD-EPI 2021),93,mL/min/1.73m2
+OBS-00161,P005,2024-10-13,9318-7,Urine albumin/creatinine ratio,21,mg/g
+OBS-00162,P005,2025-04-29,8480-6,Systolic blood pressure,118,mm[Hg]
+OBS-00163,P005,2025-04-29,8462-4,Diastolic blood pressure,74,mm[Hg]
+OBS-00164,P005,2025-04-29,39156-5,Body mass index,21.6,kg/m2
+OBS-00165,P005,2025-10-08,8480-6,Systolic blood pressure,119,mm[Hg]
+OBS-00166,P005,2025-10-08,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-00167,P005,2025-10-08,39156-5,Body mass index,21.6,kg/m2
+OBS-00168,P005,2025-10-08,98979-8,eGFR (CKD-EPI 2021),92,mL/min/1.73m2
+OBS-00169,P005,2026-04-17,8480-6,Systolic blood pressure,125,mm[Hg]
+OBS-00170,P005,2026-04-17,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-00171,P005,2026-04-17,39156-5,Body mass index,21.7,kg/m2
+OBS-00172,P005,2026-04-17,4548-4,Hemoglobin A1c,5.0,%
+OBS-00173,P005,2026-04-17,1558-6,Fasting glucose,91,mg/dL
+OBS-00174,P005,2026-04-17,2093-3,Total cholesterol,166,mg/dL
+OBS-00175,P005,2026-04-17,2085-9,HDL cholesterol,46,mg/dL
+OBS-00176,P005,2026-04-17,13457-7,LDL cholesterol (calculated),96,mg/dL
+OBS-00177,P005,2026-10-21,8480-6,Systolic blood pressure,125,mm[Hg]
+OBS-00178,P005,2026-10-21,8462-4,Diastolic blood pressure,75,mm[Hg]
+OBS-00179,P005,2026-10-21,39156-5,Body mass index,21.7,kg/m2
+OBS-00180,P005,2026-10-21,98979-8,eGFR (CKD-EPI 2021),91,mL/min/1.73m2
+OBS-00181,P005,2026-10-21,9318-7,Urine albumin/creatinine ratio,6,mg/g
+OBS-00182,P006,2023-10-25,8480-6,Systolic blood pressure,120,mm[Hg]
+OBS-00183,P006,2023-10-25,8462-4,Diastolic blood pressure,70,mm[Hg]
+OBS-00184,P006,2023-10-25,39156-5,Body mass index,22.7,kg/m2
+OBS-00185,P006,2023-10-25,98979-8,eGFR (CKD-EPI 2021),86,mL/min/1.73m2
+OBS-00186,P006,2024-04-24,8480-6,Systolic blood pressure,122,mm[Hg]
+OBS-00187,P006,2024-04-24,8462-4,Diastolic blood pressure,71,mm[Hg]
+OBS-00188,P006,2024-04-24,39156-5,Body mass index,22.7,kg/m2
+OBS-00189,P006,2024-04-24,4548-4,Hemoglobin A1c,5.0,%
+OBS-00190,P006,2024-04-24,1558-6,Fasting glucose,83,mg/dL
+OBS-00191,P006,2024-04-24,2093-3,Total cholesterol,173,mg/dL
+OBS-00192,P006,2024-04-24,2085-9,HDL cholesterol,49,mg/dL
+OBS-00193,P006,2024-04-24,13457-7,LDL cholesterol (calculated),104,mg/dL
+OBS-00194,P006,2024-10-23,8480-6,Systolic blood pressure,118,mm[Hg]
+OBS-00195,P006,2024-10-23,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-00196,P006,2024-10-23,39156-5,Body mass index,22.8,kg/m2
+OBS-00197,P006,2024-10-23,98979-8,eGFR (CKD-EPI 2021),85,mL/min/1.73m2
+OBS-00198,P006,2024-10-23,9318-7,Urine albumin/creatinine ratio,5,mg/g
+OBS-00199,P006,2025-04-12,8480-6,Systolic blood pressure,120,mm[Hg]
+OBS-00200,P006,2025-04-12,8462-4,Diastolic blood pressure,73,mm[Hg]
+OBS-00201,P006,2025-04-12,39156-5,Body mass index,22.8,kg/m2
+OBS-00202,P006,2025-10-23,8480-6,Systolic blood pressure,125,mm[Hg]
+OBS-00203,P006,2025-10-23,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-00204,P006,2025-10-23,39156-5,Body mass index,22.8,kg/m2
+OBS-00205,P006,2025-10-23,98979-8,eGFR (CKD-EPI 2021),84,mL/min/1.73m2
+OBS-00206,P006,2026-04-21,8480-6,Systolic blood pressure,121,mm[Hg]
+OBS-00207,P006,2026-04-21,8462-4,Diastolic blood pressure,67,mm[Hg]
+OBS-00208,P006,2026-04-21,39156-5,Body mass index,22.9,kg/m2
+OBS-00209,P006,2026-04-21,4548-4,Hemoglobin A1c,5.1,%
+OBS-00210,P006,2026-04-21,1558-6,Fasting glucose,78,mg/dL
+OBS-00211,P006,2026-04-21,2093-3,Total cholesterol,171,mg/dL
+OBS-00212,P006,2026-04-21,2085-9,HDL cholesterol,49,mg/dL
+OBS-00213,P006,2026-04-21,13457-7,LDL cholesterol (calculated),99,mg/dL
+OBS-00214,P006,2026-10-08,8480-6,Systolic blood pressure,119,mm[Hg]
+OBS-00215,P006,2026-10-08,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-00216,P006,2026-10-08,39156-5,Body mass index,22.9,kg/m2
+OBS-00217,P006,2026-10-08,98979-8,eGFR (CKD-EPI 2021),83,mL/min/1.73m2
+OBS-00218,P006,2026-10-08,9318-7,Urine albumin/creatinine ratio,4,mg/g
+OBS-00219,P007,2023-10-22,8480-6,Systolic blood pressure,122,mm[Hg]
+OBS-00220,P007,2023-10-22,8462-4,Diastolic blood pressure,78,mm[Hg]
+OBS-00221,P007,2023-10-22,39156-5,Body mass index,29.1,kg/m2
+OBS-00222,P007,2023-10-22,4548-4,Hemoglobin A1c,5.6,%
+OBS-00223,P007,2023-10-22,1558-6,Fasting glucose,98,mg/dL
+OBS-00224,P007,2023-10-22,98979-8,eGFR (CKD-EPI 2021),96,mL/min/1.73m2
+OBS-00225,P007,2024-04-22,8480-6,Systolic blood pressure,124,mm[Hg]
+OBS-00226,P007,2024-04-22,8462-4,Diastolic blood pressure,79,mm[Hg]
+OBS-00227,P007,2024-04-22,39156-5,Body mass index,29.2,kg/m2
+OBS-00228,P007,2024-04-22,2093-3,Total cholesterol,196,mg/dL
+OBS-00229,P007,2024-04-22,2085-9,HDL cholesterol,52,mg/dL
+OBS-00230,P007,2024-04-22,13457-7,LDL cholesterol (calculated),118,mg/dL
+OBS-00231,P007,2024-10-21,8480-6,Systolic blood pressure,121,mm[Hg]
+OBS-00232,P007,2024-10-21,8462-4,Diastolic blood pressure,77,mm[Hg]
+OBS-00233,P007,2024-10-21,39156-5,Body mass index,29.3,kg/m2
+OBS-00234,P007,2024-10-21,4548-4,Hemoglobin A1c,5.9,%
+OBS-00235,P007,2024-10-21,1558-6,Fasting glucose,104,mg/dL
+OBS-00236,P007,2024-10-21,98979-8,eGFR (CKD-EPI 2021),95,mL/min/1.73m2
+OBS-00237,P007,2025-04-22,8480-6,Systolic blood pressure,125,mm[Hg]
+OBS-00238,P007,2025-04-22,8462-4,Diastolic blood pressure,78,mm[Hg]
+OBS-00239,P007,2025-04-22,39156-5,Body mass index,29.4,kg/m2
+OBS-00240,P007,2025-10-22,8480-6,Systolic blood pressure,124,mm[Hg]
+OBS-00241,P007,2025-10-22,8462-4,Diastolic blood pressure,79,mm[Hg]
+OBS-00242,P007,2025-10-22,39156-5,Body mass index,29.5,kg/m2
+OBS-00243,P007,2025-10-22,4548-4,Hemoglobin A1c,6.2,%
+OBS-00244,P007,2025-10-22,1558-6,Fasting glucose,115,mg/dL
+OBS-00245,P007,2025-10-22,98979-8,eGFR (CKD-EPI 2021),93,mL/min/1.73m2
+OBS-00246,P007,2026-04-22,8480-6,Systolic blood pressure,123,mm[Hg]
+OBS-00247,P007,2026-04-22,8462-4,Diastolic blood pressure,78,mm[Hg]
+OBS-00248,P007,2026-04-22,39156-5,Body mass index,29.6,kg/m2
+OBS-00249,P007,2026-04-22,4548-4,Hemoglobin A1c,6.6,%
+OBS-00250,P007,2026-04-22,1558-6,Fasting glucose,128,mg/dL
+OBS-00251,P007,2026-04-22,2093-3,Total cholesterol,204,mg/dL
+OBS-00252,P007,2026-04-22,2085-9,HDL cholesterol,51,mg/dL
+OBS-00253,P007,2026-04-22,13457-7,LDL cholesterol (calculated),124,mg/dL
+OBS-00254,P007,2026-10-22,8480-6,Systolic blood pressure,124,mm[Hg]
+OBS-00255,P007,2026-10-22,8462-4,Diastolic blood pressure,78,mm[Hg]
+OBS-00256,P007,2026-10-22,39156-5,Body mass index,29.7,kg/m2
+OBS-00257,P007,2026-10-22,4548-4,Hemoglobin A1c,6.8,%
+OBS-00258,P007,2026-10-22,1558-6,Fasting glucose,134,mg/dL
+OBS-00259,P007,2026-10-22,98979-8,eGFR (CKD-EPI 2021),92,mL/min/1.73m2
+OBS-00260,P008,2023-10-10,8480-6,Systolic blood pressure,125,mm[Hg]
+OBS-00261,P008,2023-10-10,8462-4,Diastolic blood pressure,73,mm[Hg]
+OBS-00262,P008,2023-10-10,39156-5,Body mass index,23.8,kg/m2
+OBS-00263,P008,2023-10-10,4548-4,Hemoglobin A1c,7.0,%
+OBS-00264,P008,2023-10-10,1558-6,Fasting glucose,126,mg/dL
+OBS-00265,P008,2023-10-10,98979-8,eGFR (CKD-EPI 2021),99,mL/min/1.73m2
+OBS-00266,P008,2024-04-20,8480-6,Systolic blood pressure,120,mm[Hg]
+OBS-00267,P008,2024-04-20,8462-4,Diastolic blood pressure,74,mm[Hg]
+OBS-00268,P008,2024-04-20,39156-5,Body mass index,23.8,kg/m2
+OBS-00269,P008,2024-04-20,4548-4,Hemoglobin A1c,7.3,%
+OBS-00270,P008,2024-04-20,1558-6,Fasting glucose,137,mg/dL
+OBS-00271,P008,2024-04-20,2093-3,Total cholesterol,165,mg/dL
+OBS-00272,P008,2024-04-20,2085-9,HDL cholesterol,70,mg/dL
+OBS-00273,P008,2024-04-20,13457-7,LDL cholesterol (calculated),82,mg/dL
+OBS-00274,P008,2024-10-22,8480-6,Systolic blood pressure,124,mm[Hg]
+OBS-00275,P008,2024-10-22,8462-4,Diastolic blood pressure,69,mm[Hg]
+OBS-00276,P008,2024-10-22,39156-5,Body mass index,23.9,kg/m2
+OBS-00277,P008,2024-10-22,4548-4,Hemoglobin A1c,7.1,%
+OBS-00278,P008,2024-10-22,1558-6,Fasting glucose,127,mg/dL
+OBS-00279,P008,2024-10-22,98979-8,eGFR (CKD-EPI 2021),98,mL/min/1.73m2
+OBS-00280,P008,2024-10-22,9318-7,Urine albumin/creatinine ratio,11,mg/g
+OBS-00281,P008,2025-04-21,8480-6,Systolic blood pressure,120,mm[Hg]
+OBS-00282,P008,2025-04-21,8462-4,Diastolic blood pressure,68,mm[Hg]
+OBS-00283,P008,2025-04-21,39156-5,Body mass index,23.9,kg/m2
+OBS-00284,P008,2025-04-21,4548-4,Hemoglobin A1c,7.4,%
+OBS-00285,P008,2025-04-21,1558-6,Fasting glucose,136,mg/dL
+OBS-00286,P008,2025-10-11,8480-6,Systolic blood pressure,127,mm[Hg]
+OBS-00287,P008,2025-10-11,8462-4,Diastolic blood pressure,73,mm[Hg]
+OBS-00288,P008,2025-10-11,39156-5,Body mass index,23.9,kg/m2
+OBS-00289,P008,2025-10-11,4548-4,Hemoglobin A1c,7.2,%
+OBS-00290,P008,2025-10-11,1558-6,Fasting glucose,125,mg/dL
+OBS-00291,P008,2025-10-11,98979-8,eGFR (CKD-EPI 2021),97,mL/min/1.73m2
+OBS-00292,P008,2026-04-11,8480-6,Systolic blood pressure,122,mm[Hg]
+OBS-00293,P008,2026-04-11,8462-4,Diastolic blood pressure,73,mm[Hg]
+OBS-00294,P008,2026-04-11,39156-5,Body mass index,24.0,kg/m2
+OBS-00295,P008,2026-04-11,4548-4,Hemoglobin A1c,7.1,%
+OBS-00296,P008,2026-04-11,1558-6,Fasting glucose,127,mg/dL
+OBS-00297,P008,2026-04-11,2093-3,Total cholesterol,171,mg/dL
+OBS-00298,P008,2026-04-11,2085-9,HDL cholesterol,70,mg/dL
+OBS-00299,P008,2026-04-11,13457-7,LDL cholesterol (calculated),70,mg/dL
+OBS-00300,P008,2026-10-08,8480-6,Systolic blood pressure,127,mm[Hg]
+OBS-00301,P008,2026-10-08,8462-4,Diastolic blood pressure,70,mm[Hg]
+OBS-00302,P008,2026-10-08,39156-5,Body mass index,24.0,kg/m2
+OBS-00303,P008,2026-10-08,4548-4,Hemoglobin A1c,7.2,%
+OBS-00304,P008,2026-10-08,1558-6,Fasting glucose,133,mg/dL
+OBS-00305,P008,2026-10-08,98979-8,eGFR (CKD-EPI 2021),96,mL/min/1.73m2
+OBS-00306,P008,2026-10-08,9318-7,Urine albumin/creatinine ratio,10,mg/g
+OBS-00307,P009,2023-10-22,8480-6,Systolic blood pressure,116,mm[Hg]
+OBS-00308,P009,2023-10-22,8462-4,Diastolic blood pressure,76,mm[Hg]
+OBS-00309,P009,2023-10-22,39156-5,Body mass index,29.5,kg/m2
+OBS-00310,P009,2023-10-22,98979-8,eGFR (CKD-EPI 2021),80,mL/min/1.73m2
+OBS-00311,P009,2024-04-18,8480-6,Systolic blood pressure,120,mm[Hg]
+OBS-00312,P009,2024-04-18,8462-4,Diastolic blood pressure,74,mm[Hg]
+OBS-00313,P009,2024-04-18,39156-5,Body mass index,29.5,kg/m2
+OBS-00314,P009,2024-04-18,4548-4,Hemoglobin A1c,5.1,%
+OBS-00315,P009,2024-04-18,1558-6,Fasting glucose,95,mg/dL
+OBS-00316,P009,2024-04-18,2093-3,Total cholesterol,205,mg/dL
+OBS-00317,P009,2024-04-18,2085-9,HDL cholesterol,47,mg/dL
+OBS-00318,P009,2024-04-18,13457-7,LDL cholesterol (calculated),124,mg/dL
+OBS-00319,P009,2024-10-15,8480-6,Systolic blood pressure,115,mm[Hg]
+OBS-00320,P009,2024-10-15,8462-4,Diastolic blood pressure,77,mm[Hg]
+OBS-00321,P009,2024-10-15,39156-5,Body mass index,29.6,kg/m2
+OBS-00322,P009,2024-10-15,98979-8,eGFR (CKD-EPI 2021),79,mL/min/1.73m2
+OBS-00323,P009,2024-10-15,9318-7,Urine albumin/creatinine ratio,18,mg/g
+OBS-00324,P009,2025-04-07,8480-6,Systolic blood pressure,118,mm[Hg]
+OBS-00325,P009,2025-04-07,8462-4,Diastolic blood pressure,79,mm[Hg]
+OBS-00326,P009,2025-04-07,39156-5,Body mass index,29.6,kg/m2
+OBS-00327,P009,2025-10-09,8480-6,Systolic blood pressure,119,mm[Hg]
+OBS-00328,P009,2025-10-09,8462-4,Diastolic blood pressure,77,mm[Hg]
+OBS-00329,P009,2025-10-09,39156-5,Body mass index,29.6,kg/m2
+OBS-00330,P009,2025-10-09,98979-8,eGFR (CKD-EPI 2021),78,mL/min/1.73m2
+OBS-00331,P009,2026-04-29,8480-6,Systolic blood pressure,121,mm[Hg]
+OBS-00332,P009,2026-04-29,8462-4,Diastolic blood pressure,77,mm[Hg]
+OBS-00333,P009,2026-04-29,39156-5,Body mass index,29.7,kg/m2
+OBS-00334,P009,2026-04-29,4548-4,Hemoglobin A1c,5.0,%
+OBS-00335,P009,2026-04-29,1558-6,Fasting glucose,96,mg/dL
+OBS-00336,P009,2026-04-29,2093-3,Total cholesterol,198,mg/dL
+OBS-00337,P009,2026-04-29,2085-9,HDL cholesterol,47,mg/dL
+OBS-00338,P009,2026-04-29,13457-7,LDL cholesterol (calculated),128,mg/dL
+OBS-00339,P009,2026-10-17,8480-6,Systolic blood pressure,113,mm[Hg]
+OBS-00340,P009,2026-10-17,8462-4,Diastolic blood pressure,74,mm[Hg]
+OBS-00341,P009,2026-10-17,39156-5,Body mass index,29.7,kg/m2
+OBS-00342,P009,2026-10-17,98979-8,eGFR (CKD-EPI 2021),77,mL/min/1.73m2
+OBS-00343,P009,2026-10-17,9318-7,Urine albumin/creatinine ratio,21,mg/g
+OBS-00344,P010,2023-10-12,8480-6,Systolic blood pressure,122,mm[Hg]
+OBS-00345,P010,2023-10-12,8462-4,Diastolic blood pressure,73,mm[Hg]
+OBS-00346,P010,2023-10-12,39156-5,Body mass index,23.2,kg/m2
+OBS-00347,P010,2023-10-12,4548-4,Hemoglobin A1c,7.2,%
+OBS-00348,P010,2023-10-12,1558-6,Fasting glucose,126,mg/dL
+OBS-00349,P010,2023-10-12,98979-8,eGFR (CKD-EPI 2021),84,mL/min/1.73m2
+OBS-00350,P010,2024-04-15,8480-6,Systolic blood pressure,124,mm[Hg]
+OBS-00351,P010,2024-04-15,8462-4,Diastolic blood pressure,73,mm[Hg]
+OBS-00352,P010,2024-04-15,39156-5,Body mass index,23.2,kg/m2
+OBS-00353,P010,2024-04-15,4548-4,Hemoglobin A1c,7.0,%
+OBS-00354,P010,2024-04-15,1558-6,Fasting glucose,126,mg/dL
+OBS-00355,P010,2024-04-15,2093-3,Total cholesterol,185,mg/dL
+OBS-00356,P010,2024-04-15,2085-9,HDL cholesterol,55,mg/dL
+OBS-00357,P010,2024-04-15,13457-7,LDL cholesterol (calculated),95,mg/dL
+OBS-00358,P010,2024-10-23,8480-6,Systolic blood pressure,121,mm[Hg]
+OBS-00359,P010,2024-10-23,8462-4,Diastolic blood pressure,71,mm[Hg]
+OBS-00360,P010,2024-10-23,39156-5,Body mass index,23.3,kg/m2
+OBS-00361,P010,2024-10-23,4548-4,Hemoglobin A1c,7.2,%
+OBS-00362,P010,2024-10-23,1558-6,Fasting glucose,135,mg/dL
+OBS-00363,P010,2024-10-23,98979-8,eGFR (CKD-EPI 2021),83,mL/min/1.73m2
+OBS-00364,P010,2024-10-23,9318-7,Urine albumin/creatinine ratio,16,mg/g
+OBS-00365,P010,2025-04-24,8480-6,Systolic blood pressure,124,mm[Hg]
+OBS-00366,P010,2025-04-24,8462-4,Diastolic blood pressure,70,mm[Hg]
+OBS-00367,P010,2025-04-24,39156-5,Body mass index,23.3,kg/m2
+OBS-00368,P010,2025-04-24,4548-4,Hemoglobin A1c,7.0,%
+OBS-00369,P010,2025-04-24,1558-6,Fasting glucose,135,mg/dL
+OBS-00370,P010,2025-10-19,8480-6,Systolic blood pressure,127,mm[Hg]
+OBS-00371,P010,2025-10-19,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-00372,P010,2025-10-19,39156-5,Body mass index,23.3,kg/m2
+OBS-00373,P010,2025-10-19,4548-4,Hemoglobin A1c,7.1,%
+OBS-00374,P010,2025-10-19,1558-6,Fasting glucose,134,mg/dL
+OBS-00375,P010,2025-10-19,98979-8,eGFR (CKD-EPI 2021),82,mL/min/1.73m2
+OBS-00376,P010,2026-04-26,8480-6,Systolic blood pressure,122,mm[Hg]
+OBS-00377,P010,2026-04-26,8462-4,Diastolic blood pressure,68,mm[Hg]
+OBS-00378,P010,2026-04-26,39156-5,Body mass index,23.4,kg/m2
+OBS-00379,P010,2026-04-26,4548-4,Hemoglobin A1c,7.1,%
+OBS-00380,P010,2026-04-26,1558-6,Fasting glucose,126,mg/dL
+OBS-00381,P010,2026-04-26,2093-3,Total cholesterol,182,mg/dL
+OBS-00382,P010,2026-04-26,2085-9,HDL cholesterol,55,mg/dL
+OBS-00383,P010,2026-04-26,13457-7,LDL cholesterol (calculated),99,mg/dL
+OBS-00384,P010,2026-10-23,8480-6,Systolic blood pressure,121,mm[Hg]
+OBS-00385,P010,2026-10-23,8462-4,Diastolic blood pressure,73,mm[Hg]
+OBS-00386,P010,2026-10-23,39156-5,Body mass index,23.4,kg/m2
+OBS-00387,P010,2026-10-23,4548-4,Hemoglobin A1c,7.3,%
+OBS-00388,P010,2026-10-23,1558-6,Fasting glucose,132,mg/dL
+OBS-00389,P010,2026-10-23,98979-8,eGFR (CKD-EPI 2021),81,mL/min/1.73m2
+OBS-00390,P010,2026-10-23,9318-7,Urine albumin/creatinine ratio,16,mg/g
+OBS-00391,P011,2023-10-27,8480-6,Systolic blood pressure,126,mm[Hg]
+OBS-00392,P011,2023-10-27,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-00393,P011,2023-10-27,39156-5,Body mass index,25.8,kg/m2
+OBS-00394,P011,2023-10-27,98979-8,eGFR (CKD-EPI 2021),92,mL/min/1.73m2
+OBS-00395,P011,2024-04-12,8480-6,Systolic blood pressure,120,mm[Hg]
+OBS-00396,P011,2024-04-12,8462-4,Diastolic blood pressure,73,mm[Hg]
+OBS-00397,P011,2024-04-12,39156-5,Body mass index,25.8,kg/m2
+OBS-00398,P011,2024-04-12,4548-4,Hemoglobin A1c,5.2,%
+OBS-00399,P011,2024-04-12,1558-6,Fasting glucose,95,mg/dL
+OBS-00400,P011,2024-04-12,2093-3,Total cholesterol,179,mg/dL
+OBS-00401,P011,2024-04-12,2085-9,HDL cholesterol,46,mg/dL
+OBS-00402,P011,2024-04-12,13457-7,LDL cholesterol (calculated),104,mg/dL
+OBS-00403,P011,2024-10-10,8480-6,Systolic blood pressure,123,mm[Hg]
+OBS-00404,P011,2024-10-10,8462-4,Diastolic blood pressure,77,mm[Hg]
+OBS-00405,P011,2024-10-10,39156-5,Body mass index,25.9,kg/m2
+OBS-00406,P011,2024-10-10,98979-8,eGFR (CKD-EPI 2021),91,mL/min/1.73m2
+OBS-00407,P011,2025-04-08,8480-6,Systolic blood pressure,122,mm[Hg]
+OBS-00408,P011,2025-04-08,8462-4,Diastolic blood pressure,71,mm[Hg]
+OBS-00409,P011,2025-04-08,39156-5,Body mass index,25.9,kg/m2
+OBS-00410,P011,2025-10-08,8480-6,Systolic blood pressure,121,mm[Hg]
+OBS-00411,P011,2025-10-08,8462-4,Diastolic blood pressure,76,mm[Hg]
+OBS-00412,P011,2025-10-08,39156-5,Body mass index,25.9,kg/m2
+OBS-00413,P011,2025-10-08,98979-8,eGFR (CKD-EPI 2021),90,mL/min/1.73m2
+OBS-00414,P011,2026-04-10,8480-6,Systolic blood pressure,123,mm[Hg]
+OBS-00415,P011,2026-04-10,8462-4,Diastolic blood pressure,77,mm[Hg]
+OBS-00416,P011,2026-04-10,39156-5,Body mass index,26.0,kg/m2
+OBS-00417,P011,2026-04-10,4548-4,Hemoglobin A1c,5.3,%
+OBS-00418,P011,2026-04-10,1558-6,Fasting glucose,94,mg/dL
+OBS-00419,P011,2026-04-10,2093-3,Total cholesterol,175,mg/dL
+OBS-00420,P011,2026-04-10,2085-9,HDL cholesterol,46,mg/dL
+OBS-00421,P011,2026-04-10,13457-7,LDL cholesterol (calculated),109,mg/dL
+OBS-00422,P011,2026-10-24,8480-6,Systolic blood pressure,125,mm[Hg]
+OBS-00423,P011,2026-10-24,8462-4,Diastolic blood pressure,73,mm[Hg]
+OBS-00424,P011,2026-10-24,39156-5,Body mass index,26.0,kg/m2
+OBS-00425,P011,2026-10-24,98979-8,eGFR (CKD-EPI 2021),89,mL/min/1.73m2
+OBS-00426,P012,2023-10-22,8480-6,Systolic blood pressure,154,mm[Hg]
+OBS-00427,P012,2023-10-22,8462-4,Diastolic blood pressure,96,mm[Hg]
+OBS-00428,P012,2023-10-22,39156-5,Body mass index,31.1,kg/m2
+OBS-00429,P012,2023-10-22,98979-8,eGFR (CKD-EPI 2021),82,mL/min/1.73m2
+OBS-00430,P012,2024-04-22,8480-6,Systolic blood pressure,150,mm[Hg]
+OBS-00431,P012,2024-04-22,8462-4,Diastolic blood pressure,94,mm[Hg]
+OBS-00432,P012,2024-04-22,39156-5,Body mass index,31.1,kg/m2
+OBS-00433,P012,2024-04-22,4548-4,Hemoglobin A1c,5.4,%
+OBS-00434,P012,2024-04-22,1558-6,Fasting glucose,92,mg/dL
+OBS-00435,P012,2024-04-22,2093-3,Total cholesterol,188,mg/dL
+OBS-00436,P012,2024-04-22,2085-9,HDL cholesterol,44,mg/dL
+OBS-00437,P012,2024-04-22,13457-7,LDL cholesterol (calculated),112,mg/dL
+OBS-00438,P012,2024-10-21,8480-6,Systolic blood pressure,156,mm[Hg]
+OBS-00439,P012,2024-10-21,8462-4,Diastolic blood pressure,95,mm[Hg]
+OBS-00440,P012,2024-10-21,39156-5,Body mass index,31.2,kg/m2
+OBS-00441,P012,2024-10-21,98979-8,eGFR (CKD-EPI 2021),80,mL/min/1.73m2
+OBS-00442,P012,2024-10-21,9318-7,Urine albumin/creatinine ratio,18,mg/g
+OBS-00443,P012,2025-04-22,8480-6,Systolic blood pressure,149,mm[Hg]
+OBS-00444,P012,2025-04-22,8462-4,Diastolic blood pressure,92,mm[Hg]
+OBS-00445,P012,2025-04-22,39156-5,Body mass index,31.2,kg/m2
+OBS-00446,P012,2025-10-22,8480-6,Systolic blood pressure,152,mm[Hg]
+OBS-00447,P012,2025-10-22,8462-4,Diastolic blood pressure,94,mm[Hg]
+OBS-00448,P012,2025-10-22,39156-5,Body mass index,31.2,kg/m2
+OBS-00449,P012,2025-10-22,98979-8,eGFR (CKD-EPI 2021),79,mL/min/1.73m2
+OBS-00450,P012,2026-04-22,8480-6,Systolic blood pressure,148,mm[Hg]
+OBS-00451,P012,2026-04-22,8462-4,Diastolic blood pressure,92,mm[Hg]
+OBS-00452,P012,2026-04-22,39156-5,Body mass index,31.3,kg/m2
+OBS-00453,P012,2026-04-22,4548-4,Hemoglobin A1c,5.5,%
+OBS-00454,P012,2026-04-22,1558-6,Fasting glucose,94,mg/dL
+OBS-00455,P012,2026-04-22,2093-3,Total cholesterol,176,mg/dL
+OBS-00456,P012,2026-04-22,2085-9,HDL cholesterol,45,mg/dL
+OBS-00457,P012,2026-04-22,13457-7,LDL cholesterol (calculated),104,mg/dL
+OBS-00458,P012,2026-10-22,8480-6,Systolic blood pressure,155,mm[Hg]
+OBS-00459,P012,2026-10-22,8462-4,Diastolic blood pressure,96,mm[Hg]
+OBS-00460,P012,2026-10-22,39156-5,Body mass index,31.3,kg/m2
+OBS-00461,P012,2026-10-22,98979-8,eGFR (CKD-EPI 2021),78,mL/min/1.73m2
+OBS-00462,P012,2026-10-22,9318-7,Urine albumin/creatinine ratio,22,mg/g
+OBS-00463,P013,2023-10-14,8480-6,Systolic blood pressure,107,mm[Hg]
+OBS-00464,P013,2023-10-14,8462-4,Diastolic blood pressure,76,mm[Hg]
+OBS-00465,P013,2023-10-14,39156-5,Body mass index,28.6,kg/m2
+OBS-00466,P013,2023-10-14,98979-8,eGFR (CKD-EPI 2021),96,mL/min/1.73m2
+OBS-00467,P013,2024-04-29,8480-6,Systolic blood pressure,103,mm[Hg]
+OBS-00468,P013,2024-04-29,8462-4,Diastolic blood pressure,77,mm[Hg]
+OBS-00469,P013,2024-04-29,39156-5,Body mass index,28.6,kg/m2
+OBS-00470,P013,2024-04-29,4548-4,Hemoglobin A1c,5.2,%
+OBS-00471,P013,2024-04-29,1558-6,Fasting glucose,88,mg/dL
+OBS-00472,P013,2024-04-29,2093-3,Total cholesterol,166,mg/dL
+OBS-00473,P013,2024-04-29,2085-9,HDL cholesterol,47,mg/dL
+OBS-00474,P013,2024-04-29,13457-7,LDL cholesterol (calculated),93,mg/dL
+OBS-00475,P013,2024-10-25,8480-6,Systolic blood pressure,109,mm[Hg]
+OBS-00476,P013,2024-10-25,8462-4,Diastolic blood pressure,76,mm[Hg]
+OBS-00477,P013,2024-10-25,39156-5,Body mass index,28.7,kg/m2
+OBS-00478,P013,2024-10-25,98979-8,eGFR (CKD-EPI 2021),95,mL/min/1.73m2
+OBS-00479,P013,2025-04-16,8480-6,Systolic blood pressure,109,mm[Hg]
+OBS-00480,P013,2025-04-16,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-00481,P013,2025-04-16,39156-5,Body mass index,28.7,kg/m2
+OBS-00482,P013,2025-10-11,8480-6,Systolic blood pressure,105,mm[Hg]
+OBS-00483,P013,2025-10-11,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-00484,P013,2025-10-11,39156-5,Body mass index,28.7,kg/m2
+OBS-00485,P013,2025-10-11,98979-8,eGFR (CKD-EPI 2021),94,mL/min/1.73m2
+OBS-00486,P013,2026-04-13,8480-6,Systolic blood pressure,106,mm[Hg]
+OBS-00487,P013,2026-04-13,8462-4,Diastolic blood pressure,76,mm[Hg]
+OBS-00488,P013,2026-04-13,39156-5,Body mass index,28.8,kg/m2
+OBS-00489,P013,2026-04-13,4548-4,Hemoglobin A1c,5.2,%
+OBS-00490,P013,2026-04-13,1558-6,Fasting glucose,92,mg/dL
+OBS-00491,P013,2026-04-13,2093-3,Total cholesterol,174,mg/dL
+OBS-00492,P013,2026-04-13,2085-9,HDL cholesterol,47,mg/dL
+OBS-00493,P013,2026-04-13,13457-7,LDL cholesterol (calculated),105,mg/dL
+OBS-00494,P013,2026-10-24,8480-6,Systolic blood pressure,108,mm[Hg]
+OBS-00495,P013,2026-10-24,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-00496,P013,2026-10-24,39156-5,Body mass index,28.8,kg/m2
+OBS-00497,P013,2026-10-24,98979-8,eGFR (CKD-EPI 2021),93,mL/min/1.73m2
+OBS-00498,P014,2023-10-27,8480-6,Systolic blood pressure,121,mm[Hg]
+OBS-00499,P014,2023-10-27,8462-4,Diastolic blood pressure,73,mm[Hg]
+OBS-00500,P014,2023-10-27,39156-5,Body mass index,31.2,kg/m2
+OBS-00501,P014,2023-10-27,4548-4,Hemoglobin A1c,6.9,%
+OBS-00502,P014,2023-10-27,1558-6,Fasting glucose,145,mg/dL
+OBS-00503,P014,2023-10-27,98979-8,eGFR (CKD-EPI 2021),95,mL/min/1.73m2
+OBS-00504,P014,2024-04-19,8480-6,Systolic blood pressure,120,mm[Hg]
+OBS-00505,P014,2024-04-19,8462-4,Diastolic blood pressure,73,mm[Hg]
+OBS-00506,P014,2024-04-19,39156-5,Body mass index,31.2,kg/m2
+OBS-00507,P014,2024-04-19,4548-4,Hemoglobin A1c,6.9,%
+OBS-00508,P014,2024-04-19,1558-6,Fasting glucose,135,mg/dL
+OBS-00509,P014,2024-04-19,2093-3,Total cholesterol,172,mg/dL
+OBS-00510,P014,2024-04-19,2085-9,HDL cholesterol,41,mg/dL
+OBS-00511,P014,2024-04-19,13457-7,LDL cholesterol (calculated),100,mg/dL
+OBS-00512,P014,2024-10-15,8480-6,Systolic blood pressure,119,mm[Hg]
+OBS-00513,P014,2024-10-15,8462-4,Diastolic blood pressure,67,mm[Hg]
+OBS-00514,P014,2024-10-15,39156-5,Body mass index,31.3,kg/m2
+OBS-00515,P014,2024-10-15,4548-4,Hemoglobin A1c,6.7,%
+OBS-00516,P014,2024-10-15,1558-6,Fasting glucose,136,mg/dL
+OBS-00517,P014,2024-10-15,98979-8,eGFR (CKD-EPI 2021),94,mL/min/1.73m2
+OBS-00518,P014,2024-10-15,9318-7,Urine albumin/creatinine ratio,7,mg/g
+OBS-00519,P014,2025-04-20,8480-6,Systolic blood pressure,122,mm[Hg]
+OBS-00520,P014,2025-04-20,8462-4,Diastolic blood pressure,71,mm[Hg]
+OBS-00521,P014,2025-04-20,39156-5,Body mass index,31.3,kg/m2
+OBS-00522,P014,2025-04-20,4548-4,Hemoglobin A1c,6.8,%
+OBS-00523,P014,2025-04-20,1558-6,Fasting glucose,141,mg/dL
+OBS-00524,P014,2025-10-07,8480-6,Systolic blood pressure,122,mm[Hg]
+OBS-00525,P014,2025-10-07,8462-4,Diastolic blood pressure,69,mm[Hg]
+OBS-00526,P014,2025-10-07,39156-5,Body mass index,31.3,kg/m2
+OBS-00527,P014,2025-10-07,4548-4,Hemoglobin A1c,6.6,%
+OBS-00528,P014,2025-10-07,1558-6,Fasting glucose,138,mg/dL
+OBS-00529,P014,2025-10-07,98979-8,eGFR (CKD-EPI 2021),93,mL/min/1.73m2
+OBS-00530,P014,2026-04-07,8480-6,Systolic blood pressure,120,mm[Hg]
+OBS-00531,P014,2026-04-07,8462-4,Diastolic blood pressure,71,mm[Hg]
+OBS-00532,P014,2026-04-07,39156-5,Body mass index,31.4,kg/m2
+OBS-00533,P014,2026-04-07,4548-4,Hemoglobin A1c,7.0,%
+OBS-00534,P014,2026-04-07,1558-6,Fasting glucose,137,mg/dL
+OBS-00535,P014,2026-04-07,2093-3,Total cholesterol,163,mg/dL
+OBS-00536,P014,2026-04-07,2085-9,HDL cholesterol,41,mg/dL
+OBS-00537,P014,2026-04-07,13457-7,LDL cholesterol (calculated),94,mg/dL
+OBS-00538,P014,2026-10-07,8480-6,Systolic blood pressure,117,mm[Hg]
+OBS-00539,P014,2026-10-07,8462-4,Diastolic blood pressure,70,mm[Hg]
+OBS-00540,P014,2026-10-07,39156-5,Body mass index,31.4,kg/m2
+OBS-00541,P014,2026-10-07,4548-4,Hemoglobin A1c,6.9,%
+OBS-00542,P014,2026-10-07,1558-6,Fasting glucose,137,mg/dL
+OBS-00543,P014,2026-10-07,98979-8,eGFR (CKD-EPI 2021),92,mL/min/1.73m2
+OBS-00544,P014,2026-10-07,9318-7,Urine albumin/creatinine ratio,11,mg/g
+OBS-00545,P015,2023-10-22,8480-6,Systolic blood pressure,126,mm[Hg]
+OBS-00546,P015,2023-10-22,8462-4,Diastolic blood pressure,78,mm[Hg]
+OBS-00547,P015,2023-10-22,39156-5,Body mass index,28.0,kg/m2
+OBS-00548,P015,2023-10-22,4548-4,Hemoglobin A1c,5.8,%
+OBS-00549,P015,2023-10-22,1558-6,Fasting glucose,104,mg/dL
+OBS-00550,P015,2023-10-22,98979-8,eGFR (CKD-EPI 2021),98,mL/min/1.73m2
+OBS-00551,P015,2024-04-22,8480-6,Systolic blood pressure,128,mm[Hg]
+OBS-00552,P015,2024-04-22,8462-4,Diastolic blood pressure,79,mm[Hg]
+OBS-00553,P015,2024-04-22,39156-5,Body mass index,28.0,kg/m2
+OBS-00554,P015,2024-04-22,2093-3,Total cholesterol,192,mg/dL
+OBS-00555,P015,2024-04-22,2085-9,HDL cholesterol,47,mg/dL
+OBS-00556,P015,2024-04-22,13457-7,LDL cholesterol (calculated),120,mg/dL
+OBS-00557,P015,2024-10-21,8480-6,Systolic blood pressure,127,mm[Hg]
+OBS-00558,P015,2024-10-21,8462-4,Diastolic blood pressure,78,mm[Hg]
+OBS-00559,P015,2024-10-21,39156-5,Body mass index,28.1,kg/m2
+OBS-00560,P015,2024-10-21,4548-4,Hemoglobin A1c,5.9,%
+OBS-00561,P015,2024-10-21,1558-6,Fasting glucose,108,mg/dL
+OBS-00562,P015,2024-10-21,98979-8,eGFR (CKD-EPI 2021),97,mL/min/1.73m2
+OBS-00563,P015,2025-04-22,8480-6,Systolic blood pressure,129,mm[Hg]
+OBS-00564,P015,2025-04-22,8462-4,Diastolic blood pressure,79,mm[Hg]
+OBS-00565,P015,2025-04-22,39156-5,Body mass index,28.1,kg/m2
+OBS-00566,P015,2025-10-22,8480-6,Systolic blood pressure,128,mm[Hg]
+OBS-00567,P015,2025-10-22,8462-4,Diastolic blood pressure,78,mm[Hg]
+OBS-00568,P015,2025-10-22,39156-5,Body mass index,28.1,kg/m2
+OBS-00569,P015,2025-10-22,4548-4,Hemoglobin A1c,6.1,%
+OBS-00570,P015,2025-10-22,1558-6,Fasting glucose,110,mg/dL
+OBS-00571,P015,2025-10-22,98979-8,eGFR (CKD-EPI 2021),96,mL/min/1.73m2
+OBS-00572,P015,2026-04-22,8480-6,Systolic blood pressure,127,mm[Hg]
+OBS-00573,P015,2026-04-22,8462-4,Diastolic blood pressure,79,mm[Hg]
+OBS-00574,P015,2026-04-22,39156-5,Body mass index,28.2,kg/m2
+OBS-00575,P015,2026-04-22,2093-3,Total cholesterol,198,mg/dL
+OBS-00576,P015,2026-04-22,2085-9,HDL cholesterol,48,mg/dL
+OBS-00577,P015,2026-04-22,13457-7,LDL cholesterol (calculated),124,mg/dL
+OBS-00578,P015,2026-10-22,8480-6,Systolic blood pressure,129,mm[Hg]
+OBS-00579,P015,2026-10-22,8462-4,Diastolic blood pressure,79,mm[Hg]
+OBS-00580,P015,2026-10-22,39156-5,Body mass index,28.2,kg/m2
+OBS-00581,P015,2026-10-22,4548-4,Hemoglobin A1c,6.4,%
+OBS-00582,P015,2026-10-22,1558-6,Fasting glucose,112,mg/dL
+OBS-00583,P015,2026-10-22,98979-8,eGFR (CKD-EPI 2021),96,mL/min/1.73m2
+OBS-00584,P016,2023-10-07,8480-6,Systolic blood pressure,118,mm[Hg]
+OBS-00585,P016,2023-10-07,8462-4,Diastolic blood pressure,73,mm[Hg]
+OBS-00586,P016,2023-10-07,39156-5,Body mass index,33.3,kg/m2
+OBS-00587,P016,2023-10-07,98979-8,eGFR (CKD-EPI 2021),97,mL/min/1.73m2
+OBS-00588,P016,2024-04-16,8480-6,Systolic blood pressure,119,mm[Hg]
+OBS-00589,P016,2024-04-16,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-00590,P016,2024-04-16,39156-5,Body mass index,33.3,kg/m2
+OBS-00591,P016,2024-04-16,4548-4,Hemoglobin A1c,5.2,%
+OBS-00592,P016,2024-04-16,1558-6,Fasting glucose,83,mg/dL
+OBS-00593,P016,2024-04-16,2093-3,Total cholesterol,224,mg/dL
+OBS-00594,P016,2024-04-16,2085-9,HDL cholesterol,49,mg/dL
+OBS-00595,P016,2024-04-16,13457-7,LDL cholesterol (calculated),136,mg/dL
+OBS-00596,P016,2024-10-13,8480-6,Systolic blood pressure,119,mm[Hg]
+OBS-00597,P016,2024-10-13,8462-4,Diastolic blood pressure,70,mm[Hg]
+OBS-00598,P016,2024-10-13,39156-5,Body mass index,33.4,kg/m2
+OBS-00599,P016,2024-10-13,98979-8,eGFR (CKD-EPI 2021),96,mL/min/1.73m2
+OBS-00600,P016,2024-10-13,9318-7,Urine albumin/creatinine ratio,10,mg/g
+OBS-00601,P016,2025-04-28,8480-6,Systolic blood pressure,119,mm[Hg]
+OBS-00602,P016,2025-04-28,8462-4,Diastolic blood pressure,68,mm[Hg]
+OBS-00603,P016,2025-04-28,39156-5,Body mass index,33.4,kg/m2
+OBS-00604,P016,2025-10-19,8480-6,Systolic blood pressure,125,mm[Hg]
+OBS-00605,P016,2025-10-19,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-00606,P016,2025-10-19,39156-5,Body mass index,33.4,kg/m2
+OBS-00607,P016,2025-10-19,98979-8,eGFR (CKD-EPI 2021),95,mL/min/1.73m2
+OBS-00608,P016,2026-04-14,8480-6,Systolic blood pressure,121,mm[Hg]
+OBS-00609,P016,2026-04-14,8462-4,Diastolic blood pressure,70,mm[Hg]
+OBS-00610,P016,2026-04-14,39156-5,Body mass index,33.5,kg/m2
+OBS-00611,P016,2026-04-14,4548-4,Hemoglobin A1c,5.3,%
+OBS-00612,P016,2026-04-14,1558-6,Fasting glucose,86,mg/dL
+OBS-00613,P016,2026-04-14,2093-3,Total cholesterol,227,mg/dL
+OBS-00614,P016,2026-04-14,2085-9,HDL cholesterol,49,mg/dL
+OBS-00615,P016,2026-04-14,13457-7,LDL cholesterol (calculated),141,mg/dL
+OBS-00616,P016,2026-10-26,8480-6,Systolic blood pressure,125,mm[Hg]
+OBS-00617,P016,2026-10-26,8462-4,Diastolic blood pressure,71,mm[Hg]
+OBS-00618,P016,2026-10-26,39156-5,Body mass index,33.5,kg/m2
+OBS-00619,P016,2026-10-26,98979-8,eGFR (CKD-EPI 2021),94,mL/min/1.73m2
+OBS-00620,P016,2026-10-26,9318-7,Urine albumin/creatinine ratio,10,mg/g
+OBS-00621,P017,2023-10-09,8480-6,Systolic blood pressure,112,mm[Hg]
+OBS-00622,P017,2023-10-09,8462-4,Diastolic blood pressure,66,mm[Hg]
+OBS-00623,P017,2023-10-09,39156-5,Body mass index,26.9,kg/m2
+OBS-00624,P017,2023-10-09,98979-8,eGFR (CKD-EPI 2021),108,mL/min/1.73m2
+OBS-00625,P017,2024-04-18,8480-6,Systolic blood pressure,118,mm[Hg]
+OBS-00626,P017,2024-04-18,8462-4,Diastolic blood pressure,70,mm[Hg]
+OBS-00627,P017,2024-04-18,39156-5,Body mass index,26.9,kg/m2
+OBS-00628,P017,2024-04-18,4548-4,Hemoglobin A1c,5.1,%
+OBS-00629,P017,2024-04-18,1558-6,Fasting glucose,81,mg/dL
+OBS-00630,P017,2024-04-18,2093-3,Total cholesterol,177,mg/dL
+OBS-00631,P017,2024-04-18,2085-9,HDL cholesterol,41,mg/dL
+OBS-00632,P017,2024-04-18,13457-7,LDL cholesterol (calculated),99,mg/dL
+OBS-00633,P017,2024-10-10,8480-6,Systolic blood pressure,119,mm[Hg]
+OBS-00634,P017,2024-10-10,8462-4,Diastolic blood pressure,66,mm[Hg]
+OBS-00635,P017,2024-10-10,39156-5,Body mass index,27.0,kg/m2
+OBS-00636,P017,2024-10-10,98979-8,eGFR (CKD-EPI 2021),107,mL/min/1.73m2
+OBS-00637,P017,2025-04-18,8480-6,Systolic blood pressure,119,mm[Hg]
+OBS-00638,P017,2025-04-18,8462-4,Diastolic blood pressure,68,mm[Hg]
+OBS-00639,P017,2025-04-18,39156-5,Body mass index,27.0,kg/m2
+OBS-00640,P017,2025-10-19,8480-6,Systolic blood pressure,119,mm[Hg]
+OBS-00641,P017,2025-10-19,8462-4,Diastolic blood pressure,69,mm[Hg]
+OBS-00642,P017,2025-10-19,39156-5,Body mass index,27.0,kg/m2
+OBS-00643,P017,2025-10-19,98979-8,eGFR (CKD-EPI 2021),106,mL/min/1.73m2
+OBS-00644,P017,2026-04-18,8480-6,Systolic blood pressure,118,mm[Hg]
+OBS-00645,P017,2026-04-18,8462-4,Diastolic blood pressure,69,mm[Hg]
+OBS-00646,P017,2026-04-18,39156-5,Body mass index,27.1,kg/m2
+OBS-00647,P017,2026-04-18,4548-4,Hemoglobin A1c,5.2,%
+OBS-00648,P017,2026-04-18,1558-6,Fasting glucose,81,mg/dL
+OBS-00649,P017,2026-04-18,2093-3,Total cholesterol,179,mg/dL
+OBS-00650,P017,2026-04-18,2085-9,HDL cholesterol,41,mg/dL
+OBS-00651,P017,2026-04-18,13457-7,LDL cholesterol (calculated),114,mg/dL
+OBS-00652,P017,2026-10-09,8480-6,Systolic blood pressure,114,mm[Hg]
+OBS-00653,P017,2026-10-09,8462-4,Diastolic blood pressure,71,mm[Hg]
+OBS-00654,P017,2026-10-09,39156-5,Body mass index,27.1,kg/m2
+OBS-00655,P017,2026-10-09,98979-8,eGFR (CKD-EPI 2021),105,mL/min/1.73m2
+OBS-00656,P018,2023-10-22,8480-6,Systolic blood pressure,136,mm[Hg]
+OBS-00657,P018,2023-10-22,8462-4,Diastolic blood pressure,84,mm[Hg]
+OBS-00658,P018,2023-10-22,39156-5,Body mass index,26.9,kg/m2
+OBS-00659,P018,2023-10-22,98979-8,eGFR (CKD-EPI 2021),84,mL/min/1.73m2
+OBS-00660,P018,2024-04-22,8480-6,Systolic blood pressure,138,mm[Hg]
+OBS-00661,P018,2024-04-22,8462-4,Diastolic blood pressure,85,mm[Hg]
+OBS-00662,P018,2024-04-22,39156-5,Body mass index,26.9,kg/m2
+OBS-00663,P018,2024-04-22,4548-4,Hemoglobin A1c,5.5,%
+OBS-00664,P018,2024-04-22,1558-6,Fasting glucose,95,mg/dL
+OBS-00665,P018,2024-04-22,2093-3,Total cholesterol,226,mg/dL
+OBS-00666,P018,2024-04-22,2085-9,HDL cholesterol,40,mg/dL
+OBS-00667,P018,2024-04-22,13457-7,LDL cholesterol (calculated),150,mg/dL
+OBS-00668,P018,2024-10-21,8480-6,Systolic blood pressure,134,mm[Hg]
+OBS-00669,P018,2024-10-21,8462-4,Diastolic blood pressure,82,mm[Hg]
+OBS-00670,P018,2024-10-21,39156-5,Body mass index,27.0,kg/m2
+OBS-00671,P018,2024-10-21,98979-8,eGFR (CKD-EPI 2021),82,mL/min/1.73m2
+OBS-00672,P018,2024-10-21,9318-7,Urine albumin/creatinine ratio,12,mg/g
+OBS-00673,P018,2025-04-22,8480-6,Systolic blood pressure,137,mm[Hg]
+OBS-00674,P018,2025-04-22,8462-4,Diastolic blood pressure,84,mm[Hg]
+OBS-00675,P018,2025-04-22,39156-5,Body mass index,27.0,kg/m2
+OBS-00676,P018,2025-10-22,8480-6,Systolic blood pressure,139,mm[Hg]
+OBS-00677,P018,2025-10-22,8462-4,Diastolic blood pressure,86,mm[Hg]
+OBS-00678,P018,2025-10-22,39156-5,Body mass index,27.0,kg/m2
+OBS-00679,P018,2025-10-22,98979-8,eGFR (CKD-EPI 2021),81,mL/min/1.73m2
+OBS-00680,P018,2026-04-22,8480-6,Systolic blood pressure,136,mm[Hg]
+OBS-00681,P018,2026-04-22,8462-4,Diastolic blood pressure,83,mm[Hg]
+OBS-00682,P018,2026-04-22,39156-5,Body mass index,27.1,kg/m2
+OBS-00683,P018,2026-04-22,4548-4,Hemoglobin A1c,5.5,%
+OBS-00684,P018,2026-04-22,1558-6,Fasting glucose,94,mg/dL
+OBS-00685,P018,2026-04-22,2093-3,Total cholesterol,220,mg/dL
+OBS-00686,P018,2026-04-22,2085-9,HDL cholesterol,40,mg/dL
+OBS-00687,P018,2026-04-22,13457-7,LDL cholesterol (calculated),146,mg/dL
+OBS-00688,P018,2026-10-22,8480-6,Systolic blood pressure,138,mm[Hg]
+OBS-00689,P018,2026-10-22,8462-4,Diastolic blood pressure,84,mm[Hg]
+OBS-00690,P018,2026-10-22,39156-5,Body mass index,27.1,kg/m2
+OBS-00691,P018,2026-10-22,98979-8,eGFR (CKD-EPI 2021),80,mL/min/1.73m2
+OBS-00692,P018,2026-10-22,9318-7,Urine albumin/creatinine ratio,14,mg/g
+OBS-00693,P019,2023-10-08,8480-6,Systolic blood pressure,107,mm[Hg]
+OBS-00694,P019,2023-10-08,8462-4,Diastolic blood pressure,74,mm[Hg]
+OBS-00695,P019,2023-10-08,39156-5,Body mass index,20.9,kg/m2
+OBS-00696,P019,2023-10-08,98979-8,eGFR (CKD-EPI 2021),90,mL/min/1.73m2
+OBS-00697,P019,2024-04-08,8480-6,Systolic blood pressure,106,mm[Hg]
+OBS-00698,P019,2024-04-08,8462-4,Diastolic blood pressure,73,mm[Hg]
+OBS-00699,P019,2024-04-08,39156-5,Body mass index,20.9,kg/m2
+OBS-00700,P019,2024-04-08,4548-4,Hemoglobin A1c,5.2,%
+OBS-00701,P019,2024-04-08,1558-6,Fasting glucose,86,mg/dL
+OBS-00702,P019,2024-04-08,2093-3,Total cholesterol,209,mg/dL
+OBS-00703,P019,2024-04-08,2085-9,HDL cholesterol,65,mg/dL
+OBS-00704,P019,2024-04-08,13457-7,LDL cholesterol (calculated),118,mg/dL
+OBS-00705,P019,2024-10-06,8480-6,Systolic blood pressure,110,mm[Hg]
+OBS-00706,P019,2024-10-06,8462-4,Diastolic blood pressure,75,mm[Hg]
+OBS-00707,P019,2024-10-06,39156-5,Body mass index,21.0,kg/m2
+OBS-00708,P019,2024-10-06,98979-8,eGFR (CKD-EPI 2021),89,mL/min/1.73m2
+OBS-00709,P019,2025-04-10,8480-6,Systolic blood pressure,109,mm[Hg]
+OBS-00710,P019,2025-04-10,8462-4,Diastolic blood pressure,77,mm[Hg]
+OBS-00711,P019,2025-04-10,39156-5,Body mass index,21.0,kg/m2
+OBS-00712,P019,2025-10-16,8480-6,Systolic blood pressure,105,mm[Hg]
+OBS-00713,P019,2025-10-16,8462-4,Diastolic blood pressure,75,mm[Hg]
+OBS-00714,P019,2025-10-16,39156-5,Body mass index,21.0,kg/m2
+OBS-00715,P019,2025-10-16,98979-8,eGFR (CKD-EPI 2021),88,mL/min/1.73m2
+OBS-00716,P019,2026-04-29,8480-6,Systolic blood pressure,102,mm[Hg]
+OBS-00717,P019,2026-04-29,8462-4,Diastolic blood pressure,73,mm[Hg]
+OBS-00718,P019,2026-04-29,39156-5,Body mass index,21.1,kg/m2
+OBS-00719,P019,2026-04-29,4548-4,Hemoglobin A1c,5.2,%
+OBS-00720,P019,2026-04-29,1558-6,Fasting glucose,84,mg/dL
+OBS-00721,P019,2026-04-29,2093-3,Total cholesterol,214,mg/dL
+OBS-00722,P019,2026-04-29,2085-9,HDL cholesterol,65,mg/dL
+OBS-00723,P019,2026-04-29,13457-7,LDL cholesterol (calculated),126,mg/dL
+OBS-00724,P019,2026-10-24,8480-6,Systolic blood pressure,107,mm[Hg]
+OBS-00725,P019,2026-10-24,8462-4,Diastolic blood pressure,74,mm[Hg]
+OBS-00726,P019,2026-10-24,39156-5,Body mass index,21.1,kg/m2
+OBS-00727,P019,2026-10-24,98979-8,eGFR (CKD-EPI 2021),87,mL/min/1.73m2
+OBS-00728,P020,2023-10-17,8480-6,Systolic blood pressure,114,mm[Hg]
+OBS-00729,P020,2023-10-17,8462-4,Diastolic blood pressure,75,mm[Hg]
+OBS-00730,P020,2023-10-17,39156-5,Body mass index,21.3,kg/m2
+OBS-00731,P020,2023-10-17,98979-8,eGFR (CKD-EPI 2021),95,mL/min/1.73m2
+OBS-00732,P020,2024-04-28,8480-6,Systolic blood pressure,121,mm[Hg]
+OBS-00733,P020,2024-04-28,8462-4,Diastolic blood pressure,76,mm[Hg]
+OBS-00734,P020,2024-04-28,39156-5,Body mass index,21.3,kg/m2
+OBS-00735,P020,2024-04-28,4548-4,Hemoglobin A1c,5.3,%
+OBS-00736,P020,2024-04-28,1558-6,Fasting glucose,87,mg/dL
+OBS-00737,P020,2024-04-28,2093-3,Total cholesterol,168,mg/dL
+OBS-00738,P020,2024-04-28,2085-9,HDL cholesterol,67,mg/dL
+OBS-00739,P020,2024-04-28,13457-7,LDL cholesterol (calculated),85,mg/dL
+OBS-00740,P020,2024-10-15,8480-6,Systolic blood pressure,121,mm[Hg]
+OBS-00741,P020,2024-10-15,8462-4,Diastolic blood pressure,78,mm[Hg]
+OBS-00742,P020,2024-10-15,39156-5,Body mass index,21.4,kg/m2
+OBS-00743,P020,2024-10-15,98979-8,eGFR (CKD-EPI 2021),94,mL/min/1.73m2
+OBS-00744,P020,2025-04-27,8480-6,Systolic blood pressure,121,mm[Hg]
+OBS-00745,P020,2025-04-27,8462-4,Diastolic blood pressure,75,mm[Hg]
+OBS-00746,P020,2025-04-27,39156-5,Body mass index,21.4,kg/m2
+OBS-00747,P020,2025-10-25,8480-6,Systolic blood pressure,116,mm[Hg]
+OBS-00748,P020,2025-10-25,8462-4,Diastolic blood pressure,76,mm[Hg]
+OBS-00749,P020,2025-10-25,39156-5,Body mass index,21.4,kg/m2
+OBS-00750,P020,2025-10-25,98979-8,eGFR (CKD-EPI 2021),93,mL/min/1.73m2
+OBS-00751,P020,2026-04-28,8480-6,Systolic blood pressure,115,mm[Hg]
+OBS-00752,P020,2026-04-28,8462-4,Diastolic blood pressure,78,mm[Hg]
+OBS-00753,P020,2026-04-28,39156-5,Body mass index,21.5,kg/m2
+OBS-00754,P020,2026-04-28,4548-4,Hemoglobin A1c,5.3,%
+OBS-00755,P020,2026-04-28,1558-6,Fasting glucose,90,mg/dL
+OBS-00756,P020,2026-04-28,2093-3,Total cholesterol,171,mg/dL
+OBS-00757,P020,2026-04-28,2085-9,HDL cholesterol,67,mg/dL
+OBS-00758,P020,2026-04-28,13457-7,LDL cholesterol (calculated),76,mg/dL
+OBS-00759,P020,2026-10-24,8480-6,Systolic blood pressure,119,mm[Hg]
+OBS-00760,P020,2026-10-24,8462-4,Diastolic blood pressure,77,mm[Hg]
+OBS-00761,P020,2026-10-24,39156-5,Body mass index,21.5,kg/m2
+OBS-00762,P020,2026-10-24,98979-8,eGFR (CKD-EPI 2021),92,mL/min/1.73m2
+OBS-00763,P021,2023-10-22,8480-6,Systolic blood pressure,128,mm[Hg]
+OBS-00764,P021,2023-10-22,8462-4,Diastolic blood pressure,76,mm[Hg]
+OBS-00765,P021,2023-10-22,39156-5,Body mass index,30.5,kg/m2
+OBS-00766,P021,2023-10-22,4548-4,Hemoglobin A1c,7.1,%
+OBS-00767,P021,2023-10-22,1558-6,Fasting glucose,134,mg/dL
+OBS-00768,P021,2023-10-22,98979-8,eGFR (CKD-EPI 2021),64,mL/min/1.73m2
+OBS-00769,P021,2024-04-22,8480-6,Systolic blood pressure,126,mm[Hg]
+OBS-00770,P021,2024-04-22,8462-4,Diastolic blood pressure,74,mm[Hg]
+OBS-00771,P021,2024-04-22,39156-5,Body mass index,30.5,kg/m2
+OBS-00772,P021,2024-04-22,4548-4,Hemoglobin A1c,7.0,%
+OBS-00773,P021,2024-04-22,1558-6,Fasting glucose,132,mg/dL
+OBS-00774,P021,2024-04-22,2093-3,Total cholesterol,168,mg/dL
+OBS-00775,P021,2024-04-22,2085-9,HDL cholesterol,52,mg/dL
+OBS-00776,P021,2024-04-22,13457-7,LDL cholesterol (calculated),88,mg/dL
+OBS-00777,P021,2024-04-22,98979-8,eGFR (CKD-EPI 2021),61,mL/min/1.73m2
+OBS-00778,P021,2024-10-21,8480-6,Systolic blood pressure,130,mm[Hg]
+OBS-00779,P021,2024-10-21,8462-4,Diastolic blood pressure,77,mm[Hg]
+OBS-00780,P021,2024-10-21,39156-5,Body mass index,30.6,kg/m2
+OBS-00781,P021,2024-10-21,4548-4,Hemoglobin A1c,7.2,%
+OBS-00782,P021,2024-10-21,1558-6,Fasting glucose,138,mg/dL
+OBS-00783,P021,2024-10-21,98979-8,eGFR (CKD-EPI 2021),57,mL/min/1.73m2
+OBS-00784,P021,2024-10-21,9318-7,Urine albumin/creatinine ratio,42,mg/g
+OBS-00785,P021,2025-04-22,8480-6,Systolic blood pressure,127,mm[Hg]
+OBS-00786,P021,2025-04-22,8462-4,Diastolic blood pressure,75,mm[Hg]
+OBS-00787,P021,2025-04-22,39156-5,Body mass index,30.6,kg/m2
+OBS-00788,P021,2025-04-22,4548-4,Hemoglobin A1c,7.3,%
+OBS-00789,P021,2025-04-22,1558-6,Fasting glucose,140,mg/dL
+OBS-00790,P021,2025-04-22,98979-8,eGFR (CKD-EPI 2021),52,mL/min/1.73m2
+OBS-00791,P021,2025-10-22,8480-6,Systolic blood pressure,129,mm[Hg]
+OBS-00792,P021,2025-10-22,8462-4,Diastolic blood pressure,76,mm[Hg]
+OBS-00793,P021,2025-10-22,39156-5,Body mass index,30.6,kg/m2
+OBS-00794,P021,2025-10-22,4548-4,Hemoglobin A1c,7.1,%
+OBS-00795,P021,2025-10-22,1558-6,Fasting glucose,133,mg/dL
+OBS-00796,P021,2025-10-22,98979-8,eGFR (CKD-EPI 2021),47,mL/min/1.73m2
+OBS-00797,P021,2025-10-22,9318-7,Urine albumin/creatinine ratio,55,mg/g
+OBS-00798,P021,2026-04-22,8480-6,Systolic blood pressure,128,mm[Hg]
+OBS-00799,P021,2026-04-22,8462-4,Diastolic blood pressure,75,mm[Hg]
+OBS-00800,P021,2026-04-22,39156-5,Body mass index,30.7,kg/m2
+OBS-00801,P021,2026-04-22,4548-4,Hemoglobin A1c,7.2,%
+OBS-00802,P021,2026-04-22,1558-6,Fasting glucose,136,mg/dL
+OBS-00803,P021,2026-04-22,2093-3,Total cholesterol,164,mg/dL
+OBS-00804,P021,2026-04-22,2085-9,HDL cholesterol,54,mg/dL
+OBS-00805,P021,2026-04-22,13457-7,LDL cholesterol (calculated),84,mg/dL
+OBS-00806,P021,2026-04-22,98979-8,eGFR (CKD-EPI 2021),42,mL/min/1.73m2
+OBS-00807,P021,2026-10-22,8480-6,Systolic blood pressure,128,mm[Hg]
+OBS-00808,P021,2026-10-22,8462-4,Diastolic blood pressure,76,mm[Hg]
+OBS-00809,P021,2026-10-22,39156-5,Body mass index,30.7,kg/m2
+OBS-00810,P021,2026-10-22,4548-4,Hemoglobin A1c,7.3,%
+OBS-00811,P021,2026-10-22,1558-6,Fasting glucose,139,mg/dL
+OBS-00812,P021,2026-10-22,98979-8,eGFR (CKD-EPI 2021),38,mL/min/1.73m2
+OBS-00813,P021,2026-10-22,9318-7,Urine albumin/creatinine ratio,68,mg/g
+OBS-00814,P022,2023-10-27,8480-6,Systolic blood pressure,117,mm[Hg]
+OBS-00815,P022,2023-10-27,8462-4,Diastolic blood pressure,77,mm[Hg]
+OBS-00816,P022,2023-10-27,39156-5,Body mass index,25.5,kg/m2
+OBS-00817,P022,2023-10-27,98979-8,eGFR (CKD-EPI 2021),88,mL/min/1.73m2
+OBS-00818,P022,2024-04-11,8480-6,Systolic blood pressure,111,mm[Hg]
+OBS-00819,P022,2024-04-11,8462-4,Diastolic blood pressure,74,mm[Hg]
+OBS-00820,P022,2024-04-11,39156-5,Body mass index,25.5,kg/m2
+OBS-00821,P022,2024-04-11,4548-4,Hemoglobin A1c,4.9,%
+OBS-00822,P022,2024-04-11,1558-6,Fasting glucose,91,mg/dL
+OBS-00823,P022,2024-04-11,2093-3,Total cholesterol,191,mg/dL
+OBS-00824,P022,2024-04-11,2085-9,HDL cholesterol,42,mg/dL
+OBS-00825,P022,2024-04-11,13457-7,LDL cholesterol (calculated),119,mg/dL
+OBS-00826,P022,2024-10-09,8480-6,Systolic blood pressure,114,mm[Hg]
+OBS-00827,P022,2024-10-09,8462-4,Diastolic blood pressure,75,mm[Hg]
+OBS-00828,P022,2024-10-09,39156-5,Body mass index,25.6,kg/m2
+OBS-00829,P022,2024-10-09,98979-8,eGFR (CKD-EPI 2021),87,mL/min/1.73m2
+OBS-00830,P022,2025-04-12,8480-6,Systolic blood pressure,117,mm[Hg]
+OBS-00831,P022,2025-04-12,8462-4,Diastolic blood pressure,75,mm[Hg]
+OBS-00832,P022,2025-04-12,39156-5,Body mass index,25.6,kg/m2
+OBS-00833,P022,2025-10-18,8480-6,Systolic blood pressure,116,mm[Hg]
+OBS-00834,P022,2025-10-18,8462-4,Diastolic blood pressure,74,mm[Hg]
+OBS-00835,P022,2025-10-18,39156-5,Body mass index,25.6,kg/m2
+OBS-00836,P022,2025-10-18,98979-8,eGFR (CKD-EPI 2021),86,mL/min/1.73m2
+OBS-00837,P022,2026-04-10,8480-6,Systolic blood pressure,112,mm[Hg]
+OBS-00838,P022,2026-04-10,8462-4,Diastolic blood pressure,76,mm[Hg]
+OBS-00839,P022,2026-04-10,39156-5,Body mass index,25.7,kg/m2
+OBS-00840,P022,2026-04-10,4548-4,Hemoglobin A1c,5.0,%
+OBS-00841,P022,2026-04-10,1558-6,Fasting glucose,92,mg/dL
+OBS-00842,P022,2026-04-10,2093-3,Total cholesterol,179,mg/dL
+OBS-00843,P022,2026-04-10,2085-9,HDL cholesterol,42,mg/dL
+OBS-00844,P022,2026-04-10,13457-7,LDL cholesterol (calculated),120,mg/dL
+OBS-00845,P022,2026-10-22,8480-6,Systolic blood pressure,116,mm[Hg]
+OBS-00846,P022,2026-10-22,8462-4,Diastolic blood pressure,73,mm[Hg]
+OBS-00847,P022,2026-10-22,39156-5,Body mass index,25.7,kg/m2
+OBS-00848,P022,2026-10-22,98979-8,eGFR (CKD-EPI 2021),85,mL/min/1.73m2
+OBS-00849,P023,2023-10-07,8480-6,Systolic blood pressure,107,mm[Hg]
+OBS-00850,P023,2023-10-07,8462-4,Diastolic blood pressure,69,mm[Hg]
+OBS-00851,P023,2023-10-07,39156-5,Body mass index,27.1,kg/m2
+OBS-00852,P023,2023-10-07,98979-8,eGFR (CKD-EPI 2021),91,mL/min/1.73m2
+OBS-00853,P023,2024-04-25,8480-6,Systolic blood pressure,110,mm[Hg]
+OBS-00854,P023,2024-04-25,8462-4,Diastolic blood pressure,70,mm[Hg]
+OBS-00855,P023,2024-04-25,39156-5,Body mass index,27.1,kg/m2
+OBS-00856,P023,2024-04-25,4548-4,Hemoglobin A1c,5.0,%
+OBS-00857,P023,2024-04-25,1558-6,Fasting glucose,94,mg/dL
+OBS-00858,P023,2024-04-25,2093-3,Total cholesterol,187,mg/dL
+OBS-00859,P023,2024-04-25,2085-9,HDL cholesterol,58,mg/dL
+OBS-00860,P023,2024-04-25,13457-7,LDL cholesterol (calculated),103,mg/dL
+OBS-00861,P023,2024-10-21,8480-6,Systolic blood pressure,107,mm[Hg]
+OBS-00862,P023,2024-10-21,8462-4,Diastolic blood pressure,68,mm[Hg]
+OBS-00863,P023,2024-10-21,39156-5,Body mass index,27.2,kg/m2
+OBS-00864,P023,2024-10-21,98979-8,eGFR (CKD-EPI 2021),90,mL/min/1.73m2
+OBS-00865,P023,2025-04-16,8480-6,Systolic blood pressure,110,mm[Hg]
+OBS-00866,P023,2025-04-16,8462-4,Diastolic blood pressure,69,mm[Hg]
+OBS-00867,P023,2025-04-16,39156-5,Body mass index,27.2,kg/m2
+OBS-00868,P023,2025-10-09,8480-6,Systolic blood pressure,112,mm[Hg]
+OBS-00869,P023,2025-10-09,8462-4,Diastolic blood pressure,69,mm[Hg]
+OBS-00870,P023,2025-10-09,39156-5,Body mass index,27.2,kg/m2
+OBS-00871,P023,2025-10-09,98979-8,eGFR (CKD-EPI 2021),89,mL/min/1.73m2
+OBS-00872,P023,2026-04-21,8480-6,Systolic blood pressure,109,mm[Hg]
+OBS-00873,P023,2026-04-21,8462-4,Diastolic blood pressure,64,mm[Hg]
+OBS-00874,P023,2026-04-21,39156-5,Body mass index,27.3,kg/m2
+OBS-00875,P023,2026-04-21,4548-4,Hemoglobin A1c,5.0,%
+OBS-00876,P023,2026-04-21,1558-6,Fasting glucose,94,mg/dL
+OBS-00877,P023,2026-04-21,2093-3,Total cholesterol,195,mg/dL
+OBS-00878,P023,2026-04-21,2085-9,HDL cholesterol,58,mg/dL
+OBS-00879,P023,2026-04-21,13457-7,LDL cholesterol (calculated),106,mg/dL
+OBS-00880,P023,2026-10-14,8480-6,Systolic blood pressure,113,mm[Hg]
+OBS-00881,P023,2026-10-14,8462-4,Diastolic blood pressure,70,mm[Hg]
+OBS-00882,P023,2026-10-14,39156-5,Body mass index,27.3,kg/m2
+OBS-00883,P023,2026-10-14,98979-8,eGFR (CKD-EPI 2021),88,mL/min/1.73m2
+OBS-00884,P024,2023-10-07,8480-6,Systolic blood pressure,125,mm[Hg]
+OBS-00885,P024,2023-10-07,8462-4,Diastolic blood pressure,67,mm[Hg]
+OBS-00886,P024,2023-10-07,39156-5,Body mass index,24.7,kg/m2
+OBS-00887,P024,2023-10-07,4548-4,Hemoglobin A1c,6.9,%
+OBS-00888,P024,2023-10-07,1558-6,Fasting glucose,148,mg/dL
+OBS-00889,P024,2023-10-07,98979-8,eGFR (CKD-EPI 2021),94,mL/min/1.73m2
+OBS-00890,P024,2024-04-24,8480-6,Systolic blood pressure,120,mm[Hg]
+OBS-00891,P024,2024-04-24,8462-4,Diastolic blood pressure,70,mm[Hg]
+OBS-00892,P024,2024-04-24,39156-5,Body mass index,24.7,kg/m2
+OBS-00893,P024,2024-04-24,4548-4,Hemoglobin A1c,6.9,%
+OBS-00894,P024,2024-04-24,1558-6,Fasting glucose,143,mg/dL
+OBS-00895,P024,2024-04-24,2093-3,Total cholesterol,159,mg/dL
+OBS-00896,P024,2024-04-24,2085-9,HDL cholesterol,58,mg/dL
+OBS-00897,P024,2024-04-24,13457-7,LDL cholesterol (calculated),73,mg/dL
+OBS-00898,P024,2024-10-23,8480-6,Systolic blood pressure,124,mm[Hg]
+OBS-00899,P024,2024-10-23,8462-4,Diastolic blood pressure,73,mm[Hg]
+OBS-00900,P024,2024-10-23,39156-5,Body mass index,24.8,kg/m2
+OBS-00901,P024,2024-10-23,4548-4,Hemoglobin A1c,6.8,%
+OBS-00902,P024,2024-10-23,1558-6,Fasting glucose,141,mg/dL
+OBS-00903,P024,2024-10-23,98979-8,eGFR (CKD-EPI 2021),93,mL/min/1.73m2
+OBS-00904,P024,2024-10-23,9318-7,Urine albumin/creatinine ratio,16,mg/g
+OBS-00905,P024,2025-04-27,8480-6,Systolic blood pressure,119,mm[Hg]
+OBS-00906,P024,2025-04-27,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-00907,P024,2025-04-27,39156-5,Body mass index,24.8,kg/m2
+OBS-00908,P024,2025-04-27,4548-4,Hemoglobin A1c,6.9,%
+OBS-00909,P024,2025-04-27,1558-6,Fasting glucose,147,mg/dL
+OBS-00910,P024,2025-10-22,8480-6,Systolic blood pressure,119,mm[Hg]
+OBS-00911,P024,2025-10-22,8462-4,Diastolic blood pressure,70,mm[Hg]
+OBS-00912,P024,2025-10-22,39156-5,Body mass index,24.8,kg/m2
+OBS-00913,P024,2025-10-22,4548-4,Hemoglobin A1c,6.9,%
+OBS-00914,P024,2025-10-22,1558-6,Fasting glucose,138,mg/dL
+OBS-00915,P024,2025-10-22,98979-8,eGFR (CKD-EPI 2021),92,mL/min/1.73m2
+OBS-00916,P024,2026-04-13,8480-6,Systolic blood pressure,125,mm[Hg]
+OBS-00917,P024,2026-04-13,8462-4,Diastolic blood pressure,73,mm[Hg]
+OBS-00918,P024,2026-04-13,39156-5,Body mass index,24.9,kg/m2
+OBS-00919,P024,2026-04-13,4548-4,Hemoglobin A1c,6.7,%
+OBS-00920,P024,2026-04-13,1558-6,Fasting glucose,140,mg/dL
+OBS-00921,P024,2026-04-13,2093-3,Total cholesterol,154,mg/dL
+OBS-00922,P024,2026-04-13,2085-9,HDL cholesterol,58,mg/dL
+OBS-00923,P024,2026-04-13,13457-7,LDL cholesterol (calculated),65,mg/dL
+OBS-00924,P024,2026-10-22,8480-6,Systolic blood pressure,119,mm[Hg]
+OBS-00925,P024,2026-10-22,8462-4,Diastolic blood pressure,70,mm[Hg]
+OBS-00926,P024,2026-10-22,39156-5,Body mass index,24.9,kg/m2
+OBS-00927,P024,2026-10-22,4548-4,Hemoglobin A1c,6.8,%
+OBS-00928,P024,2026-10-22,1558-6,Fasting glucose,136,mg/dL
+OBS-00929,P024,2026-10-22,98979-8,eGFR (CKD-EPI 2021),91,mL/min/1.73m2
+OBS-00930,P024,2026-10-22,9318-7,Urine albumin/creatinine ratio,7,mg/g
+OBS-00931,P025,2023-10-25,8480-6,Systolic blood pressure,122,mm[Hg]
+OBS-00932,P025,2023-10-25,8462-4,Diastolic blood pressure,77,mm[Hg]
+OBS-00933,P025,2023-10-25,39156-5,Body mass index,32.4,kg/m2
+OBS-00934,P025,2023-10-25,98979-8,eGFR (CKD-EPI 2021),83,mL/min/1.73m2
+OBS-00935,P025,2024-04-07,8480-6,Systolic blood pressure,127,mm[Hg]
+OBS-00936,P025,2024-04-07,8462-4,Diastolic blood pressure,75,mm[Hg]
+OBS-00937,P025,2024-04-07,39156-5,Body mass index,32.4,kg/m2
+OBS-00938,P025,2024-04-07,4548-4,Hemoglobin A1c,5.3,%
+OBS-00939,P025,2024-04-07,1558-6,Fasting glucose,88,mg/dL
+OBS-00940,P025,2024-04-07,2093-3,Total cholesterol,211,mg/dL
+OBS-00941,P025,2024-04-07,2085-9,HDL cholesterol,43,mg/dL
+OBS-00942,P025,2024-04-07,13457-7,LDL cholesterol (calculated),141,mg/dL
+OBS-00943,P025,2024-10-22,8480-6,Systolic blood pressure,125,mm[Hg]
+OBS-00944,P025,2024-10-22,8462-4,Diastolic blood pressure,76,mm[Hg]
+OBS-00945,P025,2024-10-22,39156-5,Body mass index,32.5,kg/m2
+OBS-00946,P025,2024-10-22,98979-8,eGFR (CKD-EPI 2021),82,mL/min/1.73m2
+OBS-00947,P025,2024-10-22,9318-7,Urine albumin/creatinine ratio,15,mg/g
+OBS-00948,P025,2025-04-28,8480-6,Systolic blood pressure,128,mm[Hg]
+OBS-00949,P025,2025-04-28,8462-4,Diastolic blood pressure,76,mm[Hg]
+OBS-00950,P025,2025-04-28,39156-5,Body mass index,32.5,kg/m2
+OBS-00951,P025,2025-10-13,8480-6,Systolic blood pressure,124,mm[Hg]
+OBS-00952,P025,2025-10-13,8462-4,Diastolic blood pressure,77,mm[Hg]
+OBS-00953,P025,2025-10-13,39156-5,Body mass index,32.5,kg/m2
+OBS-00954,P025,2025-10-13,98979-8,eGFR (CKD-EPI 2021),81,mL/min/1.73m2
+OBS-00955,P025,2026-04-28,8480-6,Systolic blood pressure,124,mm[Hg]
+OBS-00956,P025,2026-04-28,8462-4,Diastolic blood pressure,76,mm[Hg]
+OBS-00957,P025,2026-04-28,39156-5,Body mass index,32.6,kg/m2
+OBS-00958,P025,2026-04-28,4548-4,Hemoglobin A1c,5.2,%
+OBS-00959,P025,2026-04-28,1558-6,Fasting glucose,89,mg/dL
+OBS-00960,P025,2026-04-28,2093-3,Total cholesterol,211,mg/dL
+OBS-00961,P025,2026-04-28,2085-9,HDL cholesterol,43,mg/dL
+OBS-00962,P025,2026-04-28,13457-7,LDL cholesterol (calculated),136,mg/dL
+OBS-00963,P025,2026-10-13,8480-6,Systolic blood pressure,121,mm[Hg]
+OBS-00964,P025,2026-10-13,8462-4,Diastolic blood pressure,80,mm[Hg]
+OBS-00965,P025,2026-10-13,39156-5,Body mass index,32.6,kg/m2
+OBS-00966,P025,2026-10-13,98979-8,eGFR (CKD-EPI 2021),80,mL/min/1.73m2
+OBS-00967,P025,2026-10-13,9318-7,Urine albumin/creatinine ratio,24,mg/g
+OBS-00968,P026,2020-05-02,2093-3,Total cholesterol,214,mg/dL
+OBS-00969,P026,2020-05-02,2085-9,HDL cholesterol,46,mg/dL
+OBS-00970,P026,2020-05-02,13457-7,LDL cholesterol (calculated),140,mg/dL
+OBS-00971,P026,2023-10-22,8480-6,Systolic blood pressure,124,mm[Hg]
+OBS-00972,P026,2023-10-22,8462-4,Diastolic blood pressure,78,mm[Hg]
+OBS-00973,P026,2023-10-22,39156-5,Body mass index,27.7,kg/m2
+OBS-00974,P026,2023-10-22,98979-8,eGFR (CKD-EPI 2021),92,mL/min/1.73m2
+OBS-00975,P026,2024-04-22,8480-6,Systolic blood pressure,122,mm[Hg]
+OBS-00976,P026,2024-04-22,8462-4,Diastolic blood pressure,77,mm[Hg]
+OBS-00977,P026,2024-04-22,39156-5,Body mass index,27.7,kg/m2
+OBS-00978,P026,2024-04-22,4548-4,Hemoglobin A1c,5.3,%
+OBS-00979,P026,2024-04-22,1558-6,Fasting glucose,90,mg/dL
+OBS-00980,P026,2024-10-21,8480-6,Systolic blood pressure,126,mm[Hg]
+OBS-00981,P026,2024-10-21,8462-4,Diastolic blood pressure,79,mm[Hg]
+OBS-00982,P026,2024-10-21,39156-5,Body mass index,27.8,kg/m2
+OBS-00983,P026,2024-10-21,98979-8,eGFR (CKD-EPI 2021),91,mL/min/1.73m2
+OBS-00984,P026,2024-10-21,9318-7,Urine albumin/creatinine ratio,10,mg/g
+OBS-00985,P026,2025-04-22,8480-6,Systolic blood pressure,123,mm[Hg]
+OBS-00986,P026,2025-04-22,8462-4,Diastolic blood pressure,78,mm[Hg]
+OBS-00987,P026,2025-04-22,39156-5,Body mass index,27.8,kg/m2
+OBS-00988,P026,2025-10-22,8480-6,Systolic blood pressure,125,mm[Hg]
+OBS-00989,P026,2025-10-22,8462-4,Diastolic blood pressure,78,mm[Hg]
+OBS-00990,P026,2025-10-22,39156-5,Body mass index,27.8,kg/m2
+OBS-00991,P026,2025-10-22,98979-8,eGFR (CKD-EPI 2021),90,mL/min/1.73m2
+OBS-00992,P026,2026-04-22,8480-6,Systolic blood pressure,122,mm[Hg]
+OBS-00993,P026,2026-04-22,8462-4,Diastolic blood pressure,76,mm[Hg]
+OBS-00994,P026,2026-04-22,39156-5,Body mass index,27.9,kg/m2
+OBS-00995,P026,2026-04-22,4548-4,Hemoglobin A1c,5.4,%
+OBS-00996,P026,2026-04-22,1558-6,Fasting glucose,91,mg/dL
+OBS-00997,P026,2026-10-22,8480-6,Systolic blood pressure,124,mm[Hg]
+OBS-00998,P026,2026-10-22,8462-4,Diastolic blood pressure,78,mm[Hg]
+OBS-00999,P026,2026-10-22,39156-5,Body mass index,27.9,kg/m2
+OBS-01000,P026,2026-10-22,98979-8,eGFR (CKD-EPI 2021),89,mL/min/1.73m2
+OBS-01001,P026,2026-10-22,9318-7,Urine albumin/creatinine ratio,12,mg/g
+OBS-01002,P027,2023-10-09,8480-6,Systolic blood pressure,120,mm[Hg]
+OBS-01003,P027,2023-10-09,8462-4,Diastolic blood pressure,76,mm[Hg]
+OBS-01004,P027,2023-10-09,39156-5,Body mass index,23.8,kg/m2
+OBS-01005,P027,2023-10-09,98979-8,eGFR (CKD-EPI 2021),93,mL/min/1.73m2
+OBS-01006,P027,2024-04-19,8480-6,Systolic blood pressure,114,mm[Hg]
+OBS-01007,P027,2024-04-19,8462-4,Diastolic blood pressure,74,mm[Hg]
+OBS-01008,P027,2024-04-19,39156-5,Body mass index,23.8,kg/m2
+OBS-01009,P027,2024-04-19,4548-4,Hemoglobin A1c,5.4,%
+OBS-01010,P027,2024-04-19,1558-6,Fasting glucose,87,mg/dL
+OBS-01011,P027,2024-04-19,2093-3,Total cholesterol,226,mg/dL
+OBS-01012,P027,2024-04-19,2085-9,HDL cholesterol,44,mg/dL
+OBS-01013,P027,2024-04-19,13457-7,LDL cholesterol (calculated),143,mg/dL
+OBS-01014,P027,2024-10-25,8480-6,Systolic blood pressure,113,mm[Hg]
+OBS-01015,P027,2024-10-25,8462-4,Diastolic blood pressure,78,mm[Hg]
+OBS-01016,P027,2024-10-25,39156-5,Body mass index,23.9,kg/m2
+OBS-01017,P027,2024-10-25,98979-8,eGFR (CKD-EPI 2021),92,mL/min/1.73m2
+OBS-01018,P027,2024-10-25,9318-7,Urine albumin/creatinine ratio,12,mg/g
+OBS-01019,P027,2025-04-21,8480-6,Systolic blood pressure,116,mm[Hg]
+OBS-01020,P027,2025-04-21,8462-4,Diastolic blood pressure,78,mm[Hg]
+OBS-01021,P027,2025-04-21,39156-5,Body mass index,23.9,kg/m2
+OBS-01022,P027,2025-10-20,8480-6,Systolic blood pressure,116,mm[Hg]
+OBS-01023,P027,2025-10-20,8462-4,Diastolic blood pressure,76,mm[Hg]
+OBS-01024,P027,2025-10-20,39156-5,Body mass index,23.9,kg/m2
+OBS-01025,P027,2025-10-20,98979-8,eGFR (CKD-EPI 2021),91,mL/min/1.73m2
+OBS-01026,P027,2026-04-16,8480-6,Systolic blood pressure,120,mm[Hg]
+OBS-01027,P027,2026-04-16,8462-4,Diastolic blood pressure,79,mm[Hg]
+OBS-01028,P027,2026-04-16,39156-5,Body mass index,24.0,kg/m2
+OBS-01029,P027,2026-04-16,4548-4,Hemoglobin A1c,5.3,%
+OBS-01030,P027,2026-04-16,1558-6,Fasting glucose,92,mg/dL
+OBS-01031,P027,2026-04-16,2093-3,Total cholesterol,223,mg/dL
+OBS-01032,P027,2026-04-16,2085-9,HDL cholesterol,44,mg/dL
+OBS-01033,P027,2026-04-16,13457-7,LDL cholesterol (calculated),148,mg/dL
+OBS-01034,P027,2026-10-12,8480-6,Systolic blood pressure,117,mm[Hg]
+OBS-01035,P027,2026-10-12,8462-4,Diastolic blood pressure,78,mm[Hg]
+OBS-01036,P027,2026-10-12,39156-5,Body mass index,24.0,kg/m2
+OBS-01037,P027,2026-10-12,98979-8,eGFR (CKD-EPI 2021),90,mL/min/1.73m2
+OBS-01038,P027,2026-10-12,9318-7,Urine albumin/creatinine ratio,22,mg/g
+OBS-01039,P028,2023-10-09,8480-6,Systolic blood pressure,122,mm[Hg]
+OBS-01040,P028,2023-10-09,8462-4,Diastolic blood pressure,76,mm[Hg]
+OBS-01041,P028,2023-10-09,39156-5,Body mass index,25.3,kg/m2
+OBS-01042,P028,2023-10-09,4548-4,Hemoglobin A1c,7.0,%
+OBS-01043,P028,2023-10-09,1558-6,Fasting glucose,129,mg/dL
+OBS-01044,P028,2023-10-09,98979-8,eGFR (CKD-EPI 2021),92,mL/min/1.73m2
+OBS-01045,P028,2024-04-14,8480-6,Systolic blood pressure,119,mm[Hg]
+OBS-01046,P028,2024-04-14,8462-4,Diastolic blood pressure,77,mm[Hg]
+OBS-01047,P028,2024-04-14,39156-5,Body mass index,25.3,kg/m2
+OBS-01048,P028,2024-04-14,4548-4,Hemoglobin A1c,7.0,%
+OBS-01049,P028,2024-04-14,1558-6,Fasting glucose,127,mg/dL
+OBS-01050,P028,2024-04-14,2093-3,Total cholesterol,181,mg/dL
+OBS-01051,P028,2024-04-14,2085-9,HDL cholesterol,66,mg/dL
+OBS-01052,P028,2024-04-14,13457-7,LDL cholesterol (calculated),93,mg/dL
+OBS-01053,P028,2024-10-24,8480-6,Systolic blood pressure,123,mm[Hg]
+OBS-01054,P028,2024-10-24,8462-4,Diastolic blood pressure,71,mm[Hg]
+OBS-01055,P028,2024-10-24,39156-5,Body mass index,25.4,kg/m2
+OBS-01056,P028,2024-10-24,4548-4,Hemoglobin A1c,7.1,%
+OBS-01057,P028,2024-10-24,1558-6,Fasting glucose,123,mg/dL
+OBS-01058,P028,2024-10-24,98979-8,eGFR (CKD-EPI 2021),91,mL/min/1.73m2
+OBS-01059,P028,2024-10-24,9318-7,Urine albumin/creatinine ratio,7,mg/g
+OBS-01060,P028,2025-04-15,8480-6,Systolic blood pressure,122,mm[Hg]
+OBS-01061,P028,2025-04-15,8462-4,Diastolic blood pressure,74,mm[Hg]
+OBS-01062,P028,2025-04-15,39156-5,Body mass index,25.4,kg/m2
+OBS-01063,P028,2025-04-15,4548-4,Hemoglobin A1c,7.3,%
+OBS-01064,P028,2025-04-15,1558-6,Fasting glucose,128,mg/dL
+OBS-01065,P028,2025-10-22,8480-6,Systolic blood pressure,121,mm[Hg]
+OBS-01066,P028,2025-10-22,8462-4,Diastolic blood pressure,75,mm[Hg]
+OBS-01067,P028,2025-10-22,39156-5,Body mass index,25.4,kg/m2
+OBS-01068,P028,2025-10-22,4548-4,Hemoglobin A1c,7.0,%
+OBS-01069,P028,2025-10-22,1558-6,Fasting glucose,125,mg/dL
+OBS-01070,P028,2025-10-22,98979-8,eGFR (CKD-EPI 2021),90,mL/min/1.73m2
+OBS-01071,P028,2026-04-29,8480-6,Systolic blood pressure,124,mm[Hg]
+OBS-01072,P028,2026-04-29,8462-4,Diastolic blood pressure,73,mm[Hg]
+OBS-01073,P028,2026-04-29,39156-5,Body mass index,25.5,kg/m2
+OBS-01074,P028,2026-04-29,4548-4,Hemoglobin A1c,7.3,%
+OBS-01075,P028,2026-04-29,1558-6,Fasting glucose,129,mg/dL
+OBS-01076,P028,2026-04-29,2093-3,Total cholesterol,180,mg/dL
+OBS-01077,P028,2026-04-29,2085-9,HDL cholesterol,66,mg/dL
+OBS-01078,P028,2026-04-29,13457-7,LDL cholesterol (calculated),96,mg/dL
+OBS-01079,P028,2026-10-19,8480-6,Systolic blood pressure,124,mm[Hg]
+OBS-01080,P028,2026-10-19,8462-4,Diastolic blood pressure,76,mm[Hg]
+OBS-01081,P028,2026-10-19,39156-5,Body mass index,25.5,kg/m2
+OBS-01082,P028,2026-10-19,4548-4,Hemoglobin A1c,7.1,%
+OBS-01083,P028,2026-10-19,1558-6,Fasting glucose,127,mg/dL
+OBS-01084,P028,2026-10-19,98979-8,eGFR (CKD-EPI 2021),89,mL/min/1.73m2
+OBS-01085,P028,2026-10-19,9318-7,Urine albumin/creatinine ratio,17,mg/g
+OBS-01086,P029,2023-10-22,8480-6,Systolic blood pressure,114,mm[Hg]
+OBS-01087,P029,2023-10-22,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-01088,P029,2023-10-22,39156-5,Body mass index,24.2,kg/m2
+OBS-01089,P029,2023-10-22,4548-4,Hemoglobin A1c,5.3,%
+OBS-01090,P029,2023-10-22,1558-6,Fasting glucose,88,mg/dL
+OBS-01091,P029,2023-10-22,98979-8,eGFR (CKD-EPI 2021),101,mL/min/1.73m2
+OBS-01092,P029,2024-04-22,8480-6,Systolic blood pressure,116,mm[Hg]
+OBS-01093,P029,2024-04-22,8462-4,Diastolic blood pressure,74,mm[Hg]
+OBS-01094,P029,2024-04-22,39156-5,Body mass index,24.2,kg/m2
+OBS-01095,P029,2024-04-22,2093-3,Total cholesterol,172,mg/dL
+OBS-01096,P029,2024-04-22,2085-9,HDL cholesterol,66,mg/dL
+OBS-01097,P029,2024-04-22,13457-7,LDL cholesterol (calculated),90,mg/dL
+OBS-01098,P029,2024-10-21,8480-6,Systolic blood pressure,112,mm[Hg]
+OBS-01099,P029,2024-10-21,8462-4,Diastolic blood pressure,70,mm[Hg]
+OBS-01100,P029,2024-10-21,39156-5,Body mass index,24.3,kg/m2
+OBS-01101,P029,2024-10-21,4548-4,Hemoglobin A1c,5.2,%
+OBS-01102,P029,2024-10-21,1558-6,Fasting glucose,86,mg/dL
+OBS-01103,P029,2024-10-21,98979-8,eGFR (CKD-EPI 2021),100,mL/min/1.73m2
+OBS-01104,P029,2025-04-22,8480-6,Systolic blood pressure,115,mm[Hg]
+OBS-01105,P029,2025-04-22,8462-4,Diastolic blood pressure,73,mm[Hg]
+OBS-01106,P029,2025-04-22,39156-5,Body mass index,24.3,kg/m2
+OBS-01107,P029,2025-10-22,8480-6,Systolic blood pressure,114,mm[Hg]
+OBS-01108,P029,2025-10-22,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-01109,P029,2025-10-22,39156-5,Body mass index,24.3,kg/m2
+OBS-01110,P029,2025-10-22,4548-4,Hemoglobin A1c,5.4,%
+OBS-01111,P029,2025-10-22,1558-6,Fasting glucose,91,mg/dL
+OBS-01112,P029,2025-10-22,98979-8,eGFR (CKD-EPI 2021),99,mL/min/1.73m2
+OBS-01113,P029,2026-04-22,8480-6,Systolic blood pressure,113,mm[Hg]
+OBS-01114,P029,2026-04-22,8462-4,Diastolic blood pressure,71,mm[Hg]
+OBS-01115,P029,2026-04-22,39156-5,Body mass index,24.4,kg/m2
+OBS-01116,P029,2026-04-22,2093-3,Total cholesterol,176,mg/dL
+OBS-01117,P029,2026-04-22,2085-9,HDL cholesterol,64,mg/dL
+OBS-01118,P029,2026-04-22,13457-7,LDL cholesterol (calculated),94,mg/dL
+OBS-01119,P029,2026-10-22,8480-6,Systolic blood pressure,115,mm[Hg]
+OBS-01120,P029,2026-10-22,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-01121,P029,2026-10-22,39156-5,Body mass index,24.4,kg/m2
+OBS-01122,P029,2026-10-22,4548-4,Hemoglobin A1c,5.3,%
+OBS-01123,P029,2026-10-22,1558-6,Fasting glucose,89,mg/dL
+OBS-01124,P029,2026-10-22,98979-8,eGFR (CKD-EPI 2021),100,mL/min/1.73m2
+OBS-01125,P030,2023-10-11,8480-6,Systolic blood pressure,111,mm[Hg]
+OBS-01126,P030,2023-10-11,8462-4,Diastolic blood pressure,71,mm[Hg]
+OBS-01127,P030,2023-10-11,39156-5,Body mass index,30.7,kg/m2
+OBS-01128,P030,2023-10-11,98979-8,eGFR (CKD-EPI 2021),85,mL/min/1.73m2
+OBS-01129,P030,2024-04-10,8480-6,Systolic blood pressure,116,mm[Hg]
+OBS-01130,P030,2024-04-10,8462-4,Diastolic blood pressure,67,mm[Hg]
+OBS-01131,P030,2024-04-10,39156-5,Body mass index,30.7,kg/m2
+OBS-01132,P030,2024-04-10,4548-4,Hemoglobin A1c,5.2,%
+OBS-01133,P030,2024-04-10,1558-6,Fasting glucose,86,mg/dL
+OBS-01134,P030,2024-04-10,2093-3,Total cholesterol,208,mg/dL
+OBS-01135,P030,2024-04-10,2085-9,HDL cholesterol,51,mg/dL
+OBS-01136,P030,2024-04-10,13457-7,LDL cholesterol (calculated),124,mg/dL
+OBS-01137,P030,2024-10-23,8480-6,Systolic blood pressure,111,mm[Hg]
+OBS-01138,P030,2024-10-23,8462-4,Diastolic blood pressure,71,mm[Hg]
+OBS-01139,P030,2024-10-23,39156-5,Body mass index,30.8,kg/m2
+OBS-01140,P030,2024-10-23,98979-8,eGFR (CKD-EPI 2021),84,mL/min/1.73m2
+OBS-01141,P030,2025-04-16,8480-6,Systolic blood pressure,113,mm[Hg]
+OBS-01142,P030,2025-04-16,8462-4,Diastolic blood pressure,66,mm[Hg]
+OBS-01143,P030,2025-04-16,39156-5,Body mass index,30.8,kg/m2
+OBS-01144,P030,2025-10-25,8480-6,Systolic blood pressure,116,mm[Hg]
+OBS-01145,P030,2025-10-25,8462-4,Diastolic blood pressure,67,mm[Hg]
+OBS-01146,P030,2025-10-25,39156-5,Body mass index,30.8,kg/m2
+OBS-01147,P030,2025-10-25,98979-8,eGFR (CKD-EPI 2021),83,mL/min/1.73m2
+OBS-01148,P030,2026-04-08,8480-6,Systolic blood pressure,115,mm[Hg]
+OBS-01149,P030,2026-04-08,8462-4,Diastolic blood pressure,66,mm[Hg]
+OBS-01150,P030,2026-04-08,39156-5,Body mass index,30.9,kg/m2
+OBS-01151,P030,2026-04-08,4548-4,Hemoglobin A1c,5.2,%
+OBS-01152,P030,2026-04-08,1558-6,Fasting glucose,83,mg/dL
+OBS-01153,P030,2026-04-08,2093-3,Total cholesterol,203,mg/dL
+OBS-01154,P030,2026-04-08,2085-9,HDL cholesterol,51,mg/dL
+OBS-01155,P030,2026-04-08,13457-7,LDL cholesterol (calculated),118,mg/dL
+OBS-01156,P030,2026-10-23,8480-6,Systolic blood pressure,117,mm[Hg]
+OBS-01157,P030,2026-10-23,8462-4,Diastolic blood pressure,67,mm[Hg]
+OBS-01158,P030,2026-10-23,39156-5,Body mass index,30.9,kg/m2
+OBS-01159,P030,2026-10-23,98979-8,eGFR (CKD-EPI 2021),82,mL/min/1.73m2
+OBS-01160,P031,2023-10-24,8480-6,Systolic blood pressure,124,mm[Hg]
+OBS-01161,P031,2023-10-24,8462-4,Diastolic blood pressure,79,mm[Hg]
+OBS-01162,P031,2023-10-24,39156-5,Body mass index,25.6,kg/m2
+OBS-01163,P031,2023-10-24,98979-8,eGFR (CKD-EPI 2021),84,mL/min/1.73m2
+OBS-01164,P031,2024-04-08,8480-6,Systolic blood pressure,128,mm[Hg]
+OBS-01165,P031,2024-04-08,8462-4,Diastolic blood pressure,77,mm[Hg]
+OBS-01166,P031,2024-04-08,39156-5,Body mass index,25.6,kg/m2
+OBS-01167,P031,2024-04-08,4548-4,Hemoglobin A1c,5.2,%
+OBS-01168,P031,2024-04-08,1558-6,Fasting glucose,85,mg/dL
+OBS-01169,P031,2024-04-08,2093-3,Total cholesterol,157,mg/dL
+OBS-01170,P031,2024-04-08,2085-9,HDL cholesterol,54,mg/dL
+OBS-01171,P031,2024-04-08,13457-7,LDL cholesterol (calculated),89,mg/dL
+OBS-01172,P031,2024-10-21,8480-6,Systolic blood pressure,127,mm[Hg]
+OBS-01173,P031,2024-10-21,8462-4,Diastolic blood pressure,77,mm[Hg]
+OBS-01174,P031,2024-10-21,39156-5,Body mass index,25.7,kg/m2
+OBS-01175,P031,2024-10-21,98979-8,eGFR (CKD-EPI 2021),83,mL/min/1.73m2
+OBS-01176,P031,2025-04-29,8480-6,Systolic blood pressure,121,mm[Hg]
+OBS-01177,P031,2025-04-29,8462-4,Diastolic blood pressure,78,mm[Hg]
+OBS-01178,P031,2025-04-29,39156-5,Body mass index,25.7,kg/m2
+OBS-01179,P031,2025-10-28,8480-6,Systolic blood pressure,125,mm[Hg]
+OBS-01180,P031,2025-10-28,8462-4,Diastolic blood pressure,78,mm[Hg]
+OBS-01181,P031,2025-10-28,39156-5,Body mass index,25.7,kg/m2
+OBS-01182,P031,2025-10-28,98979-8,eGFR (CKD-EPI 2021),82,mL/min/1.73m2
+OBS-01183,P031,2026-04-24,8480-6,Systolic blood pressure,128,mm[Hg]
+OBS-01184,P031,2026-04-24,8462-4,Diastolic blood pressure,75,mm[Hg]
+OBS-01185,P031,2026-04-24,39156-5,Body mass index,25.8,kg/m2
+OBS-01186,P031,2026-04-24,4548-4,Hemoglobin A1c,5.0,%
+OBS-01187,P031,2026-04-24,1558-6,Fasting glucose,87,mg/dL
+OBS-01188,P031,2026-04-24,2093-3,Total cholesterol,159,mg/dL
+OBS-01189,P031,2026-04-24,2085-9,HDL cholesterol,54,mg/dL
+OBS-01190,P031,2026-04-24,13457-7,LDL cholesterol (calculated),86,mg/dL
+OBS-01191,P031,2026-10-15,8480-6,Systolic blood pressure,123,mm[Hg]
+OBS-01192,P031,2026-10-15,8462-4,Diastolic blood pressure,76,mm[Hg]
+OBS-01193,P031,2026-10-15,39156-5,Body mass index,25.8,kg/m2
+OBS-01194,P031,2026-10-15,98979-8,eGFR (CKD-EPI 2021),81,mL/min/1.73m2
+OBS-01195,P032,2023-10-26,8480-6,Systolic blood pressure,125,mm[Hg]
+OBS-01196,P032,2023-10-26,8462-4,Diastolic blood pressure,71,mm[Hg]
+OBS-01197,P032,2023-10-26,39156-5,Body mass index,24.9,kg/m2
+OBS-01198,P032,2023-10-26,98979-8,eGFR (CKD-EPI 2021),102,mL/min/1.73m2
+OBS-01199,P032,2024-04-07,8480-6,Systolic blood pressure,125,mm[Hg]
+OBS-01200,P032,2024-04-07,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-01201,P032,2024-04-07,39156-5,Body mass index,24.9,kg/m2
+OBS-01202,P032,2024-04-07,4548-4,Hemoglobin A1c,5.3,%
+OBS-01203,P032,2024-04-07,1558-6,Fasting glucose,91,mg/dL
+OBS-01204,P032,2024-04-07,2093-3,Total cholesterol,182,mg/dL
+OBS-01205,P032,2024-04-07,2085-9,HDL cholesterol,49,mg/dL
+OBS-01206,P032,2024-04-07,13457-7,LDL cholesterol (calculated),108,mg/dL
+OBS-01207,P032,2024-10-25,8480-6,Systolic blood pressure,121,mm[Hg]
+OBS-01208,P032,2024-10-25,8462-4,Diastolic blood pressure,71,mm[Hg]
+OBS-01209,P032,2024-10-25,39156-5,Body mass index,25.0,kg/m2
+OBS-01210,P032,2024-10-25,98979-8,eGFR (CKD-EPI 2021),101,mL/min/1.73m2
+OBS-01211,P032,2025-04-11,8480-6,Systolic blood pressure,124,mm[Hg]
+OBS-01212,P032,2025-04-11,8462-4,Diastolic blood pressure,71,mm[Hg]
+OBS-01213,P032,2025-04-11,39156-5,Body mass index,25.0,kg/m2
+OBS-01214,P032,2025-10-08,8480-6,Systolic blood pressure,126,mm[Hg]
+OBS-01215,P032,2025-10-08,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-01216,P032,2025-10-08,39156-5,Body mass index,25.0,kg/m2
+OBS-01217,P032,2025-10-08,98979-8,eGFR (CKD-EPI 2021),100,mL/min/1.73m2
+OBS-01218,P032,2026-04-20,8480-6,Systolic blood pressure,121,mm[Hg]
+OBS-01219,P032,2026-04-20,8462-4,Diastolic blood pressure,75,mm[Hg]
+OBS-01220,P032,2026-04-20,39156-5,Body mass index,25.1,kg/m2
+OBS-01221,P032,2026-04-20,4548-4,Hemoglobin A1c,5.3,%
+OBS-01222,P032,2026-04-20,1558-6,Fasting glucose,90,mg/dL
+OBS-01223,P032,2026-04-20,2093-3,Total cholesterol,185,mg/dL
+OBS-01224,P032,2026-04-20,2085-9,HDL cholesterol,49,mg/dL
+OBS-01225,P032,2026-04-20,13457-7,LDL cholesterol (calculated),110,mg/dL
+OBS-01226,P032,2026-10-21,8480-6,Systolic blood pressure,120,mm[Hg]
+OBS-01227,P032,2026-10-21,8462-4,Diastolic blood pressure,69,mm[Hg]
+OBS-01228,P032,2026-10-21,39156-5,Body mass index,25.1,kg/m2
+OBS-01229,P032,2026-10-21,98979-8,eGFR (CKD-EPI 2021),99,mL/min/1.73m2
+OBS-01230,P033,2023-10-22,8480-6,Systolic blood pressure,136,mm[Hg]
+OBS-01231,P033,2023-10-22,8462-4,Diastolic blood pressure,82,mm[Hg]
+OBS-01232,P033,2023-10-22,39156-5,Body mass index,26.4,kg/m2
+OBS-01233,P033,2023-10-22,98979-8,eGFR (CKD-EPI 2021),80,mL/min/1.73m2
+OBS-01234,P033,2024-04-22,8480-6,Systolic blood pressure,134,mm[Hg]
+OBS-01235,P033,2024-04-22,8462-4,Diastolic blood pressure,80,mm[Hg]
+OBS-01236,P033,2024-04-22,39156-5,Body mass index,26.4,kg/m2
+OBS-01237,P033,2024-04-22,4548-4,Hemoglobin A1c,5.5,%
+OBS-01238,P033,2024-04-22,1558-6,Fasting glucose,93,mg/dL
+OBS-01239,P033,2024-04-22,2093-3,Total cholesterol,238,mg/dL
+OBS-01240,P033,2024-04-22,2085-9,HDL cholesterol,45,mg/dL
+OBS-01241,P033,2024-04-22,13457-7,LDL cholesterol (calculated),160,mg/dL
+OBS-01242,P033,2024-10-21,8480-6,Systolic blood pressure,138,mm[Hg]
+OBS-01243,P033,2024-10-21,8462-4,Diastolic blood pressure,84,mm[Hg]
+OBS-01244,P033,2024-10-21,39156-5,Body mass index,26.5,kg/m2
+OBS-01245,P033,2024-10-21,98979-8,eGFR (CKD-EPI 2021),79,mL/min/1.73m2
+OBS-01246,P033,2024-10-21,9318-7,Urine albumin/creatinine ratio,9,mg/g
+OBS-01247,P033,2025-04-22,8480-6,Systolic blood pressure,135,mm[Hg]
+OBS-01248,P033,2025-04-22,8462-4,Diastolic blood pressure,81,mm[Hg]
+OBS-01249,P033,2025-04-22,39156-5,Body mass index,26.5,kg/m2
+OBS-01250,P033,2025-10-22,8480-6,Systolic blood pressure,137,mm[Hg]
+OBS-01251,P033,2025-10-22,8462-4,Diastolic blood pressure,83,mm[Hg]
+OBS-01252,P033,2025-10-22,39156-5,Body mass index,26.5,kg/m2
+OBS-01253,P033,2025-10-22,98979-8,eGFR (CKD-EPI 2021),78,mL/min/1.73m2
+OBS-01254,P033,2026-04-22,8480-6,Systolic blood pressure,134,mm[Hg]
+OBS-01255,P033,2026-04-22,8462-4,Diastolic blood pressure,80,mm[Hg]
+OBS-01256,P033,2026-04-22,39156-5,Body mass index,26.6,kg/m2
+OBS-01257,P033,2026-04-22,4548-4,Hemoglobin A1c,5.5,%
+OBS-01258,P033,2026-04-22,1558-6,Fasting glucose,95,mg/dL
+OBS-01259,P033,2026-04-22,2093-3,Total cholesterol,242,mg/dL
+OBS-01260,P033,2026-04-22,2085-9,HDL cholesterol,44,mg/dL
+OBS-01261,P033,2026-04-22,13457-7,LDL cholesterol (calculated),164,mg/dL
+OBS-01262,P033,2026-10-22,8480-6,Systolic blood pressure,136,mm[Hg]
+OBS-01263,P033,2026-10-22,8462-4,Diastolic blood pressure,82,mm[Hg]
+OBS-01264,P033,2026-10-22,39156-5,Body mass index,26.6,kg/m2
+OBS-01265,P033,2026-10-22,98979-8,eGFR (CKD-EPI 2021),77,mL/min/1.73m2
+OBS-01266,P033,2026-10-22,9318-7,Urine albumin/creatinine ratio,11,mg/g
+OBS-01267,P034,2023-10-24,8480-6,Systolic blood pressure,114,mm[Hg]
+OBS-01268,P034,2023-10-24,8462-4,Diastolic blood pressure,75,mm[Hg]
+OBS-01269,P034,2023-10-24,39156-5,Body mass index,21.7,kg/m2
+OBS-01270,P034,2023-10-24,98979-8,eGFR (CKD-EPI 2021),86,mL/min/1.73m2
+OBS-01271,P034,2024-04-24,8480-6,Systolic blood pressure,122,mm[Hg]
+OBS-01272,P034,2024-04-24,8462-4,Diastolic blood pressure,76,mm[Hg]
+OBS-01273,P034,2024-04-24,39156-5,Body mass index,21.7,kg/m2
+OBS-01274,P034,2024-04-24,4548-4,Hemoglobin A1c,5.1,%
+OBS-01275,P034,2024-04-24,1558-6,Fasting glucose,91,mg/dL
+OBS-01276,P034,2024-04-24,2093-3,Total cholesterol,205,mg/dL
+OBS-01277,P034,2024-04-24,2085-9,HDL cholesterol,54,mg/dL
+OBS-01278,P034,2024-04-24,13457-7,LDL cholesterol (calculated),120,mg/dL
+OBS-01279,P034,2024-10-14,8480-6,Systolic blood pressure,118,mm[Hg]
+OBS-01280,P034,2024-10-14,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-01281,P034,2024-10-14,39156-5,Body mass index,21.8,kg/m2
+OBS-01282,P034,2024-10-14,98979-8,eGFR (CKD-EPI 2021),85,mL/min/1.73m2
+OBS-01283,P034,2025-04-08,8480-6,Systolic blood pressure,121,mm[Hg]
+OBS-01284,P034,2025-04-08,8462-4,Diastolic blood pressure,75,mm[Hg]
+OBS-01285,P034,2025-04-08,39156-5,Body mass index,21.8,kg/m2
+OBS-01286,P034,2025-10-11,8480-6,Systolic blood pressure,114,mm[Hg]
+OBS-01287,P034,2025-10-11,8462-4,Diastolic blood pressure,74,mm[Hg]
+OBS-01288,P034,2025-10-11,39156-5,Body mass index,21.8,kg/m2
+OBS-01289,P034,2025-10-11,98979-8,eGFR (CKD-EPI 2021),84,mL/min/1.73m2
+OBS-01290,P034,2026-04-18,8480-6,Systolic blood pressure,115,mm[Hg]
+OBS-01291,P034,2026-04-18,8462-4,Diastolic blood pressure,77,mm[Hg]
+OBS-01292,P034,2026-04-18,39156-5,Body mass index,21.9,kg/m2
+OBS-01293,P034,2026-04-18,4548-4,Hemoglobin A1c,5.1,%
+OBS-01294,P034,2026-04-18,1558-6,Fasting glucose,93,mg/dL
+OBS-01295,P034,2026-04-18,2093-3,Total cholesterol,205,mg/dL
+OBS-01296,P034,2026-04-18,2085-9,HDL cholesterol,54,mg/dL
+OBS-01297,P034,2026-04-18,13457-7,LDL cholesterol (calculated),125,mg/dL
+OBS-01298,P034,2026-10-18,8480-6,Systolic blood pressure,116,mm[Hg]
+OBS-01299,P034,2026-10-18,8462-4,Diastolic blood pressure,74,mm[Hg]
+OBS-01300,P034,2026-10-18,39156-5,Body mass index,21.9,kg/m2
+OBS-01301,P034,2026-10-18,98979-8,eGFR (CKD-EPI 2021),83,mL/min/1.73m2
+OBS-01302,P035,2023-10-11,8480-6,Systolic blood pressure,111,mm[Hg]
+OBS-01303,P035,2023-10-11,8462-4,Diastolic blood pressure,78,mm[Hg]
+OBS-01304,P035,2023-10-11,39156-5,Body mass index,26.3,kg/m2
+OBS-01305,P035,2023-10-11,98979-8,eGFR (CKD-EPI 2021),105,mL/min/1.73m2
+OBS-01306,P035,2024-04-19,8480-6,Systolic blood pressure,109,mm[Hg]
+OBS-01307,P035,2024-04-19,8462-4,Diastolic blood pressure,79,mm[Hg]
+OBS-01308,P035,2024-04-19,39156-5,Body mass index,26.3,kg/m2
+OBS-01309,P035,2024-04-19,4548-4,Hemoglobin A1c,5.4,%
+OBS-01310,P035,2024-04-19,1558-6,Fasting glucose,82,mg/dL
+OBS-01311,P035,2024-04-19,2093-3,Total cholesterol,229,mg/dL
+OBS-01312,P035,2024-04-19,2085-9,HDL cholesterol,43,mg/dL
+OBS-01313,P035,2024-04-19,13457-7,LDL cholesterol (calculated),156,mg/dL
+OBS-01314,P035,2024-10-25,8480-6,Systolic blood pressure,112,mm[Hg]
+OBS-01315,P035,2024-10-25,8462-4,Diastolic blood pressure,74,mm[Hg]
+OBS-01316,P035,2024-10-25,39156-5,Body mass index,26.4,kg/m2
+OBS-01317,P035,2024-10-25,98979-8,eGFR (CKD-EPI 2021),104,mL/min/1.73m2
+OBS-01318,P035,2025-04-23,8480-6,Systolic blood pressure,109,mm[Hg]
+OBS-01319,P035,2025-04-23,8462-4,Diastolic blood pressure,77,mm[Hg]
+OBS-01320,P035,2025-04-23,39156-5,Body mass index,26.4,kg/m2
+OBS-01321,P035,2025-10-23,8480-6,Systolic blood pressure,111,mm[Hg]
+OBS-01322,P035,2025-10-23,8462-4,Diastolic blood pressure,78,mm[Hg]
+OBS-01323,P035,2025-10-23,39156-5,Body mass index,26.4,kg/m2
+OBS-01324,P035,2025-10-23,98979-8,eGFR (CKD-EPI 2021),103,mL/min/1.73m2
+OBS-01325,P035,2026-04-11,8480-6,Systolic blood pressure,110,mm[Hg]
+OBS-01326,P035,2026-04-11,8462-4,Diastolic blood pressure,77,mm[Hg]
+OBS-01327,P035,2026-04-11,39156-5,Body mass index,26.5,kg/m2
+OBS-01328,P035,2026-04-11,4548-4,Hemoglobin A1c,5.3,%
+OBS-01329,P035,2026-04-11,1558-6,Fasting glucose,83,mg/dL
+OBS-01330,P035,2026-04-11,2093-3,Total cholesterol,228,mg/dL
+OBS-01331,P035,2026-04-11,2085-9,HDL cholesterol,43,mg/dL
+OBS-01332,P035,2026-04-11,13457-7,LDL cholesterol (calculated),160,mg/dL
+OBS-01333,P035,2026-10-12,8480-6,Systolic blood pressure,110,mm[Hg]
+OBS-01334,P035,2026-10-12,8462-4,Diastolic blood pressure,76,mm[Hg]
+OBS-01335,P035,2026-10-12,39156-5,Body mass index,26.5,kg/m2
+OBS-01336,P035,2026-10-12,98979-8,eGFR (CKD-EPI 2021),102,mL/min/1.73m2
+OBS-01337,P036,2023-10-17,8480-6,Systolic blood pressure,107,mm[Hg]
+OBS-01338,P036,2023-10-17,8462-4,Diastolic blood pressure,66,mm[Hg]
+OBS-01339,P036,2023-10-17,39156-5,Body mass index,29.7,kg/m2
+OBS-01340,P036,2023-10-17,98979-8,eGFR (CKD-EPI 2021),82,mL/min/1.73m2
+OBS-01341,P036,2024-04-12,8480-6,Systolic blood pressure,110,mm[Hg]
+OBS-01342,P036,2024-04-12,8462-4,Diastolic blood pressure,69,mm[Hg]
+OBS-01343,P036,2024-04-12,39156-5,Body mass index,29.7,kg/m2
+OBS-01344,P036,2024-04-12,4548-4,Hemoglobin A1c,5.3,%
+OBS-01345,P036,2024-04-12,1558-6,Fasting glucose,86,mg/dL
+OBS-01346,P036,2024-04-12,2093-3,Total cholesterol,209,mg/dL
+OBS-01347,P036,2024-04-12,2085-9,HDL cholesterol,43,mg/dL
+OBS-01348,P036,2024-04-12,13457-7,LDL cholesterol (calculated),149,mg/dL
+OBS-01349,P036,2024-10-26,8480-6,Systolic blood pressure,107,mm[Hg]
+OBS-01350,P036,2024-10-26,8462-4,Diastolic blood pressure,66,mm[Hg]
+OBS-01351,P036,2024-10-26,39156-5,Body mass index,29.8,kg/m2
+OBS-01352,P036,2024-10-26,98979-8,eGFR (CKD-EPI 2021),81,mL/min/1.73m2
+OBS-01353,P036,2025-04-24,8480-6,Systolic blood pressure,109,mm[Hg]
+OBS-01354,P036,2025-04-24,8462-4,Diastolic blood pressure,66,mm[Hg]
+OBS-01355,P036,2025-04-24,39156-5,Body mass index,29.8,kg/m2
+OBS-01356,P036,2025-10-14,8480-6,Systolic blood pressure,108,mm[Hg]
+OBS-01357,P036,2025-10-14,8462-4,Diastolic blood pressure,71,mm[Hg]
+OBS-01358,P036,2025-10-14,39156-5,Body mass index,29.8,kg/m2
+OBS-01359,P036,2025-10-14,98979-8,eGFR (CKD-EPI 2021),80,mL/min/1.73m2
+OBS-01360,P036,2026-04-14,8480-6,Systolic blood pressure,113,mm[Hg]
+OBS-01361,P036,2026-04-14,8462-4,Diastolic blood pressure,66,mm[Hg]
+OBS-01362,P036,2026-04-14,39156-5,Body mass index,29.9,kg/m2
+OBS-01363,P036,2026-04-14,4548-4,Hemoglobin A1c,5.4,%
+OBS-01364,P036,2026-04-14,1558-6,Fasting glucose,88,mg/dL
+OBS-01365,P036,2026-04-14,2093-3,Total cholesterol,211,mg/dL
+OBS-01366,P036,2026-04-14,2085-9,HDL cholesterol,43,mg/dL
+OBS-01367,P036,2026-04-14,13457-7,LDL cholesterol (calculated),135,mg/dL
+OBS-01368,P036,2026-10-11,8480-6,Systolic blood pressure,115,mm[Hg]
+OBS-01369,P036,2026-10-11,8462-4,Diastolic blood pressure,70,mm[Hg]
+OBS-01370,P036,2026-10-11,39156-5,Body mass index,29.9,kg/m2
+OBS-01371,P036,2026-10-11,98979-8,eGFR (CKD-EPI 2021),79,mL/min/1.73m2
+OBS-01372,P037,2023-10-27,8480-6,Systolic blood pressure,115,mm[Hg]
+OBS-01373,P037,2023-10-27,8462-4,Diastolic blood pressure,80,mm[Hg]
+OBS-01374,P037,2023-10-27,39156-5,Body mass index,22.1,kg/m2
+OBS-01375,P037,2023-10-27,98979-8,eGFR (CKD-EPI 2021),86,mL/min/1.73m2
+OBS-01376,P037,2024-04-18,8480-6,Systolic blood pressure,115,mm[Hg]
+OBS-01377,P037,2024-04-18,8462-4,Diastolic blood pressure,77,mm[Hg]
+OBS-01378,P037,2024-04-18,39156-5,Body mass index,22.1,kg/m2
+OBS-01379,P037,2024-04-18,4548-4,Hemoglobin A1c,5.3,%
+OBS-01380,P037,2024-04-18,1558-6,Fasting glucose,82,mg/dL
+OBS-01381,P037,2024-04-18,2093-3,Total cholesterol,224,mg/dL
+OBS-01382,P037,2024-04-18,2085-9,HDL cholesterol,49,mg/dL
+OBS-01383,P037,2024-04-18,13457-7,LDL cholesterol (calculated),149,mg/dL
+OBS-01384,P037,2024-10-23,8480-6,Systolic blood pressure,121,mm[Hg]
+OBS-01385,P037,2024-10-23,8462-4,Diastolic blood pressure,79,mm[Hg]
+OBS-01386,P037,2024-10-23,39156-5,Body mass index,22.2,kg/m2
+OBS-01387,P037,2024-10-23,98979-8,eGFR (CKD-EPI 2021),85,mL/min/1.73m2
+OBS-01388,P037,2024-10-23,9318-7,Urine albumin/creatinine ratio,20,mg/g
+OBS-01389,P037,2025-04-10,8480-6,Systolic blood pressure,121,mm[Hg]
+OBS-01390,P037,2025-04-10,8462-4,Diastolic blood pressure,80,mm[Hg]
+OBS-01391,P037,2025-04-10,39156-5,Body mass index,22.2,kg/m2
+OBS-01392,P037,2025-10-18,8480-6,Systolic blood pressure,117,mm[Hg]
+OBS-01393,P037,2025-10-18,8462-4,Diastolic blood pressure,75,mm[Hg]
+OBS-01394,P037,2025-10-18,39156-5,Body mass index,22.2,kg/m2
+OBS-01395,P037,2025-10-18,98979-8,eGFR (CKD-EPI 2021),84,mL/min/1.73m2
+OBS-01396,P037,2026-04-07,8480-6,Systolic blood pressure,113,mm[Hg]
+OBS-01397,P037,2026-04-07,8462-4,Diastolic blood pressure,79,mm[Hg]
+OBS-01398,P037,2026-04-07,39156-5,Body mass index,22.3,kg/m2
+OBS-01399,P037,2026-04-07,4548-4,Hemoglobin A1c,5.2,%
+OBS-01400,P037,2026-04-07,1558-6,Fasting glucose,81,mg/dL
+OBS-01401,P037,2026-04-07,2093-3,Total cholesterol,229,mg/dL
+OBS-01402,P037,2026-04-07,2085-9,HDL cholesterol,49,mg/dL
+OBS-01403,P037,2026-04-07,13457-7,LDL cholesterol (calculated),145,mg/dL
+OBS-01404,P037,2026-10-13,8480-6,Systolic blood pressure,114,mm[Hg]
+OBS-01405,P037,2026-10-13,8462-4,Diastolic blood pressure,78,mm[Hg]
+OBS-01406,P037,2026-10-13,39156-5,Body mass index,22.3,kg/m2
+OBS-01407,P037,2026-10-13,98979-8,eGFR (CKD-EPI 2021),83,mL/min/1.73m2
+OBS-01408,P037,2026-10-13,9318-7,Urine albumin/creatinine ratio,21,mg/g
+OBS-01409,P038,2023-10-07,8480-6,Systolic blood pressure,121,mm[Hg]
+OBS-01410,P038,2023-10-07,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-01411,P038,2023-10-07,39156-5,Body mass index,24.7,kg/m2
+OBS-01412,P038,2023-10-07,98979-8,eGFR (CKD-EPI 2021),102,mL/min/1.73m2
+OBS-01413,P038,2024-04-17,8480-6,Systolic blood pressure,122,mm[Hg]
+OBS-01414,P038,2024-04-17,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-01415,P038,2024-04-17,39156-5,Body mass index,24.7,kg/m2
+OBS-01416,P038,2024-04-17,4548-4,Hemoglobin A1c,5.1,%
+OBS-01417,P038,2024-04-17,1558-6,Fasting glucose,80,mg/dL
+OBS-01418,P038,2024-04-17,2093-3,Total cholesterol,169,mg/dL
+OBS-01419,P038,2024-04-17,2085-9,HDL cholesterol,48,mg/dL
+OBS-01420,P038,2024-04-17,13457-7,LDL cholesterol (calculated),91,mg/dL
+OBS-01421,P038,2024-10-23,8480-6,Systolic blood pressure,120,mm[Hg]
+OBS-01422,P038,2024-10-23,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-01423,P038,2024-10-23,39156-5,Body mass index,24.8,kg/m2
+OBS-01424,P038,2024-10-23,98979-8,eGFR (CKD-EPI 2021),101,mL/min/1.73m2
+OBS-01425,P038,2025-04-10,8480-6,Systolic blood pressure,114,mm[Hg]
+OBS-01426,P038,2025-04-10,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-01427,P038,2025-04-10,39156-5,Body mass index,24.8,kg/m2
+OBS-01428,P038,2025-10-19,8480-6,Systolic blood pressure,122,mm[Hg]
+OBS-01429,P038,2025-10-19,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-01430,P038,2025-10-19,39156-5,Body mass index,24.8,kg/m2
+OBS-01431,P038,2025-10-19,98979-8,eGFR (CKD-EPI 2021),100,mL/min/1.73m2
+OBS-01432,P038,2026-04-07,8480-6,Systolic blood pressure,114,mm[Hg]
+OBS-01433,P038,2026-04-07,8462-4,Diastolic blood pressure,68,mm[Hg]
+OBS-01434,P038,2026-04-07,39156-5,Body mass index,24.9,kg/m2
+OBS-01435,P038,2026-04-07,4548-4,Hemoglobin A1c,5.2,%
+OBS-01436,P038,2026-04-07,1558-6,Fasting glucose,83,mg/dL
+OBS-01437,P038,2026-04-07,2093-3,Total cholesterol,160,mg/dL
+OBS-01438,P038,2026-04-07,2085-9,HDL cholesterol,48,mg/dL
+OBS-01439,P038,2026-04-07,13457-7,LDL cholesterol (calculated),96,mg/dL
+OBS-01440,P038,2026-10-22,8480-6,Systolic blood pressure,117,mm[Hg]
+OBS-01441,P038,2026-10-22,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-01442,P038,2026-10-22,39156-5,Body mass index,24.9,kg/m2
+OBS-01443,P038,2026-10-22,98979-8,eGFR (CKD-EPI 2021),99,mL/min/1.73m2
+OBS-01444,P039,2023-10-23,8480-6,Systolic blood pressure,119,mm[Hg]
+OBS-01445,P039,2023-10-23,8462-4,Diastolic blood pressure,67,mm[Hg]
+OBS-01446,P039,2023-10-23,39156-5,Body mass index,21.4,kg/m2
+OBS-01447,P039,2023-10-23,98979-8,eGFR (CKD-EPI 2021),81,mL/min/1.73m2
+OBS-01448,P039,2024-04-25,8480-6,Systolic blood pressure,121,mm[Hg]
+OBS-01449,P039,2024-04-25,8462-4,Diastolic blood pressure,68,mm[Hg]
+OBS-01450,P039,2024-04-25,39156-5,Body mass index,21.4,kg/m2
+OBS-01451,P039,2024-04-25,4548-4,Hemoglobin A1c,5.1,%
+OBS-01452,P039,2024-04-25,1558-6,Fasting glucose,87,mg/dL
+OBS-01453,P039,2024-04-25,2093-3,Total cholesterol,205,mg/dL
+OBS-01454,P039,2024-04-25,2085-9,HDL cholesterol,45,mg/dL
+OBS-01455,P039,2024-04-25,13457-7,LDL cholesterol (calculated),146,mg/dL
+OBS-01456,P039,2024-10-07,8480-6,Systolic blood pressure,124,mm[Hg]
+OBS-01457,P039,2024-10-07,8462-4,Diastolic blood pressure,68,mm[Hg]
+OBS-01458,P039,2024-10-07,39156-5,Body mass index,21.5,kg/m2
+OBS-01459,P039,2024-10-07,98979-8,eGFR (CKD-EPI 2021),80,mL/min/1.73m2
+OBS-01460,P039,2024-10-07,9318-7,Urine albumin/creatinine ratio,20,mg/g
+OBS-01461,P039,2025-04-15,8480-6,Systolic blood pressure,119,mm[Hg]
+OBS-01462,P039,2025-04-15,8462-4,Diastolic blood pressure,69,mm[Hg]
+OBS-01463,P039,2025-04-15,39156-5,Body mass index,21.5,kg/m2
+OBS-01464,P039,2025-10-20,8480-6,Systolic blood pressure,124,mm[Hg]
+OBS-01465,P039,2025-10-20,8462-4,Diastolic blood pressure,68,mm[Hg]
+OBS-01466,P039,2025-10-20,39156-5,Body mass index,21.5,kg/m2
+OBS-01467,P039,2025-10-20,98979-8,eGFR (CKD-EPI 2021),79,mL/min/1.73m2
+OBS-01468,P039,2026-04-11,8480-6,Systolic blood pressure,122,mm[Hg]
+OBS-01469,P039,2026-04-11,8462-4,Diastolic blood pressure,68,mm[Hg]
+OBS-01470,P039,2026-04-11,39156-5,Body mass index,21.6,kg/m2
+OBS-01471,P039,2026-04-11,4548-4,Hemoglobin A1c,5.1,%
+OBS-01472,P039,2026-04-11,1558-6,Fasting glucose,85,mg/dL
+OBS-01473,P039,2026-04-11,2093-3,Total cholesterol,211,mg/dL
+OBS-01474,P039,2026-04-11,2085-9,HDL cholesterol,45,mg/dL
+OBS-01475,P039,2026-04-11,13457-7,LDL cholesterol (calculated),136,mg/dL
+OBS-01476,P039,2026-10-16,8480-6,Systolic blood pressure,120,mm[Hg]
+OBS-01477,P039,2026-10-16,8462-4,Diastolic blood pressure,71,mm[Hg]
+OBS-01478,P039,2026-10-16,39156-5,Body mass index,21.6,kg/m2
+OBS-01479,P039,2026-10-16,98979-8,eGFR (CKD-EPI 2021),78,mL/min/1.73m2
+OBS-01480,P039,2026-10-16,9318-7,Urine albumin/creatinine ratio,13,mg/g
+OBS-01481,P040,2023-10-22,8480-6,Systolic blood pressure,126,mm[Hg]
+OBS-01482,P040,2023-10-22,8462-4,Diastolic blood pressure,78,mm[Hg]
+OBS-01483,P040,2023-10-22,39156-5,Body mass index,28.3,kg/m2
+OBS-01484,P040,2023-10-22,98979-8,eGFR (CKD-EPI 2021),63,mL/min/1.73m2
+OBS-01485,P040,2024-04-22,8480-6,Systolic blood pressure,128,mm[Hg]
+OBS-01486,P040,2024-04-22,8462-4,Diastolic blood pressure,79,mm[Hg]
+OBS-01487,P040,2024-04-22,39156-5,Body mass index,28.3,kg/m2
+OBS-01488,P040,2024-04-22,4548-4,Hemoglobin A1c,5.4,%
+OBS-01489,P040,2024-04-22,1558-6,Fasting glucose,92,mg/dL
+OBS-01490,P040,2024-04-22,2093-3,Total cholesterol,198,mg/dL
+OBS-01491,P040,2024-04-22,2085-9,HDL cholesterol,48,mg/dL
+OBS-01492,P040,2024-04-22,13457-7,LDL cholesterol (calculated),120,mg/dL
+OBS-01493,P040,2024-04-22,98979-8,eGFR (CKD-EPI 2021),58,mL/min/1.73m2
+OBS-01494,P040,2024-10-21,8480-6,Systolic blood pressure,124,mm[Hg]
+OBS-01495,P040,2024-10-21,8462-4,Diastolic blood pressure,77,mm[Hg]
+OBS-01496,P040,2024-10-21,39156-5,Body mass index,28.4,kg/m2
+OBS-01497,P040,2024-10-21,98979-8,eGFR (CKD-EPI 2021),57,mL/min/1.73m2
+OBS-01498,P040,2024-10-21,9318-7,Urine albumin/creatinine ratio,38,mg/g
+OBS-01499,P040,2025-04-22,8480-6,Systolic blood pressure,127,mm[Hg]
+OBS-01500,P040,2025-04-22,8462-4,Diastolic blood pressure,78,mm[Hg]
+OBS-01501,P040,2025-04-22,39156-5,Body mass index,28.4,kg/m2
+OBS-01502,P040,2025-04-22,98979-8,eGFR (CKD-EPI 2021),56,mL/min/1.73m2
+OBS-01503,P040,2025-10-22,8480-6,Systolic blood pressure,126,mm[Hg]
+OBS-01504,P040,2025-10-22,8462-4,Diastolic blood pressure,77,mm[Hg]
+OBS-01505,P040,2025-10-22,39156-5,Body mass index,28.4,kg/m2
+OBS-01506,P040,2025-10-22,98979-8,eGFR (CKD-EPI 2021),55,mL/min/1.73m2
+OBS-01507,P040,2025-10-22,9318-7,Urine albumin/creatinine ratio,44,mg/g
+OBS-01508,P040,2026-04-22,8480-6,Systolic blood pressure,125,mm[Hg]
+OBS-01509,P040,2026-04-22,8462-4,Diastolic blood pressure,78,mm[Hg]
+OBS-01510,P040,2026-04-22,39156-5,Body mass index,28.5,kg/m2
+OBS-01511,P040,2026-04-22,4548-4,Hemoglobin A1c,5.4,%
+OBS-01512,P040,2026-04-22,1558-6,Fasting glucose,93,mg/dL
+OBS-01513,P040,2026-04-22,2093-3,Total cholesterol,194,mg/dL
+OBS-01514,P040,2026-04-22,2085-9,HDL cholesterol,49,mg/dL
+OBS-01515,P040,2026-04-22,13457-7,LDL cholesterol (calculated),118,mg/dL
+OBS-01516,P040,2026-04-22,98979-8,eGFR (CKD-EPI 2021),53,mL/min/1.73m2
+OBS-01517,P040,2026-10-22,8480-6,Systolic blood pressure,126,mm[Hg]
+OBS-01518,P040,2026-10-22,8462-4,Diastolic blood pressure,78,mm[Hg]
+OBS-01519,P040,2026-10-22,39156-5,Body mass index,28.5,kg/m2
+OBS-01520,P040,2026-10-22,98979-8,eGFR (CKD-EPI 2021),52,mL/min/1.73m2
+OBS-01521,P040,2026-10-22,9318-7,Urine albumin/creatinine ratio,48,mg/g
+OBS-01522,P041,2023-10-28,8480-6,Systolic blood pressure,113,mm[Hg]
+OBS-01523,P041,2023-10-28,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-01524,P041,2023-10-28,39156-5,Body mass index,29.9,kg/m2
+OBS-01525,P041,2023-10-28,98979-8,eGFR (CKD-EPI 2021),95,mL/min/1.73m2
+OBS-01526,P041,2024-04-27,8480-6,Systolic blood pressure,120,mm[Hg]
+OBS-01527,P041,2024-04-27,8462-4,Diastolic blood pressure,74,mm[Hg]
+OBS-01528,P041,2024-04-27,39156-5,Body mass index,29.9,kg/m2
+OBS-01529,P041,2024-04-27,4548-4,Hemoglobin A1c,5.0,%
+OBS-01530,P041,2024-04-27,1558-6,Fasting glucose,92,mg/dL
+OBS-01531,P041,2024-04-27,2093-3,Total cholesterol,183,mg/dL
+OBS-01532,P041,2024-04-27,2085-9,HDL cholesterol,68,mg/dL
+OBS-01533,P041,2024-04-27,13457-7,LDL cholesterol (calculated),90,mg/dL
+OBS-01534,P041,2024-10-10,8480-6,Systolic blood pressure,120,mm[Hg]
+OBS-01535,P041,2024-10-10,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-01536,P041,2024-10-10,39156-5,Body mass index,30.0,kg/m2
+OBS-01537,P041,2024-10-10,98979-8,eGFR (CKD-EPI 2021),94,mL/min/1.73m2
+OBS-01538,P041,2025-04-25,8480-6,Systolic blood pressure,113,mm[Hg]
+OBS-01539,P041,2025-04-25,8462-4,Diastolic blood pressure,69,mm[Hg]
+OBS-01540,P041,2025-04-25,39156-5,Body mass index,30.0,kg/m2
+OBS-01541,P041,2025-10-12,8480-6,Systolic blood pressure,115,mm[Hg]
+OBS-01542,P041,2025-10-12,8462-4,Diastolic blood pressure,71,mm[Hg]
+OBS-01543,P041,2025-10-12,39156-5,Body mass index,30.0,kg/m2
+OBS-01544,P041,2025-10-12,98979-8,eGFR (CKD-EPI 2021),93,mL/min/1.73m2
+OBS-01545,P041,2026-04-27,8480-6,Systolic blood pressure,118,mm[Hg]
+OBS-01546,P041,2026-04-27,8462-4,Diastolic blood pressure,74,mm[Hg]
+OBS-01547,P041,2026-04-27,39156-5,Body mass index,30.1,kg/m2
+OBS-01548,P041,2026-04-27,4548-4,Hemoglobin A1c,5.1,%
+OBS-01549,P041,2026-04-27,1558-6,Fasting glucose,93,mg/dL
+OBS-01550,P041,2026-04-27,2093-3,Total cholesterol,186,mg/dL
+OBS-01551,P041,2026-04-27,2085-9,HDL cholesterol,68,mg/dL
+OBS-01552,P041,2026-04-27,13457-7,LDL cholesterol (calculated),81,mg/dL
+OBS-01553,P041,2026-10-20,8480-6,Systolic blood pressure,117,mm[Hg]
+OBS-01554,P041,2026-10-20,8462-4,Diastolic blood pressure,70,mm[Hg]
+OBS-01555,P041,2026-10-20,39156-5,Body mass index,30.1,kg/m2
+OBS-01556,P041,2026-10-20,98979-8,eGFR (CKD-EPI 2021),92,mL/min/1.73m2
+OBS-01557,P042,2023-10-21,8480-6,Systolic blood pressure,125,mm[Hg]
+OBS-01558,P042,2023-10-21,8462-4,Diastolic blood pressure,76,mm[Hg]
+OBS-01559,P042,2023-10-21,39156-5,Body mass index,21.7,kg/m2
+OBS-01560,P042,2023-10-21,4548-4,Hemoglobin A1c,6.8,%
+OBS-01561,P042,2023-10-21,1558-6,Fasting glucose,135,mg/dL
+OBS-01562,P042,2023-10-21,98979-8,eGFR (CKD-EPI 2021),78,mL/min/1.73m2
+OBS-01563,P042,2024-04-19,8480-6,Systolic blood pressure,122,mm[Hg]
+OBS-01564,P042,2024-04-19,8462-4,Diastolic blood pressure,80,mm[Hg]
+OBS-01565,P042,2024-04-19,39156-5,Body mass index,21.7,kg/m2
+OBS-01566,P042,2024-04-19,4548-4,Hemoglobin A1c,6.7,%
+OBS-01567,P042,2024-04-19,1558-6,Fasting glucose,141,mg/dL
+OBS-01568,P042,2024-04-19,2093-3,Total cholesterol,165,mg/dL
+OBS-01569,P042,2024-04-19,2085-9,HDL cholesterol,43,mg/dL
+OBS-01570,P042,2024-04-19,13457-7,LDL cholesterol (calculated),85,mg/dL
+OBS-01571,P042,2024-10-10,8480-6,Systolic blood pressure,118,mm[Hg]
+OBS-01572,P042,2024-10-10,8462-4,Diastolic blood pressure,77,mm[Hg]
+OBS-01573,P042,2024-10-10,39156-5,Body mass index,21.8,kg/m2
+OBS-01574,P042,2024-10-10,4548-4,Hemoglobin A1c,7.1,%
+OBS-01575,P042,2024-10-10,1558-6,Fasting glucose,141,mg/dL
+OBS-01576,P042,2024-10-10,98979-8,eGFR (CKD-EPI 2021),77,mL/min/1.73m2
+OBS-01577,P042,2024-10-10,9318-7,Urine albumin/creatinine ratio,24,mg/g
+OBS-01578,P042,2025-04-13,8480-6,Systolic blood pressure,122,mm[Hg]
+OBS-01579,P042,2025-04-13,8462-4,Diastolic blood pressure,75,mm[Hg]
+OBS-01580,P042,2025-04-13,39156-5,Body mass index,21.8,kg/m2
+OBS-01581,P042,2025-04-13,4548-4,Hemoglobin A1c,6.8,%
+OBS-01582,P042,2025-04-13,1558-6,Fasting glucose,137,mg/dL
+OBS-01583,P042,2025-10-27,8480-6,Systolic blood pressure,120,mm[Hg]
+OBS-01584,P042,2025-10-27,8462-4,Diastolic blood pressure,79,mm[Hg]
+OBS-01585,P042,2025-10-27,39156-5,Body mass index,21.8,kg/m2
+OBS-01586,P042,2025-10-27,4548-4,Hemoglobin A1c,7.0,%
+OBS-01587,P042,2025-10-27,1558-6,Fasting glucose,131,mg/dL
+OBS-01588,P042,2025-10-27,98979-8,eGFR (CKD-EPI 2021),76,mL/min/1.73m2
+OBS-01589,P042,2026-04-18,8480-6,Systolic blood pressure,124,mm[Hg]
+OBS-01590,P042,2026-04-18,8462-4,Diastolic blood pressure,77,mm[Hg]
+OBS-01591,P042,2026-04-18,39156-5,Body mass index,21.9,kg/m2
+OBS-01592,P042,2026-04-18,4548-4,Hemoglobin A1c,6.9,%
+OBS-01593,P042,2026-04-18,1558-6,Fasting glucose,129,mg/dL
+OBS-01594,P042,2026-04-18,2093-3,Total cholesterol,169,mg/dL
+OBS-01595,P042,2026-04-18,2085-9,HDL cholesterol,43,mg/dL
+OBS-01596,P042,2026-04-18,13457-7,LDL cholesterol (calculated),106,mg/dL
+OBS-01597,P042,2026-10-26,8480-6,Systolic blood pressure,119,mm[Hg]
+OBS-01598,P042,2026-10-26,8462-4,Diastolic blood pressure,79,mm[Hg]
+OBS-01599,P042,2026-10-26,39156-5,Body mass index,21.9,kg/m2
+OBS-01600,P042,2026-10-26,4548-4,Hemoglobin A1c,6.9,%
+OBS-01601,P042,2026-10-26,1558-6,Fasting glucose,131,mg/dL
+OBS-01602,P042,2026-10-26,98979-8,eGFR (CKD-EPI 2021),75,mL/min/1.73m2
+OBS-01603,P042,2026-10-26,9318-7,Urine albumin/creatinine ratio,7,mg/g
+OBS-01604,P043,2023-10-18,8480-6,Systolic blood pressure,117,mm[Hg]
+OBS-01605,P043,2023-10-18,8462-4,Diastolic blood pressure,70,mm[Hg]
+OBS-01606,P043,2023-10-18,39156-5,Body mass index,25.9,kg/m2
+OBS-01607,P043,2023-10-18,98979-8,eGFR (CKD-EPI 2021),96,mL/min/1.73m2
+OBS-01608,P043,2024-04-18,8480-6,Systolic blood pressure,115,mm[Hg]
+OBS-01609,P043,2024-04-18,8462-4,Diastolic blood pressure,67,mm[Hg]
+OBS-01610,P043,2024-04-18,39156-5,Body mass index,25.9,kg/m2
+OBS-01611,P043,2024-04-18,4548-4,Hemoglobin A1c,5.1,%
+OBS-01612,P043,2024-04-18,1558-6,Fasting glucose,84,mg/dL
+OBS-01613,P043,2024-04-18,2093-3,Total cholesterol,208,mg/dL
+OBS-01614,P043,2024-04-18,2085-9,HDL cholesterol,60,mg/dL
+OBS-01615,P043,2024-04-18,13457-7,LDL cholesterol (calculated),127,mg/dL
+OBS-01616,P043,2024-10-11,8480-6,Systolic blood pressure,112,mm[Hg]
+OBS-01617,P043,2024-10-11,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-01618,P043,2024-10-11,39156-5,Body mass index,26.0,kg/m2
+OBS-01619,P043,2024-10-11,98979-8,eGFR (CKD-EPI 2021),95,mL/min/1.73m2
+OBS-01620,P043,2025-04-10,8480-6,Systolic blood pressure,119,mm[Hg]
+OBS-01621,P043,2025-04-10,8462-4,Diastolic blood pressure,71,mm[Hg]
+OBS-01622,P043,2025-04-10,39156-5,Body mass index,26.0,kg/m2
+OBS-01623,P043,2025-10-13,8480-6,Systolic blood pressure,112,mm[Hg]
+OBS-01624,P043,2025-10-13,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-01625,P043,2025-10-13,39156-5,Body mass index,26.0,kg/m2
+OBS-01626,P043,2025-10-13,98979-8,eGFR (CKD-EPI 2021),94,mL/min/1.73m2
+OBS-01627,P043,2026-04-21,8480-6,Systolic blood pressure,111,mm[Hg]
+OBS-01628,P043,2026-04-21,8462-4,Diastolic blood pressure,71,mm[Hg]
+OBS-01629,P043,2026-04-21,39156-5,Body mass index,26.1,kg/m2
+OBS-01630,P043,2026-04-21,4548-4,Hemoglobin A1c,5.0,%
+OBS-01631,P043,2026-04-21,1558-6,Fasting glucose,84,mg/dL
+OBS-01632,P043,2026-04-21,2093-3,Total cholesterol,205,mg/dL
+OBS-01633,P043,2026-04-21,2085-9,HDL cholesterol,60,mg/dL
+OBS-01634,P043,2026-04-21,13457-7,LDL cholesterol (calculated),111,mg/dL
+OBS-01635,P043,2026-10-15,8480-6,Systolic blood pressure,113,mm[Hg]
+OBS-01636,P043,2026-10-15,8462-4,Diastolic blood pressure,68,mm[Hg]
+OBS-01637,P043,2026-10-15,39156-5,Body mass index,26.1,kg/m2
+OBS-01638,P043,2026-10-15,98979-8,eGFR (CKD-EPI 2021),93,mL/min/1.73m2
+OBS-01639,P044,2023-10-22,8480-6,Systolic blood pressure,132,mm[Hg]
+OBS-01640,P044,2023-10-22,8462-4,Diastolic blood pressure,84,mm[Hg]
+OBS-01641,P044,2023-10-22,39156-5,Body mass index,28.9,kg/m2
+OBS-01642,P044,2023-10-22,98979-8,eGFR (CKD-EPI 2021),86,mL/min/1.73m2
+OBS-01643,P044,2024-04-22,8480-6,Systolic blood pressure,130,mm[Hg]
+OBS-01644,P044,2024-04-22,8462-4,Diastolic blood pressure,82,mm[Hg]
+OBS-01645,P044,2024-04-22,39156-5,Body mass index,28.9,kg/m2
+OBS-01646,P044,2024-04-22,4548-4,Hemoglobin A1c,5.4,%
+OBS-01647,P044,2024-04-22,1558-6,Fasting glucose,90,mg/dL
+OBS-01648,P044,2024-04-22,2093-3,Total cholesterol,204,mg/dL
+OBS-01649,P044,2024-04-22,2085-9,HDL cholesterol,47,mg/dL
+OBS-01650,P044,2024-04-22,13457-7,LDL cholesterol (calculated),128,mg/dL
+OBS-01651,P044,2024-10-21,8480-6,Systolic blood pressure,134,mm[Hg]
+OBS-01652,P044,2024-10-21,8462-4,Diastolic blood pressure,85,mm[Hg]
+OBS-01653,P044,2024-10-21,39156-5,Body mass index,29.0,kg/m2
+OBS-01654,P044,2024-10-21,98979-8,eGFR (CKD-EPI 2021),85,mL/min/1.73m2
+OBS-01655,P044,2024-10-21,9318-7,Urine albumin/creatinine ratio,14,mg/g
+OBS-01656,P044,2025-04-22,8480-6,Systolic blood pressure,131,mm[Hg]
+OBS-01657,P044,2025-04-22,8462-4,Diastolic blood pressure,83,mm[Hg]
+OBS-01658,P044,2025-04-22,39156-5,Body mass index,29.0,kg/m2
+OBS-01659,P044,2025-10-22,8480-6,Systolic blood pressure,133,mm[Hg]
+OBS-01660,P044,2025-10-22,8462-4,Diastolic blood pressure,84,mm[Hg]
+OBS-01661,P044,2025-10-22,39156-5,Body mass index,29.0,kg/m2
+OBS-01662,P044,2025-10-22,98979-8,eGFR (CKD-EPI 2021),85,mL/min/1.73m2
+OBS-01663,P044,2026-04-22,8480-6,Systolic blood pressure,130,mm[Hg]
+OBS-01664,P044,2026-04-22,8462-4,Diastolic blood pressure,82,mm[Hg]
+OBS-01665,P044,2026-04-22,39156-5,Body mass index,29.1,kg/m2
+OBS-01666,P044,2026-04-22,4548-4,Hemoglobin A1c,5.4,%
+OBS-01667,P044,2026-04-22,1558-6,Fasting glucose,92,mg/dL
+OBS-01668,P044,2026-04-22,2093-3,Total cholesterol,208,mg/dL
+OBS-01669,P044,2026-04-22,2085-9,HDL cholesterol,47,mg/dL
+OBS-01670,P044,2026-04-22,13457-7,LDL cholesterol (calculated),130,mg/dL
+OBS-01671,P044,2026-10-28,8480-6,Systolic blood pressure,186,mm[Hg]
+OBS-01672,P044,2026-10-28,8462-4,Diastolic blood pressure,122,mm[Hg]
+OBS-01673,P044,2026-10-28,39156-5,Body mass index,29.1,kg/m2
+OBS-01674,P044,2026-10-28,98979-8,eGFR (CKD-EPI 2021),84,mL/min/1.73m2
+OBS-01675,P044,2026-10-28,9318-7,Urine albumin/creatinine ratio,15,mg/g
+OBS-01676,P045,2023-10-22,8480-6,Systolic blood pressure,105,mm[Hg]
+OBS-01677,P045,2023-10-22,8462-4,Diastolic blood pressure,69,mm[Hg]
+OBS-01678,P045,2023-10-22,39156-5,Body mass index,28.7,kg/m2
+OBS-01679,P045,2023-10-22,98979-8,eGFR (CKD-EPI 2021),83,mL/min/1.73m2
+OBS-01680,P045,2024-04-17,8480-6,Systolic blood pressure,105,mm[Hg]
+OBS-01681,P045,2024-04-17,8462-4,Diastolic blood pressure,71,mm[Hg]
+OBS-01682,P045,2024-04-17,39156-5,Body mass index,28.7,kg/m2
+OBS-01683,P045,2024-04-17,4548-4,Hemoglobin A1c,5.2,%
+OBS-01684,P045,2024-04-17,1558-6,Fasting glucose,82,mg/dL
+OBS-01685,P045,2024-04-17,2093-3,Total cholesterol,218,mg/dL
+OBS-01686,P045,2024-04-17,2085-9,HDL cholesterol,51,mg/dL
+OBS-01687,P045,2024-04-17,13457-7,LDL cholesterol (calculated),124,mg/dL
+OBS-01688,P045,2024-10-08,8480-6,Systolic blood pressure,106,mm[Hg]
+OBS-01689,P045,2024-10-08,8462-4,Diastolic blood pressure,67,mm[Hg]
+OBS-01690,P045,2024-10-08,39156-5,Body mass index,28.8,kg/m2
+OBS-01691,P045,2024-10-08,98979-8,eGFR (CKD-EPI 2021),82,mL/min/1.73m2
+OBS-01692,P045,2025-04-09,8480-6,Systolic blood pressure,104,mm[Hg]
+OBS-01693,P045,2025-04-09,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-01694,P045,2025-04-09,39156-5,Body mass index,28.8,kg/m2
+OBS-01695,P045,2025-10-25,8480-6,Systolic blood pressure,106,mm[Hg]
+OBS-01696,P045,2025-10-25,8462-4,Diastolic blood pressure,73,mm[Hg]
+OBS-01697,P045,2025-10-25,39156-5,Body mass index,28.8,kg/m2
+OBS-01698,P045,2025-10-25,98979-8,eGFR (CKD-EPI 2021),81,mL/min/1.73m2
+OBS-01699,P045,2026-04-27,8480-6,Systolic blood pressure,107,mm[Hg]
+OBS-01700,P045,2026-04-27,8462-4,Diastolic blood pressure,68,mm[Hg]
+OBS-01701,P045,2026-04-27,39156-5,Body mass index,28.9,kg/m2
+OBS-01702,P045,2026-04-27,4548-4,Hemoglobin A1c,5.2,%
+OBS-01703,P045,2026-04-27,1558-6,Fasting glucose,85,mg/dL
+OBS-01704,P045,2026-04-27,2093-3,Total cholesterol,218,mg/dL
+OBS-01705,P045,2026-04-27,2085-9,HDL cholesterol,51,mg/dL
+OBS-01706,P045,2026-04-27,13457-7,LDL cholesterol (calculated),126,mg/dL
+OBS-01707,P045,2026-10-17,8480-6,Systolic blood pressure,102,mm[Hg]
+OBS-01708,P045,2026-10-17,8462-4,Diastolic blood pressure,71,mm[Hg]
+OBS-01709,P045,2026-10-17,39156-5,Body mass index,28.9,kg/m2
+OBS-01710,P045,2026-10-17,98979-8,eGFR (CKD-EPI 2021),80,mL/min/1.73m2
+OBS-01711,P046,2023-10-07,8480-6,Systolic blood pressure,109,mm[Hg]
+OBS-01712,P046,2023-10-07,8462-4,Diastolic blood pressure,73,mm[Hg]
+OBS-01713,P046,2023-10-07,39156-5,Body mass index,28.0,kg/m2
+OBS-01714,P046,2023-10-07,98979-8,eGFR (CKD-EPI 2021),102,mL/min/1.73m2
+OBS-01715,P046,2024-04-24,8480-6,Systolic blood pressure,109,mm[Hg]
+OBS-01716,P046,2024-04-24,8462-4,Diastolic blood pressure,75,mm[Hg]
+OBS-01717,P046,2024-04-24,39156-5,Body mass index,28.0,kg/m2
+OBS-01718,P046,2024-04-24,4548-4,Hemoglobin A1c,5.2,%
+OBS-01719,P046,2024-04-24,1558-6,Fasting glucose,89,mg/dL
+OBS-01720,P046,2024-04-24,2093-3,Total cholesterol,176,mg/dL
+OBS-01721,P046,2024-04-24,2085-9,HDL cholesterol,49,mg/dL
+OBS-01722,P046,2024-04-24,13457-7,LDL cholesterol (calculated),108,mg/dL
+OBS-01723,P046,2024-10-12,8480-6,Systolic blood pressure,110,mm[Hg]
+OBS-01724,P046,2024-10-12,8462-4,Diastolic blood pressure,75,mm[Hg]
+OBS-01725,P046,2024-10-12,39156-5,Body mass index,28.1,kg/m2
+OBS-01726,P046,2024-10-12,98979-8,eGFR (CKD-EPI 2021),101,mL/min/1.73m2
+OBS-01727,P046,2025-04-21,8480-6,Systolic blood pressure,108,mm[Hg]
+OBS-01728,P046,2025-04-21,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-01729,P046,2025-04-21,39156-5,Body mass index,28.1,kg/m2
+OBS-01730,P046,2025-10-18,8480-6,Systolic blood pressure,108,mm[Hg]
+OBS-01731,P046,2025-10-18,8462-4,Diastolic blood pressure,74,mm[Hg]
+OBS-01732,P046,2025-10-18,39156-5,Body mass index,28.1,kg/m2
+OBS-01733,P046,2025-10-18,98979-8,eGFR (CKD-EPI 2021),100,mL/min/1.73m2
+OBS-01734,P046,2026-04-26,8480-6,Systolic blood pressure,103,mm[Hg]
+OBS-01735,P046,2026-04-26,8462-4,Diastolic blood pressure,70,mm[Hg]
+OBS-01736,P046,2026-04-26,39156-5,Body mass index,28.2,kg/m2
+OBS-01737,P046,2026-04-26,4548-4,Hemoglobin A1c,5.2,%
+OBS-01738,P046,2026-04-26,1558-6,Fasting glucose,83,mg/dL
+OBS-01739,P046,2026-04-26,2093-3,Total cholesterol,184,mg/dL
+OBS-01740,P046,2026-04-26,2085-9,HDL cholesterol,49,mg/dL
+OBS-01741,P046,2026-04-26,13457-7,LDL cholesterol (calculated),115,mg/dL
+OBS-01742,P046,2026-10-17,8480-6,Systolic blood pressure,102,mm[Hg]
+OBS-01743,P046,2026-10-17,8462-4,Diastolic blood pressure,72,mm[Hg]
+OBS-01744,P046,2026-10-17,39156-5,Body mass index,28.2,kg/m2
+OBS-01745,P046,2026-10-17,98979-8,eGFR (CKD-EPI 2021),99,mL/min/1.73m2
+OBS-01746,P047,2023-10-22,8480-6,Systolic blood pressure,144,mm[Hg]
+OBS-01747,P047,2023-10-22,8462-4,Diastolic blood pressure,88,mm[Hg]
+OBS-01748,P047,2023-10-22,39156-5,Body mass index,29.5,kg/m2
+OBS-01749,P047,2023-10-22,98979-8,eGFR (CKD-EPI 2021),88,mL/min/1.73m2
+OBS-01750,P047,2024-04-22,8480-6,Systolic blood pressure,142,mm[Hg]
+OBS-01751,P047,2024-04-22,8462-4,Diastolic blood pressure,86,mm[Hg]
+OBS-01752,P047,2024-04-22,39156-5,Body mass index,29.5,kg/m2
+OBS-01753,P047,2024-04-22,4548-4,Hemoglobin A1c,5.5,%
+OBS-01754,P047,2024-04-22,1558-6,Fasting glucose,94,mg/dL
+OBS-01755,P047,2024-04-22,2093-3,Total cholesterol,214,mg/dL
+OBS-01756,P047,2024-04-22,2085-9,HDL cholesterol,44,mg/dL
+OBS-01757,P047,2024-04-22,13457-7,LDL cholesterol (calculated),140,mg/dL
+OBS-01758,P047,2024-10-21,8480-6,Systolic blood pressure,146,mm[Hg]
+OBS-01759,P047,2024-10-21,8462-4,Diastolic blood pressure,89,mm[Hg]
+OBS-01760,P047,2024-10-21,39156-5,Body mass index,29.6,kg/m2
+OBS-01761,P047,2024-10-21,98979-8,eGFR (CKD-EPI 2021),87,mL/min/1.73m2
+OBS-01762,P047,2024-10-21,9318-7,Urine albumin/creatinine ratio,16,mg/g
+OBS-01763,P047,2025-04-22,8480-6,Systolic blood pressure,143,mm[Hg]
+OBS-01764,P047,2025-04-22,8462-4,Diastolic blood pressure,87,mm[Hg]
+OBS-01765,P047,2025-04-22,39156-5,Body mass index,29.6,kg/m2
+OBS-01766,P047,2025-10-22,8480-6,Systolic blood pressure,145,mm[Hg]
+OBS-01767,P047,2025-10-22,8462-4,Diastolic blood pressure,88,mm[Hg]
+OBS-01768,P047,2025-10-22,39156-5,Body mass index,29.6,kg/m2
+OBS-01769,P047,2025-10-22,98979-8,eGFR (CKD-EPI 2021),86,mL/min/1.73m2
+OBS-01770,P047,2026-04-22,8480-6,Systolic blood pressure,142,mm[Hg]
+OBS-01771,P047,2026-04-22,8462-4,Diastolic blood pressure,86,mm[Hg]
+OBS-01772,P047,2026-04-22,39156-5,Body mass index,29.7,kg/m2
+OBS-01773,P047,2026-04-22,4548-4,Hemoglobin A1c,5.5,%
+OBS-01774,P047,2026-04-22,1558-6,Fasting glucose,96,mg/dL
+OBS-01775,P047,2026-04-22,2093-3,Total cholesterol,216,mg/dL
+OBS-01776,P047,2026-04-22,2085-9,HDL cholesterol,45,mg/dL
+OBS-01777,P047,2026-04-22,13457-7,LDL cholesterol (calculated),142,mg/dL
+OBS-01778,P047,2026-10-22,8480-6,Systolic blood pressure,144,mm[Hg]
+OBS-01779,P047,2026-10-22,8462-4,Diastolic blood pressure,88,mm[Hg]
+OBS-01780,P047,2026-10-22,39156-5,Body mass index,29.7,kg/m2
+OBS-01781,P047,2026-10-22,98979-8,eGFR (CKD-EPI 2021),86,mL/min/1.73m2
+OBS-01782,P047,2026-10-22,9318-7,Urine albumin/creatinine ratio,18,mg/g
+OBS-01783,P048,2023-10-28,8480-6,Systolic blood pressure,110,mm[Hg]
+OBS-01784,P048,2023-10-28,8462-4,Diastolic blood pressure,65,mm[Hg]
+OBS-01785,P048,2023-10-28,39156-5,Body mass index,31.3,kg/m2
+OBS-01786,P048,2023-10-28,98979-8,eGFR (CKD-EPI 2021),96,mL/min/1.73m2
+OBS-01787,P048,2024-04-09,8480-6,Systolic blood pressure,110,mm[Hg]
+OBS-01788,P048,2024-04-09,8462-4,Diastolic blood pressure,65,mm[Hg]
+OBS-01789,P048,2024-04-09,39156-5,Body mass index,31.3,kg/m2
+OBS-01790,P048,2024-04-09,4548-4,Hemoglobin A1c,5.4,%
+OBS-01791,P048,2024-04-09,1558-6,Fasting glucose,83,mg/dL
+OBS-01792,P048,2024-04-09,2093-3,Total cholesterol,181,mg/dL
+OBS-01793,P048,2024-04-09,2085-9,HDL cholesterol,46,mg/dL
+OBS-01794,P048,2024-04-09,13457-7,LDL cholesterol (calculated),106,mg/dL
+OBS-01795,P048,2024-10-25,8480-6,Systolic blood pressure,109,mm[Hg]
+OBS-01796,P048,2024-10-25,8462-4,Diastolic blood pressure,70,mm[Hg]
+OBS-01797,P048,2024-10-25,39156-5,Body mass index,31.4,kg/m2
+OBS-01798,P048,2024-10-25,98979-8,eGFR (CKD-EPI 2021),95,mL/min/1.73m2
+OBS-01799,P048,2025-04-08,8480-6,Systolic blood pressure,106,mm[Hg]
+OBS-01800,P048,2025-04-08,8462-4,Diastolic blood pressure,70,mm[Hg]
+OBS-01801,P048,2025-04-08,39156-5,Body mass index,31.4,kg/m2
+OBS-01802,P048,2025-10-23,8480-6,Systolic blood pressure,102,mm[Hg]
+OBS-01803,P048,2025-10-23,8462-4,Diastolic blood pressure,67,mm[Hg]
+OBS-01804,P048,2025-10-23,39156-5,Body mass index,31.4,kg/m2
+OBS-01805,P048,2025-10-23,98979-8,eGFR (CKD-EPI 2021),94,mL/min/1.73m2
+OBS-01806,P048,2026-04-09,8480-6,Systolic blood pressure,107,mm[Hg]
+OBS-01807,P048,2026-04-09,8462-4,Diastolic blood pressure,68,mm[Hg]
+OBS-01808,P048,2026-04-09,39156-5,Body mass index,31.5,kg/m2
+OBS-01809,P048,2026-04-09,4548-4,Hemoglobin A1c,5.4,%
+OBS-01810,P048,2026-04-09,1558-6,Fasting glucose,88,mg/dL
+OBS-01811,P048,2026-04-09,2093-3,Total cholesterol,174,mg/dL
+OBS-01812,P048,2026-04-09,2085-9,HDL cholesterol,46,mg/dL
+OBS-01813,P048,2026-04-09,13457-7,LDL cholesterol (calculated),107,mg/dL
+OBS-01814,P048,2026-10-20,8480-6,Systolic blood pressure,110,mm[Hg]
+OBS-01815,P048,2026-10-20,8462-4,Diastolic blood pressure,66,mm[Hg]
+OBS-01816,P048,2026-10-20,39156-5,Body mass index,31.5,kg/m2
+OBS-01817,P048,2026-10-20,98979-8,eGFR (CKD-EPI 2021),93,mL/min/1.73m2
+OBS-01818,P049,2023-10-11,8480-6,Systolic blood pressure,121,mm[Hg]
+OBS-01819,P049,2023-10-11,8462-4,Diastolic blood pressure,76,mm[Hg]
+OBS-01820,P049,2023-10-11,39156-5,Body mass index,26.2,kg/m2
+OBS-01821,P049,2023-10-11,4548-4,Hemoglobin A1c,6.9,%
+OBS-01822,P049,2023-10-11,1558-6,Fasting glucose,148,mg/dL
+OBS-01823,P049,2023-10-11,98979-8,eGFR (CKD-EPI 2021),82,mL/min/1.73m2
+OBS-01824,P049,2024-04-11,8480-6,Systolic blood pressure,115,mm[Hg]
+OBS-01825,P049,2024-04-11,8462-4,Diastolic blood pressure,80,mm[Hg]
+OBS-01826,P049,2024-04-11,39156-5,Body mass index,26.2,kg/m2
+OBS-01827,P049,2024-04-11,4548-4,Hemoglobin A1c,6.9,%
+OBS-01828,P049,2024-04-11,1558-6,Fasting glucose,143,mg/dL
+OBS-01829,P049,2024-04-11,2093-3,Total cholesterol,171,mg/dL
+OBS-01830,P049,2024-04-11,2085-9,HDL cholesterol,41,mg/dL
+OBS-01831,P049,2024-04-11,13457-7,LDL cholesterol (calculated),87,mg/dL
+OBS-01832,P049,2024-10-21,8480-6,Systolic blood pressure,115,mm[Hg]
+OBS-01833,P049,2024-10-21,8462-4,Diastolic blood pressure,78,mm[Hg]
+OBS-01834,P049,2024-10-21,39156-5,Body mass index,26.3,kg/m2
+OBS-01835,P049,2024-10-21,4548-4,Hemoglobin A1c,7.1,%
+OBS-01836,P049,2024-10-21,1558-6,Fasting glucose,146,mg/dL
+OBS-01837,P049,2024-10-21,98979-8,eGFR (CKD-EPI 2021),81,mL/min/1.73m2
+OBS-01838,P049,2024-10-21,9318-7,Urine albumin/creatinine ratio,23,mg/g
+OBS-01839,P049,2025-04-13,8480-6,Systolic blood pressure,121,mm[Hg]
+OBS-01840,P049,2025-04-13,8462-4,Diastolic blood pressure,77,mm[Hg]
+OBS-01841,P049,2025-04-13,39156-5,Body mass index,26.3,kg/m2
+OBS-01842,P049,2025-04-13,4548-4,Hemoglobin A1c,6.9,%
+OBS-01843,P049,2025-04-13,1558-6,Fasting glucose,144,mg/dL
+OBS-01844,P049,2025-10-20,8480-6,Systolic blood pressure,121,mm[Hg]
+OBS-01845,P049,2025-10-20,8462-4,Diastolic blood pressure,77,mm[Hg]
+OBS-01846,P049,2025-10-20,39156-5,Body mass index,26.3,kg/m2
+OBS-01847,P049,2025-10-20,4548-4,Hemoglobin A1c,6.9,%
+OBS-01848,P049,2025-10-20,1558-6,Fasting glucose,141,mg/dL
+OBS-01849,P049,2025-10-20,98979-8,eGFR (CKD-EPI 2021),80,mL/min/1.73m2
+OBS-01850,P049,2026-04-14,8480-6,Systolic blood pressure,122,mm[Hg]
+OBS-01851,P049,2026-04-14,8462-4,Diastolic blood pressure,76,mm[Hg]
+OBS-01852,P049,2026-04-14,39156-5,Body mass index,26.4,kg/m2
+OBS-01853,P049,2026-04-14,4548-4,Hemoglobin A1c,7.2,%
+OBS-01854,P049,2026-04-14,1558-6,Fasting glucose,139,mg/dL
+OBS-01855,P049,2026-04-14,2093-3,Total cholesterol,161,mg/dL
+OBS-01856,P049,2026-04-14,2085-9,HDL cholesterol,41,mg/dL
+OBS-01857,P049,2026-04-14,13457-7,LDL cholesterol (calculated),91,mg/dL
+OBS-01858,P049,2026-10-17,8480-6,Systolic blood pressure,119,mm[Hg]
+OBS-01859,P049,2026-10-17,8462-4,Diastolic blood pressure,78,mm[Hg]
+OBS-01860,P049,2026-10-17,39156-5,Body mass index,26.4,kg/m2
+OBS-01861,P049,2026-10-17,4548-4,Hemoglobin A1c,7.2,%
+OBS-01862,P049,2026-10-17,1558-6,Fasting glucose,144,mg/dL
+OBS-01863,P049,2026-10-17,98979-8,eGFR (CKD-EPI 2021),79,mL/min/1.73m2
+OBS-01864,P049,2026-10-17,9318-7,Urine albumin/creatinine ratio,16,mg/g
+OBS-01865,P050,2023-10-23,8480-6,Systolic blood pressure,116,mm[Hg]
+OBS-01866,P050,2023-10-23,8462-4,Diastolic blood pressure,67,mm[Hg]
+OBS-01867,P050,2023-10-23,39156-5,Body mass index,22.7,kg/m2
+OBS-01868,P050,2023-10-23,98979-8,eGFR (CKD-EPI 2021),78,mL/min/1.73m2
+OBS-01869,P050,2024-04-17,8480-6,Systolic blood pressure,118,mm[Hg]
+OBS-01870,P050,2024-04-17,8462-4,Diastolic blood pressure,67,mm[Hg]
+OBS-01871,P050,2024-04-17,39156-5,Body mass index,22.7,kg/m2
+OBS-01872,P050,2024-04-17,4548-4,Hemoglobin A1c,5.3,%
+OBS-01873,P050,2024-04-17,1558-6,Fasting glucose,93,mg/dL
+OBS-01874,P050,2024-04-17,2093-3,Total cholesterol,175,mg/dL
+OBS-01875,P050,2024-04-17,2085-9,HDL cholesterol,50,mg/dL
+OBS-01876,P050,2024-04-17,13457-7,LDL cholesterol (calculated),101,mg/dL
+OBS-01877,P050,2024-10-25,8480-6,Systolic blood pressure,120,mm[Hg]
+OBS-01878,P050,2024-10-25,8462-4,Diastolic blood pressure,67,mm[Hg]
+OBS-01879,P050,2024-10-25,39156-5,Body mass index,22.8,kg/m2
+OBS-01880,P050,2024-10-25,98979-8,eGFR (CKD-EPI 2021),77,mL/min/1.73m2
+OBS-01881,P050,2025-04-26,8480-6,Systolic blood pressure,117,mm[Hg]
+OBS-01882,P050,2025-04-26,8462-4,Diastolic blood pressure,67,mm[Hg]
+OBS-01883,P050,2025-04-26,39156-5,Body mass index,22.8,kg/m2
+OBS-01884,P050,2025-10-17,8480-6,Systolic blood pressure,123,mm[Hg]
+OBS-01885,P050,2025-10-17,8462-4,Diastolic blood pressure,69,mm[Hg]
+OBS-01886,P050,2025-10-17,39156-5,Body mass index,22.8,kg/m2
+OBS-01887,P050,2025-10-17,98979-8,eGFR (CKD-EPI 2021),76,mL/min/1.73m2
+OBS-01888,P050,2026-04-14,8480-6,Systolic blood pressure,121,mm[Hg]
+OBS-01889,P050,2026-04-14,8462-4,Diastolic blood pressure,71,mm[Hg]
+OBS-01890,P050,2026-04-14,39156-5,Body mass index,22.9,kg/m2
+OBS-01891,P050,2026-04-14,4548-4,Hemoglobin A1c,5.2,%
+OBS-01892,P050,2026-04-14,1558-6,Fasting glucose,93,mg/dL
+OBS-01893,P050,2026-04-14,2093-3,Total cholesterol,167,mg/dL
+OBS-01894,P050,2026-04-14,2085-9,HDL cholesterol,50,mg/dL
+OBS-01895,P050,2026-04-14,13457-7,LDL cholesterol (calculated),95,mg/dL
+OBS-01896,P050,2026-10-28,8480-6,Systolic blood pressure,119,mm[Hg]
+OBS-01897,P050,2026-10-28,8462-4,Diastolic blood pressure,68,mm[Hg]
+OBS-01898,P050,2026-10-28,39156-5,Body mass index,22.9,kg/m2
+OBS-01899,P050,2026-10-28,98979-8,eGFR (CKD-EPI 2021),75,mL/min/1.73m2

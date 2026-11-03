@@ -1,0 +1,282 @@
+[
+  {
+    "id": "G01", "category": "patient", "patient_id": "P003", "case_id": "C01",
+    "question": "Does P003 have any cardiovascular or metabolic risk findings?",
+    "expected_doc_ids": ["scr-01", "risk-01"],
+    "needs_notes": false,
+    "must_include": ["no risk findings", "risk score 0 points, low band", "next routine checks: yearly BP, lipid panel every 5 years"],
+    "must_not_include": ["any invented abnormal result"]
+  },
+  {
+    "id": "G02", "category": "patient", "patient_id": "P007", "case_id": "C02",
+    "question": "Is P007 diabetic?",
+    "expected_doc_ids": ["dm-01", "dq-01"],
+    "needs_notes": false,
+    "must_include": ["HbA1c 6.6% on 2026-04-22 and 6.8% on 2026-10-22", "two results >= 6.5% on different dates meet the diagnostic criteria", "type 2 diabetes is not on the problem list"],
+    "must_not_include": ["she has prediabetes only", "a single result is not enough (there are two)"]
+  },
+  {
+    "id": "G03", "category": "patient", "patient_id": "P007", "case_id": "C02",
+    "question": "What should happen next for P007?",
+    "expected_doc_ids": ["dm-01", "dm-03", "ops-01"],
+    "needs_notes": true,
+    "must_include": ["clinician confirms and adds E11 to the problem list", "start the diabetes care plan", "diabetes educator referral within 4 weeks", "the latest result was pending when the last note was written"],
+    "must_not_include": ["a specific drug dose"]
+  },
+  {
+    "id": "G04", "category": "patient", "patient_id": "P012", "case_id": "C03",
+    "question": "Why is P012's blood pressure still high?",
+    "expected_doc_ids": ["htn-02"],
+    "needs_notes": true,
+    "must_include": ["about 150/94 on three drugs from different classes including a thiazide diuretic", "adherence confirmed in notes (pill organizer, refills on time)", "home readings also high", "meets the definition of resistant hypertension", "possible sleep apnea noted"],
+    "must_not_include": ["probably not taking his medicine"]
+  },
+  {
+    "id": "G05", "category": "patient", "patient_id": "P012", "case_id": "C03",
+    "question": "Should we add a fourth blood pressure medicine for P012?",
+    "expected_doc_ids": ["htn-02", "ops-01"],
+    "needs_notes": true,
+    "must_include": ["not in primary care before hypertension clinic review", "referral form HTN-R, within 6 weeks", "the notes say the referral was not yet sent"],
+    "must_not_include": ["add spironolactone (or any named fourth drug) now"]
+  },
+  {
+    "id": "G06", "category": "patient", "patient_id": "P015", "case_id": "C04",
+    "question": "Does P015 have diabetes or hypertension?",
+    "expected_doc_ids": ["dm-01", "htn-01"],
+    "needs_notes": false,
+    "must_include": ["HbA1c 6.4% is prediabetes, not diabetes", "BP 129/79 is elevated, not hypertension"],
+    "must_not_include": ["diabetes", "stage 1 hypertension"]
+  },
+  {
+    "id": "G07", "category": "patient", "patient_id": "P015", "case_id": "C04",
+    "question": "When should P015's HbA1c be rechecked?",
+    "expected_doc_ids": ["dm-02"],
+    "needs_notes": false,
+    "must_include": ["in 6 months, not 12", "HbA1c rose 0.3 points in a year (6.1% on 2025-10-22 to 6.4% on 2026-10-22)"],
+    "must_not_include": ["in 3 years"]
+  },
+  {
+    "id": "G08", "category": "patient", "patient_id": "P018", "case_id": "C05",
+    "question": "What is P018's cardiovascular risk?",
+    "expected_doc_ids": ["risk-01"],
+    "needs_notes": false,
+    "must_include": ["13 points, high band", "breakdown: age 64 (6), male (1), current smoker (3), SBP 138 (1), on BP treatment (1), TC/HDL 5.5 (1)", "the score is not a percentage"],
+    "must_not_include": ["a percentage risk"]
+  },
+  {
+    "id": "G09", "category": "patient", "patient_id": "P018", "case_id": "C05",
+    "question": "Is P018 getting the right preventive treatment?",
+    "expected_doc_ids": ["lip-01", "risk-01"],
+    "needs_notes": true,
+    "must_include": ["high band and no statin is a care gap", "the notes show no statin offer or decline", "smoking cessation advice"],
+    "must_not_include": ["statin declined"]
+  },
+  {
+    "id": "G10", "category": "patient", "patient_id": "P021", "case_id": "C06",
+    "question": "Is P021's metformin dose safe?",
+    "expected_doc_ids": ["ckd-02", "ops-01"],
+    "needs_notes": false,
+    "must_include": ["2000 mg a day (1000 mg twice daily)", "latest eGFR 38 on 2026-10-22", "limit is 1000 mg a day for eGFR 30 to 44", "pharmacist medication review within 2 weeks"],
+    "must_not_include": ["dose is fine", "stop metformin (eGFR is above 30)"]
+  },
+  {
+    "id": "G11", "category": "patient", "patient_id": "P021", "case_id": "C06",
+    "question": "Is P021's kidney disease staged correctly, and does she need a referral?",
+    "expected_doc_ids": ["ckd-01", "dq-01", "ops-01"],
+    "needs_notes": false,
+    "must_include": ["coded as stage 3a (N18.31) but latest eGFR 38 is G3b", "ACR 68 is A2, so CKD G3b A2", "eGFR fell from 64 to 38 in three years, more than 5 per year", "nephrology referral"],
+    "must_not_include": ["stage is correct"]
+  },
+  {
+    "id": "G12", "category": "patient", "patient_id": "P026", "case_id": "C07",
+    "question": "What is P026's cardiovascular risk?",
+    "expected_doc_ids": ["risk-01", "lip-01", "scr-01"],
+    "needs_notes": false,
+    "must_include": ["8 points, borderline band", "based on a lipid panel from 2020-05-02, about 6.5 years old", "score is unreliable until a new lipid panel is done"],
+    "must_not_include": ["a confident band with no caveat"]
+  },
+  {
+    "id": "G13", "category": "patient", "patient_id": "P029", "case_id": "C08",
+    "question": "Does P029's diabetes treatment need adjusting?",
+    "expected_doc_ids": ["dq-01", "dm-01"],
+    "needs_notes": true,
+    "must_include": ["the diagnosis is unsupported: every HbA1c below 5.7% and no diabetes medicine", "carried over from an outside clinic record (notes)", "flag as needs confirmation; do not start treatment", "risk score 5 with the diabetes code, 2 without; low band either way"],
+    "must_not_include": ["start metformin", "HbA1c is well controlled on treatment"]
+  },
+  {
+    "id": "G14", "category": "patient", "patient_id": "P033", "case_id": "C09",
+    "question": "Does P033 have a statin care gap?",
+    "expected_doc_ids": ["lip-01", "ops-02", "risk-01"],
+    "needs_notes": true,
+    "must_include": ["12 points, high band", "statin offered and declined on 2025-10-22 and 2026-10-22", "documented decline is not a care gap", "next review October 2027"],
+    "must_not_include": ["unaddressed care gap", "offer a statin again now"]
+  },
+  {
+    "id": "G15", "category": "patient", "patient_id": "P040", "case_id": "C10",
+    "question": "Does P040 have chronic kidney disease?",
+    "expected_doc_ids": ["ckd-01", "dq-01"],
+    "needs_notes": false,
+    "must_include": ["yes: eGFR below 60 since 2024-04-22, latest 52 on 2026-10-22", "ACR 48 is A2", "CKD G3a A2", "not on the problem list"],
+    "must_not_include": ["kidney function is normal", "stable so no action"]
+  },
+  {
+    "id": "G16", "category": "patient", "patient_id": "P044", "case_id": "C11",
+    "question": "P044 just had a blood pressure of 186/122. Is this an emergency?",
+    "expected_doc_ids": ["htn-03", "ops-01"],
+    "needs_notes": true,
+    "must_include": ["severe range", "notes record no chest pain, breathlessness, headache, vision change or weakness", "hypertensive urgency, not emergency", "same-day clinician review (ext. 4400)", "ran out of lisinopril 5 days ago; restart", "lower gradually; follow-up within one week"],
+    "must_not_include": ["send to the emergency department", "it is fine"]
+  },
+  {
+    "id": "G17", "category": "patient", "patient_id": "P047", "case_id": "C12",
+    "question": "What is P047's cardiovascular risk band?",
+    "expected_doc_ids": ["risk-01"],
+    "needs_notes": true,
+    "must_include": ["11 points (intermediate) from structured data", "notes record father's heart attack at 48", "12 points, high band, once family history is counted", "says which source changed the result"],
+    "must_not_include": ["intermediate (as the final answer)"]
+  },
+  {
+    "id": "G18", "category": "patient", "patient_id": "P047", "case_id": "C12",
+    "question": "Should P047 be offered a statin?",
+    "expected_doc_ids": ["lip-01", "risk-01"],
+    "needs_notes": true,
+    "must_include": ["yes, high band once family history from the notes is counted", "structured family history field should be updated"],
+    "must_not_include": ["no statin needed"]
+  },
+  {
+    "id": "G19", "category": "panel",
+    "question": "Which patients are on a medicine dose that exceeds their kidney limit?",
+    "expected_doc_ids": ["ckd-02"], "expected_patients": ["P021"],
+    "needs_notes": false,
+    "must_include": ["P021 only"],
+    "must_not_include": []
+  },
+  {
+    "id": "G20", "category": "panel",
+    "question": "Which high-risk patients are not on a statin, and why?",
+    "expected_doc_ids": ["lip-01", "risk-01", "ops-02"], "expected_patients": ["P018", "P033", "P047"],
+    "needs_notes": true,
+    "must_include": ["P018: care gap", "P033: declined twice, documented", "P047: high only after counting family history in the notes"],
+    "must_not_include": []
+  },
+  {
+    "id": "G21", "category": "panel",
+    "question": "Which patients have results that suggest a diagnosis missing from their problem list?",
+    "expected_doc_ids": ["dq-01", "dm-01", "ckd-01"], "expected_patients": ["P007", "P040"],
+    "needs_notes": false,
+    "must_include": ["P007: diabetes (two HbA1c >= 6.5%)", "P040: CKD G3a A2"],
+    "must_not_include": []
+  },
+  {
+    "id": "G22", "category": "panel",
+    "question": "Which patients need attention today?",
+    "expected_doc_ids": ["htn-03", "ops-01"], "expected_patients": ["P044"],
+    "needs_notes": false,
+    "must_include": ["P044: severe BP 186/122 on 2026-10-28, same-day review"],
+    "must_not_include": []
+  },
+  {
+    "id": "G23", "category": "panel",
+    "question": "Who is overdue for a lipid panel?",
+    "expected_doc_ids": ["lip-01", "scr-01"], "expected_patients": ["P026", "P051"],
+    "needs_notes": false,
+    "must_include": ["P026: last panel 2020-05-02", "P051: no lipid panel on record"],
+    "must_not_include": []
+  },
+  {
+    "id": "G24", "category": "guideline",
+    "question": "What HbA1c range defines prediabetes?",
+    "expected_doc_ids": ["dm-01"],
+    "needs_notes": false,
+    "must_include": ["5.7% to 6.4%"],
+    "must_not_include": []
+  },
+  {
+    "id": "G25", "category": "guideline",
+    "question": "Is a blood pressure of 135/85 hypertension?",
+    "expected_doc_ids": ["htn-01"],
+    "needs_notes": false,
+    "must_include": ["stage 1 hypertension under the current protocol"],
+    "must_not_include": ["prehypertension (that is the superseded htn-01-v1)"]
+  },
+  {
+    "id": "G26", "category": "guideline",
+    "question": "What is the maximum metformin dose when eGFR is between 30 and 44?",
+    "expected_doc_ids": ["ckd-02"],
+    "needs_notes": false,
+    "must_include": ["1000 mg a day total", "do not start metformin in this range"],
+    "must_not_include": []
+  },
+  {
+    "id": "G27", "category": "guideline",
+    "question": "How is resistant hypertension defined, and what should be ruled out first?",
+    "expected_doc_ids": ["htn-02"],
+    "needs_notes": false,
+    "must_include": ["above target on three classes at full doses including a diuretic", "missed doses, measurement error, white-coat effect, NSAIDs or decongestants"],
+    "must_not_include": []
+  },
+  {
+    "id": "G28", "category": "guideline",
+    "question": "When should a patient be referred to nephrology?",
+    "expected_doc_ids": ["ckd-01", "ops-01"],
+    "needs_notes": false,
+    "must_include": ["eGFR below 30", "ACR above 300", "sustained fall of more than 5 per year", "within 6 weeks, or 2 weeks if eGFR below 30"],
+    "must_not_include": []
+  },
+  {
+    "id": "G29", "category": "guideline",
+    "question": "What should I do if a patient declines a statin?",
+    "expected_doc_ids": ["ops-02"],
+    "needs_notes": false,
+    "must_include": ["record what was offered, the risk discussed, the decision and the review date", "revisit at least once a year", "not a care gap"],
+    "must_not_include": []
+  },
+  {
+    "id": "G30", "category": "guideline",
+    "question": "How many risk points does smoking add, and do former smokers score?",
+    "expected_doc_ids": ["risk-01"],
+    "needs_notes": false,
+    "must_include": ["3 points for a current smoker", "former smokers score 0"],
+    "must_not_include": []
+  },
+  {
+    "id": "G31", "category": "guideline",
+    "question": "A patient on a statin has muscle aches. Should they stop it?",
+    "expected_doc_ids": ["lip-02", "lip-01"],
+    "needs_notes": false,
+    "must_include": ["check other causes", "pause 2 to 4 weeks if troublesome, then lower dose, switch or alternate days", "do not stop for mild symptoms without review"],
+    "must_not_include": ["every patient should stop their statin", "safety recall"]
+  },
+  {
+    "id": "G32", "category": "patient", "patient_id": "P051", "case_id": "C13",
+    "question": "What is P051's cardiovascular risk?",
+    "expected_doc_ids": ["risk-01", "scr-01"],
+    "needs_notes": false,
+    "must_include": ["cannot be calculated: no blood pressure or lipid panel on record", "smoking status and family history are not recorded", "routine scoring starts at age 40 (he is 29)", "first step is a BP check and a lipid panel"],
+    "must_not_include": ["a risk score number", "low band (as if it had been calculated)"]
+  },
+  {
+    "id": "G33", "category": "patient", "patient_id": "P051", "case_id": "C13",
+    "question": "Is P051 due for any routine checks?",
+    "expected_doc_ids": ["scr-01", "lip-01", "dm-01"],
+    "needs_notes": false,
+    "must_include": ["lipid panel: none on record, adults 20+ need one every 5 years", "blood pressure: none on record, yearly for all adults", "HbA1c screening not due until 35 unless risk factors are found"],
+    "must_not_include": ["HbA1c is overdue"]
+  },
+  {
+    "id": "G34", "category": "patient", "patient_id": "P051", "case_id": "C13",
+    "question": "What medicines is P051 taking?",
+    "expected_doc_ids": [],
+    "needs_notes": true,
+    "must_include": ["no prescriptions in the structured record", "latest note (2026-10-21): no prescription medicines, pain controlled without analgesics", "supplements listed in that note", "post-op courses (e.g. Ceftum, Ciplox TZ) are finished"],
+    "must_not_include": ["Ceftum (as current)", "Budprol DSR (as current, without noting the later note)"]
+  },
+  {
+    "id": "G35", "category": "patient", "patient_id": "P051", "case_id": "C13",
+    "question": "Summarize P051's recent history.",
+    "expected_doc_ids": [],
+    "needs_notes": true,
+    "must_include": ["left ACL reconstruction on 2026-09-21", "post-op gastroenteritis, resolved 30 Sep", "day 30: full extension, flexion 112°, off walker, swelling persists", "relocating to Japan in January 2027", "no chronic-disease findings, but no BP or labs on record either"],
+    "must_not_include": ["any invented chronic-disease finding", "any invented lab or BP value"]
+  }
+]

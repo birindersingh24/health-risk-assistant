@@ -1,0 +1,48 @@
+condition_id,patient_id,code_system,code,display,clinical_status,onset_date
+COND-0001,P001,ICD-10-CM,I10,Essential (primary) hypertension,active,2021-10-16
+COND-0002,P002,ICD-10-CM,I10,Essential (primary) hypertension,active,2015-09-20
+COND-0003,P002,ICD-10-CM,E66.9,"Obesity, unspecified",active,2022-08-08
+COND-0004,P005,ICD-10-CM,I10,Essential (primary) hypertension,active,2015-02-22
+COND-0005,P006,ICD-10-CM,I10,Essential (primary) hypertension,active,2024-07-12
+COND-0006,P008,ICD-10-CM,I10,Essential (primary) hypertension,active,2020-11-09
+COND-0007,P008,ICD-10-CM,E11.9,Type 2 diabetes mellitus without complications,active,2018-11-28
+COND-0008,P009,ICD-10-CM,I10,Essential (primary) hypertension,active,2016-04-16
+COND-0009,P010,ICD-10-CM,I10,Essential (primary) hypertension,active,2024-09-10
+COND-0010,P010,ICD-10-CM,E11.9,Type 2 diabetes mellitus without complications,active,2022-08-10
+COND-0011,P011,ICD-10-CM,E78.5,"Hyperlipidemia, unspecified",active,2021-04-17
+COND-0012,P012,ICD-10-CM,I10,Essential (primary) hypertension,active,2016-05-02
+COND-0013,P012,ICD-10-CM,E78.5,"Hyperlipidemia, unspecified",active,2021-03-27
+COND-0014,P012,ICD-10-CM,E66.9,"Obesity, unspecified",active,2022-11-01
+COND-0015,P014,ICD-10-CM,E11.9,Type 2 diabetes mellitus without complications,active,2018-06-12
+COND-0016,P014,ICD-10-CM,E66.9,"Obesity, unspecified",active,2025-03-24
+COND-0017,P015,ICD-10-CM,R73.03,Prediabetes,active,2023-12-08
+COND-0018,P016,ICD-10-CM,I10,Essential (primary) hypertension,active,2017-11-21
+COND-0019,P016,ICD-10-CM,E66.9,"Obesity, unspecified",active,2023-06-15
+COND-0020,P018,ICD-10-CM,I10,Essential (primary) hypertension,active,2019-08-20
+COND-0021,P020,ICD-10-CM,E78.5,"Hyperlipidemia, unspecified",active,2024-04-11
+COND-0022,P021,ICD-10-CM,E11.9,Type 2 diabetes mellitus without complications,active,2015-02-19
+COND-0023,P021,ICD-10-CM,I10,Essential (primary) hypertension,active,2017-06-08
+COND-0024,P021,ICD-10-CM,N18.31,"Chronic kidney disease, stage 3a",active,2025-06-08
+COND-0025,P021,ICD-10-CM,E66.9,"Obesity, unspecified",active,2020-10-31
+COND-0026,P024,ICD-10-CM,E11.9,Type 2 diabetes mellitus without complications,active,2021-06-14
+COND-0027,P025,ICD-10-CM,I10,Essential (primary) hypertension,active,2018-05-10
+COND-0028,P025,ICD-10-CM,E66.9,"Obesity, unspecified",active,2021-10-01
+COND-0029,P026,ICD-10-CM,I10,Essential (primary) hypertension,active,2019-08-20
+COND-0030,P027,ICD-10-CM,I10,Essential (primary) hypertension,active,2020-11-19
+COND-0031,P028,ICD-10-CM,E11.9,Type 2 diabetes mellitus without complications,active,2023-08-31
+COND-0032,P029,ICD-10-CM,E11.9,Type 2 diabetes mellitus without complications,active,2022-03-27
+COND-0033,P030,ICD-10-CM,E66.9,"Obesity, unspecified",active,2025-10-26
+COND-0034,P031,ICD-10-CM,E78.5,"Hyperlipidemia, unspecified",active,2023-11-24
+COND-0035,P032,ICD-10-CM,E78.5,"Hyperlipidemia, unspecified",active,2025-02-05
+COND-0036,P033,ICD-10-CM,I10,Essential (primary) hypertension,active,2018-07-14
+COND-0037,P037,ICD-10-CM,I10,Essential (primary) hypertension,active,2019-08-30
+COND-0038,P038,ICD-10-CM,E78.5,"Hyperlipidemia, unspecified",active,2023-07-06
+COND-0039,P039,ICD-10-CM,I10,Essential (primary) hypertension,active,2015-07-11
+COND-0040,P040,ICD-10-CM,I10,Essential (primary) hypertension,active,2014-09-25
+COND-0041,P041,ICD-10-CM,E78.5,"Hyperlipidemia, unspecified",active,2021-11-06
+COND-0042,P042,ICD-10-CM,E11.9,Type 2 diabetes mellitus without complications,active,2023-01-03
+COND-0043,P044,ICD-10-CM,I10,Essential (primary) hypertension,active,2020-07-14
+COND-0044,P047,ICD-10-CM,I10,Essential (primary) hypertension,active,2021-06-08
+COND-0045,P049,ICD-10-CM,E11.9,Type 2 diabetes mellitus without complications,active,2018-03-03
+COND-0046,P050,ICD-10-CM,E78.5,"Hyperlipidemia, unspecified",active,2024-03-08
+COND-0047,P051,ICD-10-CM,S83.512A,"Sprain of anterior cruciate ligament of left knee, initial encounter",active,2026-07-15

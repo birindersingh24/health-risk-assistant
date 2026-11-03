@@ -1,0 +1,416 @@
+[
+  {
+    "id": "C01",
+    "type": "healthy_control",
+    "patient_id": "P003",
+    "detected_by": [],
+    "expected_doc_ids": [
+      "scr-01"
+    ],
+    "story": "Young adult with normal values at every visit. Nothing should be flagged.",
+    "signal": "No rule fires; the assistant should say no risk findings and name the next routine checks.",
+    "facts": {
+      "age": 34,
+      "risk_points": 0,
+      "risk_band": "low",
+      "latest_hba1c": {
+        "value": 5.2,
+        "date": "2026-04-22"
+      },
+      "latest_egfr": {
+        "value": 103,
+        "date": "2026-10-22"
+      },
+      "latest_bp": {
+        "value": "113/72",
+        "date": "2026-10-22"
+      },
+      "latest_lipid_panel": "2026-04-22"
+    }
+  },
+  {
+    "id": "C02",
+    "type": "undiagnosed_diabetes",
+    "patient_id": "P007",
+    "detected_by": [
+      "undiagnosed_diabetes"
+    ],
+    "expected_doc_ids": [
+      "dm-01",
+      "dq-01",
+      "ops-01"
+    ],
+    "story": "HbA1c climbed from normal through prediabetes to two results in the diabetes range. Diabetes was never added to the problem list and no treatment started.",
+    "signal": "Two or more HbA1c >= 6.5% with no active E11 diagnosis.",
+    "facts": {
+      "age": 52,
+      "risk_points": 6,
+      "risk_band": "borderline",
+      "latest_hba1c": {
+        "value": 6.8,
+        "date": "2026-10-22"
+      },
+      "latest_egfr": {
+        "value": 92,
+        "date": "2026-10-22"
+      },
+      "latest_bp": {
+        "value": "124/78",
+        "date": "2026-10-22"
+      },
+      "latest_lipid_panel": "2026-04-22"
+    }
+  },
+  {
+    "id": "C03",
+    "type": "resistant_hypertension",
+    "patient_id": "P012",
+    "detected_by": [
+      "resistant_hypertension"
+    ],
+    "expected_doc_ids": [
+      "htn-02",
+      "htn-01",
+      "ops-01"
+    ],
+    "story": "Blood pressure stays around 150/94 on three drugs from different classes, including a thiazide diuretic. The notes confirm he takes them every day.",
+    "signal": "Three or more active BP drug classes and the mean of the last three readings >= 140/90.",
+    "facts": {
+      "age": 59,
+      "risk_points": 8,
+      "risk_band": "borderline",
+      "latest_hba1c": {
+        "value": 5.5,
+        "date": "2026-04-22"
+      },
+      "latest_egfr": {
+        "value": 78,
+        "date": "2026-10-22"
+      },
+      "latest_bp": {
+        "value": "155/96",
+        "date": "2026-10-22"
+      },
+      "latest_lipid_panel": "2026-04-22"
+    }
+  },
+  {
+    "id": "C04",
+    "type": "prediabetes_borderline",
+    "patient_id": "P015",
+    "detected_by": [
+      "prediabetes"
+    ],
+    "expected_doc_ids": [
+      "dm-01",
+      "dm-02",
+      "htn-01"
+    ],
+    "story": "Latest HbA1c is exactly 6.4% and latest BP exactly 129/79. Both sit one step below the next category, to catch off-by-one thresholds.",
+    "signal": "Prediabetes (5.7-6.4%), not diabetes. BP is 'elevated', not stage 1 hypertension.",
+    "facts": {
+      "age": 48,
+      "risk_points": 5,
+      "risk_band": "low",
+      "latest_hba1c": {
+        "value": 6.4,
+        "date": "2026-10-22"
+      },
+      "latest_egfr": {
+        "value": 96,
+        "date": "2026-10-22"
+      },
+      "latest_bp": {
+        "value": "129/79",
+        "date": "2026-10-22"
+      },
+      "latest_lipid_panel": "2026-04-22"
+    }
+  },
+  {
+    "id": "C05",
+    "type": "statin_gap",
+    "patient_id": "P018",
+    "detected_by": [
+      "statin_gap"
+    ],
+    "expected_doc_ids": [
+      "risk-01",
+      "lip-01"
+    ],
+    "story": "Current smoker in his sixties on treatment for hypertension. His risk score is in the high band and he has never been offered a statin.",
+    "signal": "Risk band 'high' and no active statin.",
+    "facts": {
+      "age": 64,
+      "risk_points": 13,
+      "risk_band": "high",
+      "latest_hba1c": {
+        "value": 5.5,
+        "date": "2026-04-22"
+      },
+      "latest_egfr": {
+        "value": 80,
+        "date": "2026-10-22"
+      },
+      "latest_bp": {
+        "value": "138/84",
+        "date": "2026-10-22"
+      },
+      "latest_lipid_panel": "2026-04-22"
+    }
+  },
+  {
+    "id": "C06",
+    "type": "metformin_renal_dose",
+    "patient_id": "P021",
+    "detected_by": [
+      "metformin_renal"
+    ],
+    "expected_doc_ids": [
+      "ckd-02",
+      "ckd-01",
+      "ops-01"
+    ],
+    "story": "Kidney function fell steadily from 64 to 38 over three years. She is still on the full 2000 mg/day of metformin. CKD is on the problem list, but as stage 3a, from an older result.",
+    "signal": "Active metformin above 1000 mg/day while latest eGFR is below 45.",
+    "facts": {
+      "age": 71,
+      "risk_points": 13,
+      "risk_band": "high",
+      "latest_hba1c": {
+        "value": 7.3,
+        "date": "2026-10-22"
+      },
+      "latest_egfr": {
+        "value": 38,
+        "date": "2026-10-22"
+      },
+      "latest_bp": {
+        "value": "128/76",
+        "date": "2026-10-22"
+      },
+      "latest_lipid_panel": "2026-04-22"
+    }
+  },
+  {
+    "id": "C07",
+    "type": "lipid_panel_overdue",
+    "patient_id": "P026",
+    "detected_by": [
+      "lipid_overdue"
+    ],
+    "expected_doc_ids": [
+      "lip-01",
+      "scr-01"
+    ],
+    "story": "Treated hypertension, seen every six months, but his only lipid panel is about 6.5 years old. His risk score therefore rests on stale cholesterol values.",
+    "signal": "No lipid panel in the last 5 years.",
+    "facts": {
+      "age": 54,
+      "risk_points": 8,
+      "risk_band": "borderline",
+      "latest_hba1c": {
+        "value": 5.4,
+        "date": "2026-04-22"
+      },
+      "latest_egfr": {
+        "value": 89,
+        "date": "2026-10-22"
+      },
+      "latest_bp": {
+        "value": "124/78",
+        "date": "2026-10-22"
+      },
+      "latest_lipid_panel": "2020-05-02"
+    }
+  },
+  {
+    "id": "C08",
+    "type": "conflicting_diagnosis",
+    "patient_id": "P029",
+    "detected_by": [
+      "conflicting_diagnosis"
+    ],
+    "expected_doc_ids": [
+      "dq-01",
+      "dm-01"
+    ],
+    "story": "Type 2 diabetes is on the problem list, but every HbA1c and fasting glucose is normal and she takes no diabetes medicine. The notes say the code came from an outside record.",
+    "signal": "Active E11 diagnosis, every HbA1c < 5.7% and no diabetes medication.",
+    "facts": {
+      "age": 45,
+      "risk_points": 5,
+      "risk_band": "low",
+      "latest_hba1c": {
+        "value": 5.3,
+        "date": "2026-10-22"
+      },
+      "latest_egfr": {
+        "value": 100,
+        "date": "2026-10-22"
+      },
+      "latest_bp": {
+        "value": "115/72",
+        "date": "2026-10-22"
+      },
+      "latest_lipid_panel": "2026-04-22"
+    }
+  },
+  {
+    "id": "C09",
+    "type": "statin_declined",
+    "patient_id": "P033",
+    "detected_by": [
+      "statin_gap"
+    ],
+    "expected_doc_ids": [
+      "risk-01",
+      "lip-01",
+      "ops-02"
+    ],
+    "story": "High risk band and no statin, so the rule flags her exactly like P018. The notes record that she declined a statin twice. That is a documented decision, not an unnoticed gap.",
+    "signal": "Same structured signal as C05; the difference is only in the notes (data/corpus/notes/P033.md).",
+    "notes_only_fact": "Declined statin on two visits after discussion of risk.",
+    "facts": {
+      "age": 68,
+      "risk_points": 12,
+      "risk_band": "high",
+      "latest_hba1c": {
+        "value": 5.5,
+        "date": "2026-04-22"
+      },
+      "latest_egfr": {
+        "value": 77,
+        "date": "2026-10-22"
+      },
+      "latest_bp": {
+        "value": "136/82",
+        "date": "2026-10-22"
+      },
+      "latest_lipid_panel": "2026-04-22"
+    }
+  },
+  {
+    "id": "C10",
+    "type": "ckd_unrecorded",
+    "patient_id": "P040",
+    "detected_by": [
+      "ckd_unrecorded"
+    ],
+    "expected_doc_ids": [
+      "ckd-01",
+      "dq-01"
+    ],
+    "story": "eGFR has been between 52 and 58 for over two years and urine albumin is moderately raised, which meets the CKD definition (G3a A2). CKD is not on the problem list.",
+    "signal": "eGFR < 60 on results at least 90 days apart, with no active N18 diagnosis.",
+    "facts": {
+      "age": 66,
+      "risk_points": 9,
+      "risk_band": "intermediate",
+      "latest_hba1c": {
+        "value": 5.4,
+        "date": "2026-04-22"
+      },
+      "latest_egfr": {
+        "value": 52,
+        "date": "2026-10-22"
+      },
+      "latest_bp": {
+        "value": "126/78",
+        "date": "2026-10-22"
+      },
+      "latest_lipid_panel": "2026-04-22"
+    }
+  },
+  {
+    "id": "C11",
+    "type": "severe_bp",
+    "patient_id": "P044",
+    "detected_by": [
+      "severe_bp"
+    ],
+    "expected_doc_ids": [
+      "htn-03",
+      "ops-01"
+    ],
+    "story": "Well-controlled hypertension until the latest visit, which read 186/122. The note says she ran out of lisinopril five days earlier and has no symptoms, so this is urgency, not emergency.",
+    "signal": "Latest systolic >= 180 or diastolic >= 120.",
+    "notes_only_fact": "No symptoms of target-organ damage; missed lisinopril for 5 days.",
+    "facts": {
+      "age": 61,
+      "risk_points": 11,
+      "risk_band": "intermediate",
+      "latest_hba1c": {
+        "value": 5.4,
+        "date": "2026-04-22"
+      },
+      "latest_egfr": {
+        "value": 84,
+        "date": "2026-10-28"
+      },
+      "latest_bp": {
+        "value": "186/122",
+        "date": "2026-10-28"
+      },
+      "latest_lipid_panel": "2026-04-22"
+    }
+  },
+  {
+    "id": "C12",
+    "type": "family_history_in_notes",
+    "patient_id": "P047",
+    "detected_by": [],
+    "expected_doc_ids": [
+      "risk-01",
+      "lip-01"
+    ],
+    "story": "Structured data scores 11 points (intermediate). His notes record that his father had a heart attack at 48, which adds 1 point and moves him to the high band. No rule can see this.",
+    "signal": "Only found by reading the notes (data/corpus/notes/P047.md) and recalculating the score.",
+    "notes_only_fact": "Father had a myocardial infarction at age 48.",
+    "facts": {
+      "age": 61,
+      "risk_points": 11,
+      "risk_band": "intermediate",
+      "latest_hba1c": {
+        "value": 5.5,
+        "date": "2026-04-22"
+      },
+      "latest_egfr": {
+        "value": 86,
+        "date": "2026-10-22"
+      },
+      "latest_bp": {
+        "value": "144/88",
+        "date": "2026-10-22"
+      },
+      "latest_lipid_panel": "2026-04-22",
+      "risk_points_with_notes": 12,
+      "risk_band_with_notes": "high"
+    }
+  },
+  {
+    "id": "C13",
+    "type": "out_of_scope_orthopedic",
+    "patient_id": "P051",
+    "detected_by": [
+      "lipid_overdue"
+    ],
+    "expected_doc_ids": [
+      "scr-01",
+      "lip-01"
+    ],
+    "story": "A real record, shared by the patient for testing. A young adult recovering from left ACL reconstruction; every note is orthopaedic. The clinic holds no vitals, labs or prescriptions for him, and smoking status and family history are not recorded.",
+    "signal": "No lipid panel on record, so lipid_overdue fires. No risk score can be computed. Knee, rehab and NSAID questions are outside the protocols.",
+    "facts": {
+      "age": 29,
+      "risk_points": null,
+      "risk_band": null,
+      "not_recorded": [
+        "blood pressure",
+        "lipid panel",
+        "smoking status",
+        "family history"
+      ]
+    }
+  }
+]
