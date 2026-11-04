@@ -1,12 +1,19 @@
 import { Injectable } from '@nestjs/common';
 import { Pinecone, Index } from '@pinecone-database/pinecone';
 
-type VisitMetadata = { patientId: string; visitDate: string; text: string };
+type VisitMetadata = { patientId: string; text: string };
+type GuidelinesMetadata = {
+  docId: string;
+  audience: string;
+  title: string;
+  text: string;
+};
 
 @Injectable()
-export class PineconeService {
+export class VisitDBService {
   private readonly pc = new Pinecone(); // reads PINECONE_API_KEY
   private indexPromise?: Promise<Index<VisitMetadata>>;
+  private GuidelineIndexPromise?: Promise<Index<GuidelinesMetadata>>;
 
   // Creates the index once (no-op if it exists) and reuses it
   private getIndex() {
@@ -32,17 +39,16 @@ export class PineconeService {
     return this.indexPromise;
   }
 
-  async upsertVisits(visits: (VisitMetadata & { embedding: number[] })[]) {
+  async upsertPatients(visits: (VisitMetadata & { embedding: number[] })[]) {
     const index = await this.getIndex();
     for (let i = 0; i < visits.length; i += 100) {
       // batches of 100
       await index.upsert({
         records: visits.slice(i, i + 100).map((v) => ({
-          id: `${v.patientId}-${v.visitDate}`, // stable ID: re-ingest overwrites, no duplicates
+          id: v.patientId, // stable ID: re-ingest overwrites, no duplicates
           values: v.embedding,
           metadata: {
             patientId: v.patientId,
-            visitDate: v.visitDate,
             text: v.text,
           },
         })),

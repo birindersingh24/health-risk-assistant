@@ -1,27 +1,54 @@
 import { Controller, Get, Post, Query } from '@nestjs/common';
 import { CsvChunkService } from './csv-chunks.service.js';
-import { PineconeService } from '../vectorService.js';
+import { GuidelineDBService } from '../VectorService/guidelines-db.js';
+import { VisitDBService } from '../VectorService/visit-db.js';
 
 @Controller('csv-chunks')
 export class CsvChunkController {
   constructor(
     private readonly csvChunkService: CsvChunkService,
-    private readonly pineconeService: PineconeService,
+    private readonly guidelineDBService: GuidelineDBService,
+    private readonly visitDBService: VisitDBService,
   ) {}
 
-  @Post('insert')
+  @Post('guidelines-chunk')
+  async guidelinesChunkingAndEmbedding() {
+    try {
+      const chunks = await this.csvChunkService.createGuidelinesChunk();
+      const vectors = await this.csvChunkService.embeddingChunks(chunks);
+      await this.guidelineDBService.upsertGuidelines(
+        chunks.map((c, i) => ({ ...c, embedding: vectors[i] })),
+      );
+      return { message: 'Embeddings stored in DB', upserted: chunks.length };
+    } catch (err) {
+      console.error('Error in guidelinesChunkingAndEmbedding:', err);
+      throw err;
+    }
+  }
+
+  @Post('patient-chunk')
   async chunkingAndEmbedding() {
-    const chunks = await this.csvChunkService.createChunks();
+    const chunks = await this.csvChunkService.createPatientChunk();
     const vectors = await this.csvChunkService.embeddingChunks(chunks);
-    await this.pineconeService.upsertVisits(
+    await this.visitDBService.upsertPatients(
       chunks.map((c, i) => ({ ...c, embedding: vectors[i] })),
     );
     return { upserted: chunks.length };
   }
 
-  @Get('search')
-  async search(@Query('q') q: string, @Query('patientId') patientId?: string) {
-    const [vector] = await this.csvChunkService.embeddingChunks([{ text: q }]);
-    return this.pineconeService.search(vector, 5, patientId);
+  @Get('search-guidelines')
+  async search(
+    @Query('q') q: string,
+    @Query('diseaseTitle') diseaseTitle?: string,
+  ) {
+    try {
+      const [vector] = await this.csvChunkService.embeddingChunks([
+        { text: q },
+      ]);
+      return this.guidelineDBService.search(vector, 5, diseaseTitle);
+    } catch (err) {
+      console.error('Error in search:', err);
+      throw err;
+    }
   }
 }
