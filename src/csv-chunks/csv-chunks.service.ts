@@ -80,21 +80,31 @@ export class CsvChunkService {
     }
   }
 
-  async createPatientChunk(): Promise<{ patientId: string; text: string }[]> {
+  async createPatientChunk(): Promise<
+    {
+      patientId: string;
+      text: string;
+      patientName: string;
+      visitDate: string;
+    }[]
+  > {
     const folderPath = 'mocks/health/data/corpus/notes';
     let results: {
       patientId: string;
       text: string;
+      patientName: string;
+      visitDate: string;
     }[] = [];
     try {
       const files = await readdir(folderPath);
       let patientId = '';
+      let patientName = '';
+      let visitDate = '';
       for (const file of files) {
         const fullPath = path.join(folderPath, file);
         const rawMarkdown: string[] = fs
           .readFileSync(fullPath, 'utf8')
           .split('\n');
-        console.log(file);
 
         let rowList: string = '';
         for (const key in rawMarkdown) {
@@ -102,11 +112,34 @@ export class CsvChunkService {
             case '1':
               patientId = rawMarkdown[key];
               break;
+            case '3':
+              patientName = rawMarkdown[key].split(':')[1].trim();
+              break;
           }
-          rowList += `${key}: ${rawMarkdown[key]}, `;
+          if (rawMarkdown[key].startsWith('##')) {
+            if (rowList != '') {
+              results.push({
+                patientId,
+                patientName,
+                visitDate,
+                text: `patientName: ${patientName}, Visit Date: ${visitDate}, Text: ${rowList}`,
+              });
+            }
+            visitDate = rawMarkdown[key].split('·')[1].split('')[1].trim();
+            rowList = '';
+          } else if (Number(key) > 4) {
+            rowList += `${rawMarkdown[key]}, `;
+          }
+        }
+        if (rowList != '') {
+          results.push({
+            patientId,
+            patientName,
+            visitDate,
+            text: `patientName: ${patientName}, Visit Date: ${visitDate}, Text: ${rowList}`,
+          });
         }
         // console.log(results)
-        results.push({ patientId, text: rowList });
       }
       return results;
     } catch (error) {
@@ -167,15 +200,7 @@ export class CsvChunkService {
     }
   }
 
-  async searchLLM(
-    vector: number[],
-    query: string,
-  ): Promise<{
-    vector: number[];
-    llmResponse: string;
-    guidelineResults: any[];
-    patientResults: any[];
-  }> {
+  async searchLLM(vector: number[], query: string): Promise<string> {
     try {
       const guidelineResults = await this.guidelineDBService.search(vector, 5);
       const patientResults = await this.visitDBService.search(vector, 5);
@@ -207,15 +232,10 @@ export class CsvChunkService {
         throw Error(
           'LLM refused to answer the question. Please rephrase your query.',
         );
-      return {
-        vector: vector,
-        guidelineResults: guidelineResults,
-        patientResults: patientResults,
-        llmResponse: message.content
-          .filter((b): b is Anthropic.Beta.BetaTextBlock => b.type === 'text')
-          .map((b) => b.text)
-          .join(''),
-      };
+      return message.content
+        .filter((b): b is Anthropic.Beta.BetaTextBlock => b.type === 'text')
+        .map((b) => b.text)
+        .join('');
     } catch (error) {
       throw new Error(`Error occurred while searching LLM: ${error}`);
     }

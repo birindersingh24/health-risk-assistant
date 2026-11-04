@@ -1,7 +1,12 @@
 import { Injectable } from '@nestjs/common';
 import { Pinecone, Index } from '@pinecone-database/pinecone';
 
-type VisitMetadata = { patientId: string; text: string };
+type VisitMetadata = {
+  patientId: string;
+  text: string;
+  patientName: string;
+  visitDate: string;
+};
 type GuidelinesMetadata = {
   docId: string;
   audience: string;
@@ -50,6 +55,8 @@ export class VisitDBService {
           metadata: {
             patientId: v.patientId,
             text: v.text,
+            patientName: v.patientName,
+            visitDate: v.visitDate,
           },
         })),
       });
