@@ -51,4 +51,19 @@ export class CsvChunkController {
       throw err;
     }
   }
+
+  @Get('search-llm')
+  async searchLLM(
+    @Query('q') q: string
+  ) {
+    try {
+      const [vector] = await this.csvChunkService.embeddingChunks([
+        { text: q },
+      ]);
+      return this.csvChunkService.searchLLM(vector, q);
+    } catch (err) {
+      console.error('Error in search:', err);
+      throw err;
+    }
+  }
 }
